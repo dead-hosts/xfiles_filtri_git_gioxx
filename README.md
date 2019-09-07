@@ -1,9 +1,15 @@
-# About [repository-name]
+# About xfiles_filtri_git_gioxx
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Build Status](https://travis-ci.org/dead-hosts/xfiles_filtri_git_gioxx.svg?branch=master)](https://travis-ci.org/dead-hosts/xfiles_filtri_git_gioxx)
 
 ```
-[description]
+! Title: ABP X Files
+! X Files migliora la tua navigazione quotidiana!
+! Expires: 5 days
+! Homepage: https://xfiles.noads.it
+! Home: https://xfiles.noads.it
+! Blog: https://gioxx.org/tag/abpxfiles
+! Hosting lista: GitHub.com
 ```
 
 --------------------------------------------------------------------------------
