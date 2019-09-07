@@ -1,6 +1,8 @@
 {
     "currently_under_test": false,
-    "custom_pyfunceble_config": {},
+    "custom_pyfunceble_config": {
+        "adblock": True
+    },
     "days_until_next_test": 2,
     "name": "dead-hosts/xfiles_filtri_git_gioxx",
     "own_management": false,
