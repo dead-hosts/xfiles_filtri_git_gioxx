@@ -25,7 +25,6 @@
             "rad.msn.com": "INACTIVE",
             "s.ad125m.com": "INACTIVE",
             "s1vipboxsportsapp.maynemyltf.netdna-cdn.com": "INACTIVE",
-            "securepubads.g.doubleclick.net": "INACTIVE",
             "y-flickr.yahoo.com": "INACTIVE",
             "zlothonline.info": "INACTIVE"
         },
@@ -81,7 +80,19 @@
             "rainews24.rai.it": "INACTIVE",
             "raisport.rai.it": "INACTIVE",
             "rapidshare.megapid.com": "INACTIVE",
-            "reytv.co": "INACTIVE"
+            "reytv.co": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE",
+            "servingclks.com": "INACTIVE",
+            "simple-files.info": "INACTIVE",
+            "sitejunction.awardspace.com": "INACTIVE",
+            "sms-mmm.com": "INACTIVE",
+            "sportodin.com": "INACTIVE",
+            "thetimingsystem.net": "INACTIVE",
+            "trktrk.pw": "INACTIVE",
+            "tubemy.info": "INACTIVE",
+            "videoboxs1.dnshosting.it": "INACTIVE",
+            "vkoad.com": "INACTIVE",
+            "wowcast.tv": "INACTIVE"
         }
     }
 }
