@@ -28,9 +28,7 @@
             "y-flickr.yahoo.com": "INACTIVE",
             "zlothonline.info": "INACTIVE"
         },
-        "1568629366": {
-            "wowcast.tv": "INACTIVE"
-        },
+        "1568629366": {},
         "1568801963": {
             "9c1f917.se": "INACTIVE",
             "adclick.g.doubleclick.net": "INACTIVE",
@@ -95,7 +93,8 @@
             "trktrk.pw": "INACTIVE",
             "tubemy.info": "INACTIVE",
             "videoboxs1.dnshosting.it": "INACTIVE",
-            "vkoad.com": "INACTIVE"
+            "vkoad.com": "INACTIVE",
+            "wowcast.tv": "INACTIVE"
         }
     }
 }
