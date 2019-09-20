@@ -5107,7 +5107,7 @@
     "vnews24.it": {
         "epoch": 1568937600,
         "expiration_date": "20-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "w3schools.com": {
         "epoch": 1742515200,
