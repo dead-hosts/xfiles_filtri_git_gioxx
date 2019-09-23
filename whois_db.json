@@ -3584,6 +3584,11 @@
         "expiration_date": "02-may-2020",
         "state": "future"
     },
+    "petri.co.il": {
+        "epoch": 1623888000,
+        "expiration_date": "17-jun-2021",
+        "state": "future"
+    },
     "pexels.com": {
         "epoch": 1589500800,
         "expiration_date": "15-may-2020",
@@ -3997,7 +4002,7 @@
     "rumors.it": {
         "epoch": 1569196800,
         "expiration_date": "23-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "rumorscity.com": {
         "epoch": 1594339200,
@@ -4015,8 +4020,8 @@
         "state": "future"
     },
     "saggiamente.com": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "salepepe.it": {
@@ -4090,9 +4095,9 @@
         "state": "future"
     },
     "serviziopubblico.it": {
-        "epoch": 1567641600,
-        "expiration_date": "05-sep-2019",
-        "state": "past"
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
     },
     "sex-flow.com": {
         "epoch": 1582502400,
