@@ -3130,9 +3130,9 @@
         "state": "future"
     },
     "moto.it": {
-        "epoch": 1568246400,
-        "expiration_date": "12-sep-2019",
-        "state": "past"
+        "epoch": 1599868800,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
     },
     "motogp.com": {
         "epoch": 1597881600,
@@ -3670,9 +3670,9 @@
         "state": "future"
     },
     "pmi.it": {
-        "epoch": 1568419200,
-        "expiration_date": "14-sep-2019",
-        "state": "past"
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
     },
     "pocketgamer.co.uk": {
         "epoch": 1627430400,
@@ -5170,9 +5170,9 @@
         "state": "future"
     },
     "webnews.it": {
-        "epoch": 1568419200,
-        "expiration_date": "14-sep-2019",
-        "state": "past"
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
     },
     "weborama.fr": {
         "epoch": 1604016000,
@@ -5317,7 +5317,7 @@
     "xviralex.com": {
         "epoch": 1569801600,
         "expiration_date": "30-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "yabidos.com": {
         "epoch": 1595030400,
