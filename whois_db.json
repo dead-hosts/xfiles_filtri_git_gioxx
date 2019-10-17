@@ -240,8 +240,8 @@
         "state": "future"
     },
     "aflrm.com": {
-        "epoch": 1569974400,
-        "expiration_date": "02-oct-2019",
+        "epoch": 1601596800,
+        "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "agar.io": {
@@ -495,8 +495,8 @@
         "state": "future"
     },
     "avaxhome.ws": {
-        "epoch": 1571184000,
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "avaxsearch.com": {
@@ -685,8 +685,8 @@
         "state": "future"
     },
     "breathecast.com": {
-        "epoch": 1569974400,
-        "expiration_date": "02-oct-2019",
+        "epoch": 1601596800,
+        "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "bresciaoggi.it": {
@@ -712,7 +712,7 @@
     "buonicoupon.it": {
         "epoch": 1570233600,
         "expiration_date": "05-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "businessmagazine.it": {
         "epoch": 1573430400,
@@ -735,8 +735,8 @@
         "state": "future"
     },
     "calciomercato.com": {
-        "epoch": 1570838400,
-        "expiration_date": "12-oct-2019",
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "calcionapoli24.it": {
@@ -1140,9 +1140,9 @@
         "state": "future"
     },
     "diarioinenglish.com": {
-        "epoch": 1563148800,
-        "expiration_date": "15-jul-2019",
-        "state": "past"
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
     },
     "digital-sat.it": {
         "epoch": 1592697600,
@@ -1230,8 +1230,8 @@
         "state": "future"
     },
     "downloatransfer.com": {
-        "epoch": 1570665600,
-        "expiration_date": "10-oct-2019",
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "dphoneworld.net": {
@@ -1267,7 +1267,7 @@
     "ebay.it": {
         "epoch": 1570579200,
         "expiration_date": "09-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "eclkspbn.com": {
         "epoch": 1592179200,
@@ -1370,8 +1370,8 @@
         "state": "future"
     },
     "estense.com": {
-        "epoch": 1570233600,
-        "expiration_date": "05-oct-2019",
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "eurogamer.it": {
@@ -1440,8 +1440,8 @@
         "state": "future"
     },
     "fantagazzetta.com": {
-        "epoch": 1570320000,
-        "expiration_date": "06-oct-2019",
+        "epoch": 1601942400,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "fantom-xp.com": {
@@ -1800,8 +1800,8 @@
         "state": "future"
     },
     "gickr.com": {
-        "epoch": 1570838400,
-        "expiration_date": "12-oct-2019",
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "gifts.com": {
@@ -1910,8 +1910,8 @@
         "state": "future"
     },
     "guardaserie.net": {
-        "epoch": 1570752000,
-        "expiration_date": "11-oct-2019",
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "guardian.co.uk": {
@@ -2062,7 +2062,7 @@
     "ibasblog.it": {
         "epoch": 1570665600,
         "expiration_date": "10-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "ibtimes.co.uk": {
         "epoch": 1709856000,
@@ -2260,8 +2260,8 @@
         "state": "future"
     },
     "infopart.org": {
-        "epoch": 1570060800,
-        "expiration_date": "03-oct-2019",
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "informarexresistere.fr": {
@@ -2405,8 +2405,8 @@
         "state": "future"
     },
     "itpro.co.uk": {
-        "epoch": 1570320000,
-        "expiration_date": "06-oct-2019",
+        "epoch": 1601942400,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "itproportal.com": {
@@ -2422,7 +2422,7 @@
     "ivid.it": {
         "epoch": 1570233600,
         "expiration_date": "05-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "izismile.com": {
         "epoch": 1615161600,
@@ -2485,9 +2485,9 @@
         "state": "future"
     },
     "katproxy.com": {
-        "epoch": 1564099200,
-        "expiration_date": "26-jul-2019",
-        "state": "past"
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
     },
     "keepvid.com": {
         "epoch": 1646611200,
@@ -2620,9 +2620,9 @@
         "state": "future"
     },
     "leggo.it": {
-        "epoch": 1569196800,
-        "expiration_date": "23-sep-2019",
-        "state": "past"
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
     },
     "leitv.it": {
         "epoch": 1571529600,
@@ -2730,9 +2730,9 @@
         "state": "future"
     },
     "livesicilia.it": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
-        "state": "past"
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
     },
     "livevss.net": {
         "epoch": 1598400000,
@@ -3070,8 +3070,8 @@
         "state": "future"
     },
     "missilehugger.com": {
-        "epoch": 1570752000,
-        "expiration_date": "11-oct-2019",
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "mitula.it": {
@@ -3195,9 +3195,9 @@
         "state": "future"
     },
     "mybest.it": {
-        "epoch": 1569283200,
-        "expiration_date": "24-sep-2019",
-        "state": "past"
+        "epoch": 1600905600,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
     },
     "mydallaspost.com": {
         "epoch": 1600992000,
@@ -3397,7 +3397,7 @@
     "ollo.it": {
         "epoch": 1571270400,
         "expiration_date": "17-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "oltreuomo.com": {
         "epoch": 1583971200,
@@ -3449,6 +3449,11 @@
         "expiration_date": "28-oct-2019",
         "state": "future"
     },
+    "open.online": {
+        "epoch": 1572048000,
+        "expiration_date": "26-oct-2019",
+        "state": "future"
+    },
     "opendns.com": {
         "epoch": 1599177600,
         "expiration_date": "04-sep-2020",
@@ -3475,8 +3480,8 @@
         "state": "future"
     },
     "outcast.it": {
-        "epoch": 1569974400,
-        "expiration_date": "02-oct-2019",
+        "epoch": 1601596800,
+        "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "overclock.net": {
@@ -3510,8 +3515,8 @@
         "state": "future"
     },
     "parliamodivideogiochi.it": {
-        "epoch": 1569888000,
-        "expiration_date": "01-oct-2019",
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "parmatoday.it": {
@@ -3915,9 +3920,9 @@
         "state": "future"
     },
     "realtimetv.it": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
-        "state": "past"
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
     },
     "reddit.com": {
         "epoch": 1588118400,
@@ -3977,7 +3982,7 @@
     "robertoiacono.it": {
         "epoch": 1570579200,
         "expiration_date": "09-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "robotchicken.com": {
         "epoch": 1584316800,
@@ -4000,9 +4005,9 @@
         "state": "future"
     },
     "rumors.it": {
-        "epoch": 1569196800,
-        "expiration_date": "23-sep-2019",
-        "state": "past"
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
     },
     "rumorscity.com": {
         "epoch": 1594339200,
@@ -4045,8 +4050,8 @@
         "state": "future"
     },
     "sciencerecorder.com": {
-        "epoch": 1571097600,
-        "expiration_date": "15-oct-2019",
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "scorecardresearch.com": {
