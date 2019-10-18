@@ -1105,8 +1105,8 @@
         "state": "future"
     },
     "dduniverse.net": {
-        "epoch": 1571356800,
-        "expiration_date": "18-oct-2019",
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "ddunlimited.net": {
@@ -1887,7 +1887,7 @@
     "gqitalia.it": {
         "epoch": 1571356800,
         "expiration_date": "18-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "graphberry.com": {
         "epoch": 1596844800,
@@ -2924,6 +2924,11 @@
         "expiration_date": "27-apr-2020",
         "state": "future"
     },
+    "mbnews.it": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
     "mbta.com": {
         "epoch": 1596585600,
         "expiration_date": "05-aug-2020",
@@ -3032,6 +3037,11 @@
     "milanodabere.it": {
         "epoch": 1598659200,
         "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
+    "milanolife.it": {
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
         "state": "future"
     },
     "milanotoday.it": {
@@ -3465,8 +3475,8 @@
         "state": "future"
     },
     "orbitdownloader.com": {
-        "epoch": 1571356800,
-        "expiration_date": "18-oct-2019",
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "orizzontescuola.it": {
@@ -4390,8 +4400,8 @@
         "state": "future"
     },
     "taggify.net": {
-        "epoch": 1571356800,
-        "expiration_date": "18-oct-2019",
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "tantifilm.tv": {
