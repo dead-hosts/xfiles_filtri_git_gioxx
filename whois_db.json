@@ -1029,6 +1029,11 @@
         "expiration_date": "24-may-2020",
         "state": "future"
     },
+    "ctrl.blog": {
+        "epoch": 1642896000,
+        "expiration_date": "23-jan-2022",
+        "state": "future"
+    },
     "cuckolditaliani.com": {
         "epoch": 1571529600,
         "expiration_date": "20-oct-2019",
