@@ -15,8 +15,8 @@
         "state": "future"
     },
     "1050talk.com": {
-        "epoch": 1571702400,
-        "expiration_date": "22-oct-2019",
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "10fbb07a4b0.se": {
@@ -515,8 +515,8 @@
         "state": "future"
     },
     "awfuladvertisements.com": {
-        "epoch": 1571702400,
-        "expiration_date": "22-oct-2019",
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "axa-assistance.it": {
@@ -3755,9 +3755,9 @@
         "state": "future"
     },
     "printitgreen.com": {
-        "epoch": 1571616000,
-        "expiration_date": "21-oct-2019",
-        "state": "past"
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
     },
     "profitin1minute.com": {
         "epoch": 1574985600,
