@@ -212,7 +212,7 @@
     "adverkeyz.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "advertising.com": {
         "epoch": 1641254400,
@@ -832,7 +832,7 @@
     "cittaceleste.it": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "classifichemusica.com": {
         "epoch": 1576195200,
@@ -1690,8 +1690,8 @@
         "state": "future"
     },
     "fruji.com": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "ft.com": {
@@ -2652,7 +2652,7 @@
     "liberoquotidiano.it": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "libertychampion.com": {
         "epoch": 1580256000,
@@ -3305,14 +3305,14 @@
         "state": "future"
     },
     "nexac.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "nextlnk1.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "nextwindows.ru": {
         "epoch": 1576195200,
@@ -3560,8 +3560,8 @@
         "state": "future"
     },
     "pcadvisor.co.uk": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "pclicious.com": {
