@@ -605,9 +605,9 @@
         "state": "future"
     },
     "bitchyf.it": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
-        "state": "past"
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
+        "state": "future"
     },
     "bitcity.it": {
         "epoch": 1586563200,
@@ -1130,8 +1130,8 @@
         "state": "future"
     },
     "depositfiles.com": {
-        "epoch": 1572912000,
-        "expiration_date": "05-nov-2019",
+        "epoch": 1604534400,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "deviantart.com": {
@@ -1349,10 +1349,15 @@
         "expiration_date": "06-dec-2019",
         "state": "future"
     },
+    "enjoysharepoint.com": {
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
     "enterpriseios.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
-        "state": "past"
+        "epoch": 1667520000,
+        "expiration_date": "04-nov-2022",
+        "state": "future"
     },
     "eplaza.it": {
         "epoch": 1579392000,
@@ -1477,6 +1482,11 @@
     "fattoincasadabenedetta.it": {
         "epoch": 1599004800,
         "expiration_date": "02-sep-2020",
+        "state": "future"
+    },
+    "favicon-generator.org": {
+        "epoch": 1579132800,
+        "expiration_date": "16-jan-2020",
         "state": "future"
     },
     "faxalo.it": {
@@ -1954,6 +1964,11 @@
         "expiration_date": "22-nov-2019",
         "state": "future"
     },
+    "hardreset.info": {
+        "epoch": 1591056000,
+        "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
     "hattrick.org": {
         "epoch": 1618272000,
         "expiration_date": "13-apr-2021",
@@ -2080,8 +2095,8 @@
         "state": "future"
     },
     "iconspedia.com": {
-        "epoch": 1572998400,
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "idealista.it": {
@@ -2630,9 +2645,9 @@
         "state": "future"
     },
     "leitv.it": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
-        "state": "past"
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
+        "state": "future"
     },
     "letitbit.net": {
         "epoch": 1591401600,
@@ -3162,7 +3177,7 @@
     "mrwebmaster.it": {
         "epoch": 1572912000,
         "expiration_date": "05-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "msexchange.org": {
         "epoch": 1588204800,
@@ -5264,6 +5279,11 @@
         "expiration_date": "07-jan-2020",
         "state": "future"
     },
+    "winhelponline.com": {
+        "epoch": 1717372800,
+        "expiration_date": "03-jun-2024",
+        "state": "future"
+    },
     "winscp.net": {
         "epoch": 1581292800,
         "expiration_date": "10-feb-2020",
@@ -5315,8 +5335,8 @@
         "state": "future"
     },
     "xboxdvr.com": {
-        "epoch": 1572912000,
-        "expiration_date": "05-nov-2019",
+        "epoch": 1604534400,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "xboxway.com": {
