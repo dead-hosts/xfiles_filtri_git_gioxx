@@ -4,18 +4,18 @@
         "adblock": true
     },
     "days_until_next_test": 2.0,
-    "finish_datetime": "2019-11-07T11:13:07.729354",
-    "finish_timestamp": 1573125187.729354,
-    "last_download_datetime": "2019-11-07T11:03:49.674380",
-    "last_download_timestamp": 1573124629.67438,
-    "latest_part_finish_datetime": "2019-11-07T11:13:07.729354",
-    "latest_part_finish_timestamp": 1573125187.729354,
-    "latest_part_start_datetime": "2019-11-07T11:03:49.768907",
-    "latest_part_start_timestamp": 1573124629.768907,
+    "finish_datetime": "2019-11-09T11:11:06.730622",
+    "finish_timestamp": 1573297866.730622,
+    "last_download_datetime": "2019-11-09T11:01:48.207544",
+    "last_download_timestamp": 1573297308.207544,
+    "latest_part_finish_datetime": "2019-11-09T11:11:06.730622",
+    "latest_part_finish_timestamp": 1573297866.730622,
+    "latest_part_start_datetime": "2019-11-09T11:01:48.899399",
+    "latest_part_start_timestamp": 1573297308.899399,
     "name": "xfiles_filtri_git_gioxx",
     "own_management": false,
     "ping": [],
     "raw_link": "https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt",
-    "start_datetime": "2019-11-07T11:03:49.764381",
-    "start_timestamp": 1573124629.764381
+    "start_datetime": "2019-11-09T11:01:48.895580",
+    "start_timestamp": 1573297308.89558
 }
