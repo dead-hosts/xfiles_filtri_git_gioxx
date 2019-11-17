@@ -365,9 +365,9 @@
         "state": "future"
     },
     "androidpit.it": {
-        "epoch": 1572134400.0,
-        "expiration_date": "27-oct-2019",
-        "state": "past"
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
     },
     "androidworld.it": {
         "epoch": 1578873600.0,
@@ -445,8 +445,8 @@
         "state": "future"
     },
     "ashleymadison.com": {
-        "epoch": 1573603200.0,
-        "expiration_date": "13-nov-2019",
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
         "state": "future"
     },
     "askstudent.com": {
@@ -830,9 +830,9 @@
         "state": "future"
     },
     "cittaceleste.it": {
-        "epoch": 1572393600.0,
-        "expiration_date": "30-oct-2019",
-        "state": "past"
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "classifichemusica.com": {
         "epoch": 1576195200.0,
@@ -945,8 +945,8 @@
         "state": "future"
     },
     "compgroups.net": {
-        "epoch": 1573603200.0,
-        "expiration_date": "13-nov-2019",
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
         "state": "future"
     },
     "computerandvideogames.com": {
@@ -955,8 +955,8 @@
         "state": "future"
     },
     "computerworld.com": {
-        "epoch": 1573689600.0,
-        "expiration_date": "14-nov-2019",
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
         "state": "future"
     },
     "computing.net": {
@@ -1045,8 +1045,8 @@
         "state": "future"
     },
     "cupmagazine.com": {
-        "epoch": 1573862400.0,
-        "expiration_date": "16-nov-2019",
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
         "state": "future"
     },
     "curse.com": {
@@ -1180,8 +1180,8 @@
         "state": "future"
     },
     "direttastreaming.com": {
-        "epoch": 1573862400.0,
-        "expiration_date": "16-nov-2019",
+        "epoch": 1700092800.0,
+        "expiration_date": "16-nov-2023",
         "state": "future"
     },
     "dissapore.com": {
@@ -1792,7 +1792,7 @@
     "gazzettadiparma.it": {
         "epoch": 1573603200.0,
         "expiration_date": "13-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "geekissimo.com": {
         "epoch": 1605225600.0,
@@ -1895,8 +1895,8 @@
         "state": "future"
     },
     "gpone.com": {
-        "epoch": 1573776000.0,
-        "expiration_date": "15-nov-2019",
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "gqitalia.it": {
@@ -1950,8 +1950,8 @@
         "state": "future"
     },
     "gurustop.net": {
-        "epoch": 1573776000.0,
-        "expiration_date": "15-nov-2019",
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "h-online.com": {
@@ -2192,12 +2192,12 @@
     "ilsoftware.it": {
         "epoch": 1573603200.0,
         "expiration_date": "13-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "ilsole24ore.com": {
         "epoch": 1573948800.0,
         "expiration_date": "17-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "ilsussidiario.net": {
         "epoch": 1576713600.0,
@@ -2295,8 +2295,8 @@
         "state": "future"
     },
     "infoworld.com": {
-        "epoch": 1573516800.0,
-        "expiration_date": "12-nov-2019",
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "instantshift.com": {
@@ -2582,7 +2582,7 @@
     "laleggepertutti.it": {
         "epoch": 1573689600.0,
         "expiration_date": "14-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "laltranotizia.net": {
         "epoch": 1599609600.0,
@@ -2665,9 +2665,9 @@
         "state": "future"
     },
     "liberoquotidiano.it": {
-        "epoch": 1572393600.0,
-        "expiration_date": "30-oct-2019",
-        "state": "past"
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "libertychampion.com": {
         "epoch": 1580256000,
@@ -3155,8 +3155,8 @@
         "state": "future"
     },
     "motigo.com": {
-        "epoch": 1573776000.0,
-        "expiration_date": "15-nov-2019",
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "moto.it": {
@@ -3442,7 +3442,7 @@
     "omniauto.it": {
         "epoch": 1573516800.0,
         "expiration_date": "12-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "onclickads.net": {
         "epoch": 1591142400.0,
@@ -4517,7 +4517,7 @@
     "tecnoandroid.it": {
         "epoch": 1573776000.0,
         "expiration_date": "15-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "tecnobriciole.com": {
         "epoch": 1596153600.0,
@@ -4795,8 +4795,8 @@
         "state": "future"
     },
     "troyhunt.com": {
-        "epoch": 1573776000.0,
-        "expiration_date": "15-nov-2019",
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "trw12.com": {
@@ -5070,9 +5070,9 @@
         "state": "future"
     },
     "videogame.it": {
-        "epoch": 1572393600.0,
-        "expiration_date": "30-oct-2019",
-        "state": "past"
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "videogiochi.com": {
         "epoch": 1575417600.0,
@@ -5175,8 +5175,8 @@
         "state": "future"
     },
     "washingtonpost.com": {
-        "epoch": 1573516800.0,
-        "expiration_date": "12-nov-2019",
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "wccftech.com": {
