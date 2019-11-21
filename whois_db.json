@@ -1075,9 +1075,9 @@
         "state": "future"
     },
     "dailydot.com": {
-        "epoch": 1574121600.0,
-        "expiration_date": "19-nov-2019",
-        "state": "past"
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
     },
     "dailygame.net": {
         "epoch": 1598054400.0,
@@ -2860,8 +2860,8 @@
         "state": "future"
     },
     "madtrip.co": {
-        "epoch": 1574294400.0,
-        "expiration_date": "21-nov-2019",
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
         "state": "future"
     },
     "majorgeeks.com": {
@@ -3175,9 +3175,9 @@
         "state": "future"
     },
     "mrwebmaster.it": {
-        "epoch": 1572912000.0,
-        "expiration_date": "05-nov-2019",
-        "state": "past"
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "state": "future"
     },
     "msexchange.org": {
         "epoch": 1588204800.0,
@@ -4195,8 +4195,8 @@
         "state": "future"
     },
     "skypefun.net": {
-        "epoch": 1574208000.0,
-        "expiration_date": "20-nov-2019",
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "slidetomac.com": {
@@ -5465,8 +5465,8 @@
         "state": "future"
     },
     "zoomtv.me": {
-        "epoch": 1574208000.0,
-        "expiration_date": "20-nov-2019",
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "zootool.com": {
