@@ -47,7 +47,7 @@
     "2spaghi.it": {
         "epoch": 1574985600.0,
         "expiration_date": "29-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "32red.it": {
         "epoch": 1603756800.0,
@@ -1790,9 +1790,9 @@
         "state": "future"
     },
     "gazzettadiparma.it": {
-        "epoch": 1573603200.0,
-        "expiration_date": "13-nov-2019",
-        "state": "past"
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
+        "state": "future"
     },
     "geekissimo.com": {
         "epoch": 1605225600.0,
@@ -2190,9 +2190,9 @@
         "state": "future"
     },
     "ilsoftware.it": {
-        "epoch": 1573603200.0,
-        "expiration_date": "13-nov-2019",
-        "state": "past"
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
+        "state": "future"
     },
     "ilsole24ore.com": {
         "epoch": 1605571200.0,
@@ -3440,9 +3440,9 @@
         "state": "future"
     },
     "omniauto.it": {
-        "epoch": 1573516800.0,
-        "expiration_date": "12-nov-2019",
-        "state": "past"
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
+        "state": "future"
     },
     "onclickads.net": {
         "epoch": 1591142400.0,
