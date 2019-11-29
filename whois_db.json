@@ -492,7 +492,7 @@
     "autoscout24.it": {
         "epoch": 1574985600.0,
         "expiration_date": "29-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "avaxhome.ws": {
         "epoch": 1602806400.0,
@@ -1240,8 +1240,8 @@
         "state": "future"
     },
     "dphoneworld.net": {
-        "epoch": 1574985600.0,
-        "expiration_date": "29-nov-2019",
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "dreamcar.it": {
@@ -4047,7 +4047,7 @@
     "runtastic.com": {
         "epoch": 1574985600.0,
         "expiration_date": "29-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "s4egy.com": {
         "epoch": 1576108800.0,
