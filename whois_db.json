@@ -2362,7 +2362,7 @@
     "ipodrepublic.com": {
         "epoch": 1575072000.0,
         "expiration_date": "30-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "iptrace.in": {
         "epoch": 1582070400.0,
@@ -5127,7 +5127,7 @@
     "visibilmente.com": {
         "epoch": 1575072000.0,
         "expiration_date": "30-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "vitadasmartphone.it": {
         "epoch": 1598313600.0,
