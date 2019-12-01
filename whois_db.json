@@ -4045,9 +4045,9 @@
         "state": "future"
     },
     "runtastic.com": {
-        "epoch": 1574985600.0,
-        "expiration_date": "29-nov-2019",
-        "state": "past"
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
     },
     "s4egy.com": {
         "epoch": 1576108800.0,
@@ -4700,8 +4700,8 @@
         "state": "future"
     },
     "topstoreoffers.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "torntv-tvv.org": {
