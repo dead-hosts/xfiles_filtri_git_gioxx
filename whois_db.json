@@ -562,7 +562,7 @@
     "bergamonews.it": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "bet365.com": {
         "epoch": 1754265600.0,
@@ -2360,9 +2360,9 @@
         "state": "future"
     },
     "ipodrepublic.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
-        "state": "past"
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
     },
     "iptrace.in": {
         "epoch": 1582070400.0,
@@ -2700,8 +2700,8 @@
         "state": "future"
     },
     "linkbucks.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "linkedin.com": {
@@ -2972,7 +2972,7 @@
     "mediaset.it": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "medium.com": {
         "epoch": 1590451200.0,
@@ -3265,8 +3265,8 @@
         "state": "future"
     },
     "napolux.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
         "state": "future"
     },
     "navigaweb.net": {
@@ -3880,8 +3880,8 @@
         "state": "future"
     },
     "radiocompany.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "ragazzeinvendita.com": {
