@@ -3600,8 +3600,8 @@
         "state": "future"
     },
     "perfectgeeks.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "pes-patch.com": {
@@ -4415,8 +4415,8 @@
         "state": "future"
     },
     "tabletmag.com": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
         "state": "future"
     },
     "taggify.net": {
@@ -4935,9 +4935,9 @@
         "state": "future"
     },
     "universomamma.it": {
-        "epoch": 1573862400.0,
-        "expiration_date": "16-nov-2019",
-        "state": "past"
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
+        "state": "future"
     },
     "unvideoalgiorno.it": {
         "epoch": 1602288000.0,
@@ -5125,9 +5125,9 @@
         "state": "future"
     },
     "visibilmente.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
-        "state": "past"
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
     },
     "vitadasmartphone.it": {
         "epoch": 1598313600.0,
@@ -5195,9 +5195,9 @@
         "state": "future"
     },
     "webmasterpoint.org": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "webmonkey.com": {
         "epoch": 1584921600.0,
