@@ -3492,7 +3492,7 @@
     "opinioni.it": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "orbitdownloader.com": {
         "epoch": 1602979200.0,
