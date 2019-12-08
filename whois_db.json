@@ -790,8 +790,8 @@
         "state": "future"
     },
     "chandoo.org": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "channel4.com": {
@@ -3377,7 +3377,7 @@
     "notipedia.it": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "notizie.it": {
         "epoch": 1585094400.0,
