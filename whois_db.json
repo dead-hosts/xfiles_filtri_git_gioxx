@@ -290,8 +290,8 @@
         "state": "future"
     },
     "altadefinizione.bid": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "altadefinizione.tv": {
@@ -2327,7 +2327,7 @@
     "intoscana.it": {
         "epoch": 1576022400.0,
         "expiration_date": "11-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "intrage.it": {
         "epoch": 1580342400.0,
@@ -4500,8 +4500,8 @@
         "state": "future"
     },
     "techtimes.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "techtipsgeek.com": {
