@@ -2,7 +2,7 @@
     "01net.it": {
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "02blog.it": {
         "epoch": 1579392000.0,
@@ -45,9 +45,9 @@
         "state": "future"
     },
     "2spaghi.it": {
-        "epoch": 1574985600.0,
-        "expiration_date": "29-nov-2019",
-        "state": "past"
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
     },
     "32red.it": {
         "epoch": 1603756800.0,
@@ -522,7 +522,7 @@
     "axa-assistance.it": {
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "backin.net": {
         "epoch": 1583712000.0,
@@ -835,8 +835,8 @@
         "state": "future"
     },
     "classifichemusica.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "cliccalavoro.it": {
@@ -1502,7 +1502,7 @@
     "fcinternews.it": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "fcitalia.com": {
         "epoch": 1632528000.0,
@@ -2229,6 +2229,11 @@
         "expiration_date": "11-aug-2023",
         "state": "future"
     },
+    "imageshack.us": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "imdb.com": {
         "epoch": 1704326400.0,
         "expiration_date": "04-jan-2024",
@@ -2570,8 +2575,8 @@
         "state": "future"
     },
     "labnol.org": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "lacnews24.it": {
@@ -3340,8 +3345,8 @@
         "state": "future"
     },
     "nextwindows.ru": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "ninjamarketing.it": {
@@ -3432,7 +3437,7 @@
     "oknovara.it": {
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ollo.it": {
         "epoch": 1602892800.0,
@@ -3875,8 +3880,8 @@
         "state": "future"
     },
     "qwepw.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "r101.it": {
@@ -5115,8 +5120,8 @@
         "state": "future"
     },
     "vimeo.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "vipboxeu.co": {
