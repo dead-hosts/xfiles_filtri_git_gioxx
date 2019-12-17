@@ -560,9 +560,9 @@
         "state": "future"
     },
     "bergamonews.it": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "bet365.com": {
         "epoch": 1754265600.0,
@@ -927,7 +927,7 @@
     "comesiscrive.it": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "comingsoon.it": {
         "epoch": 1575590400.0,
@@ -2990,9 +2990,9 @@
         "state": "future"
     },
     "mediaset.it": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "medium.com": {
         "epoch": 1590451200.0,
@@ -3110,8 +3110,8 @@
         "state": "future"
     },
     "minoto-video.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "mioaffitto.it": {
