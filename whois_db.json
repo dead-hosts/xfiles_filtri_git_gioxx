@@ -92,7 +92,7 @@
     "6sicuro.it": {
         "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "7eer.net": {
         "epoch": 1580169600.0,
@@ -300,8 +300,8 @@
         "state": "future"
     },
     "altalex.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "alternativeto.net": {
@@ -1407,7 +1407,7 @@
     "everyeye.it": {
         "epoch": 1576886400.0,
         "expiration_date": "21-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "evomagazine.it": {
         "epoch": 1592352000.0,
@@ -1957,7 +1957,7 @@
     "guidamonaci.it": {
         "epoch": 1576886400.0,
         "expiration_date": "21-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "gurustop.net": {
         "epoch": 1605398400.0,
@@ -3375,8 +3375,8 @@
         "state": "future"
     },
     "nonsolocap.it": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1602633600.0,
+        "expiration_date": "14-oct-2020",
         "state": "future"
     },
     "notadisciplinare.it": {
@@ -3520,9 +3520,9 @@
         "state": "future"
     },
     "orizzontescuola.it": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
-        "state": "past"
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
     },
     "osxdaily.com": {
         "epoch": 1668556800.0,
