@@ -427,7 +427,7 @@
     "aranzulla.it": {
         "epoch": 1576886400.0,
         "expiration_date": "21-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "armorgames.com": {
         "epoch": 1664409600.0,
@@ -930,9 +930,9 @@
         "state": "past"
     },
     "comingsoon.it": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
-        "state": "past"
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
     },
     "commandwindows.com": {
         "epoch": 1713571200.0,
@@ -1345,9 +1345,9 @@
         "state": "future"
     },
     "engage.it": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
-        "state": "past"
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
     },
     "enjoysharepoint.com": {
         "epoch": 1599091200.0,
@@ -2310,8 +2310,8 @@
         "state": "future"
     },
     "informatblog.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "infoworld.com": {
@@ -3510,9 +3510,9 @@
         "state": "future"
     },
     "opinioni.it": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
-        "state": "past"
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
     },
     "orbitdownloader.com": {
         "epoch": 1602979200.0,
