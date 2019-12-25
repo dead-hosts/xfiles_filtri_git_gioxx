@@ -1555,9 +1555,9 @@
         "state": "future"
     },
     "filesonic.it": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
-        "state": "past"
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
     },
     "filestube.com": {
         "epoch": 1621728000.0,
@@ -3190,8 +3190,8 @@
         "state": "future"
     },
     "movshare.ag": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "mrwebmaster.it": {
@@ -3395,9 +3395,9 @@
         "state": "future"
     },
     "notipedia.it": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "notizie.it": {
         "epoch": 1585094400.0,
@@ -5060,9 +5060,9 @@
         "state": "future"
     },
     "vg247.it": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
-        "state": "past"
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
     },
     "viamichelin.it": {
         "epoch": 1580947200.0,
@@ -5265,8 +5265,8 @@
         "state": "future"
     },
     "winamp.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "windoweb.it": {
