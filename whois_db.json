@@ -170,8 +170,8 @@
         "state": "future"
     },
     "adnanny.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "adnetworkperformance.com": {
@@ -2345,9 +2345,9 @@
         "state": "future"
     },
     "intoscana.it": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
-        "state": "past"
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
     },
     "intrage.it": {
         "epoch": 1580342400.0,
@@ -5020,9 +5020,9 @@
         "state": "future"
     },
     "vanityfair.it": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
-        "state": "past"
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
     },
     "varese.net": {
         "epoch": 1592956800.0,
