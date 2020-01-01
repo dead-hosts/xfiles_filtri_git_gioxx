@@ -155,8 +155,8 @@
         "state": "future"
     },
     "adfclick1.com": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "adform.net": {
@@ -435,8 +435,8 @@
         "state": "future"
     },
     "arstechnica.com": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1640822400.0,
+        "expiration_date": "30-dec-2021",
         "state": "future"
     },
     "artribune.com": {
@@ -1630,8 +1630,8 @@
         "state": "future"
     },
     "flightradar24.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1735689600.0,
+        "expiration_date": "01-jan-2025",
         "state": "future"
     },
     "flycell.it": {
@@ -1875,8 +1875,8 @@
         "state": "future"
     },
     "goo.gl": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "gooble.info": {
@@ -1950,9 +1950,9 @@
         "state": "future"
     },
     "guidafisco.it": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
-        "state": "past"
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
+        "state": "future"
     },
     "guidamonaci.it": {
         "epoch": 1576886400.0,
@@ -4327,6 +4327,11 @@
     "soluzionibio.it": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
+        "state": "future"
+    },
+    "sondriotoday.it": {
+        "epoch": 1579046400.0,
+        "expiration_date": "15-jan-2020",
         "state": "future"
     },
     "sostariffe.it": {
