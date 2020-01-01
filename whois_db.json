@@ -1,8 +1,8 @@
 {
     "01net.it": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
-        "state": "past"
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
+        "state": "future"
     },
     "02blog.it": {
         "epoch": 1579392000.0,
@@ -520,9 +520,9 @@
         "state": "future"
     },
     "axa-assistance.it": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
-        "state": "past"
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
+        "state": "future"
     },
     "backin.net": {
         "epoch": 1583712000.0,
@@ -925,9 +925,9 @@
         "state": "future"
     },
     "comesiscrive.it": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
-        "state": "past"
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
     },
     "comingsoon.it": {
         "epoch": 1607212800.0,
@@ -1505,9 +1505,9 @@
         "state": "future"
     },
     "fcinternews.it": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
-        "state": "past"
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
     },
     "fcitalia.com": {
         "epoch": 1632528000.0,
@@ -3235,8 +3235,8 @@
         "state": "future"
     },
     "mutuok.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "my-personaltrainer.it": {
@@ -4952,7 +4952,7 @@
     "unita.it": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "universomamma.it": {
         "epoch": 1605484800.0,
