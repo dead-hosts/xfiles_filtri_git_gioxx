@@ -2705,8 +2705,8 @@
         "state": "future"
     },
     "ligatus.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1641772800.0,
+        "expiration_date": "10-jan-2022",
         "state": "future"
     },
     "liligo.it": {
@@ -4097,7 +4097,7 @@
     "sardiniapost.it": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "sciencerecorder.com": {
         "epoch": 1602720000,
@@ -5465,8 +5465,8 @@
         "state": "future"
     },
     "zedge.net": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "zedo.com": {
