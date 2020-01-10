@@ -135,8 +135,8 @@
         "state": "future"
     },
     "adbutler-meson.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1673222400.0,
+        "expiration_date": "09-jan-2023",
         "state": "future"
     },
     "adcash.com": {
@@ -2245,8 +2245,8 @@
         "state": "future"
     },
     "imgur.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "immobiliare.it": {
@@ -5300,9 +5300,9 @@
         "state": "future"
     },
     "windowsnetworking.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
-        "state": "past"
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
     },
     "winhelponline.com": {
         "epoch": 1717372800.0,
