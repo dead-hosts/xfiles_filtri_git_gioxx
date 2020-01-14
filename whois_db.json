@@ -372,7 +372,7 @@
     "androidworld.it": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "annuncicdn.it": {
         "epoch": 1587254400.0,
@@ -2190,9 +2190,9 @@
         "state": "future"
     },
     "ilquotidianodellazio.it": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
-        "state": "past"
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
     },
     "ilrestodelcarlino.it": {
         "epoch": 1595808000.0,
@@ -4710,9 +4710,9 @@
         "state": "future"
     },
     "today.it": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
-        "state": "past"
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
     },
     "tomsguide.com": {
         "epoch": 1596412800.0,
