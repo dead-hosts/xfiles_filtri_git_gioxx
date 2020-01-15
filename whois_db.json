@@ -3940,9 +3940,9 @@
         "state": "future"
     },
     "rapidvideo.tv": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
-        "state": "past"
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
     },
     "ravenna24ore.it": {
         "epoch": 1603670400.0,
