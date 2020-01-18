@@ -25,8 +25,10 @@
 0.0.0.0 a2pub.com
 0.0.0.0 aa.agkn.com
 0.0.0.0 abcnews.go.com
+0.0.0.0 acceptable.a-ads.com
 0.0.0.0 accuweather.com
 0.0.0.0 action.metaffiliation.com
+0.0.0.0 ad6media.fr
 0.0.0.0 adadvisor.net
 0.0.0.0 adbutler-meson.com
 0.0.0.0 adcash.com
@@ -64,6 +66,7 @@
 0.0.0.0 affaritaliani.it
 0.0.0.0 afftrack.com
 0.0.0.0 aflrm.com
+0.0.0.0 agar.io
 0.0.0.0 aggiustatutto.it
 0.0.0.0 agi.it
 0.0.0.0 agoravox.it
@@ -313,6 +316,7 @@
 0.0.0.0 dummies.com
 0.0.0.0 ebay.it
 0.0.0.0 eclkspbn.com
+0.0.0.0 economist.com
 0.0.0.0 edge-online.com
 0.0.0.0 edintorni.net
 0.0.0.0 edreams.it
@@ -327,12 +331,14 @@
 0.0.0.0 engadget.com
 0.0.0.0 engage.it
 0.0.0.0 engine.4dsply.com
+0.0.0.0 enjoysharepoint.com
 0.0.0.0 enterpriseios.com
 0.0.0.0 entilocali.umforumgratis.com
 0.0.0.0 eplaza.it
 0.0.0.0 eprice.it
 0.0.0.0 ertosatie.com
 0.0.0.0 esetnod32keys4free.com
+0.0.0.0 esquire.com
 0.0.0.0 estense.com
 0.0.0.0 eurogamer.it
 0.0.0.0 eurogamer.net
@@ -355,6 +361,7 @@
 0.0.0.0 fastvideo.me
 0.0.0.0 fastweb.it
 0.0.0.0 fattoincasadabenedetta.it
+0.0.0.0 favicon-generator.org
 0.0.0.0 fcinternews.it
 0.0.0.0 fcitalia.com
 0.0.0.0 feed.4wnet.com
@@ -438,6 +445,7 @@
 0.0.0.0 general-files.org
 0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 getemoji.com
+0.0.0.0 ghacks.net
 0.0.0.0 gickr.com
 0.0.0.0 gilsmethod.com
 0.0.0.0 giochi.tuttogratis.it
@@ -471,6 +479,7 @@
 0.0.0.0 gurustop.net
 0.0.0.0 h33t.com
 0.0.0.0 hackerspace.kinja.com
+0.0.0.0 hardreset.info
 0.0.0.0 hattrick.org
 0.0.0.0 hdblog.it
 0.0.0.0 headadmin.net
@@ -613,6 +622,7 @@
 0.0.0.0 lalaziosiamonoi.it
 0.0.0.0 laleggepertutti.it
 0.0.0.0 laltranotizia.net
+0.0.0.0 lansweeper.com
 0.0.0.0 laprovinciadicomo.it
 0.0.0.0 larena.it
 0.0.0.0 lastampa.it
@@ -765,6 +775,7 @@
 0.0.0.0 mp3tag.de
 0.0.0.0 m.prontoimprese.it
 0.0.0.0 m.quotidiano.net
+0.0.0.0 mrwebmaster.it
 0.0.0.0 msexchange.org
 0.0.0.0 msn.com
 0.0.0.0 msoutlook.info
@@ -817,6 +828,7 @@
 0.0.0.0 nytimes.com
 0.0.0.0 o365info.com
 0.0.0.0 offer.alibaba.com
+0.0.0.0 office365itpros.com
 0.0.0.0 oggitreviso.it
 0.0.0.0 ohnotheydidnt.livejournal.com
 0.0.0.0 oilproject.org
@@ -1005,6 +1017,7 @@
 0.0.0.0 smereghetti.com
 0.0.0.0 smiling.video
 0.0.0.0 snapfiles.com
+0.0.0.0 snazzyspace.com
 0.0.0.0 sociable.co
 0.0.0.0 softairmania.it
 0.0.0.0 softblog.it
@@ -1030,6 +1043,7 @@
 0.0.0.0 splitbrain.org
 0.0.0.0 sportmediaset.mediaset.it
 0.0.0.0 sport.sky.it
+0.0.0.0 sqlpowershell.blog
 0.0.0.0 stackoverflow.com
 0.0.0.0 start.io
 0.0.0.0 statcounter.com
@@ -1060,6 +1074,7 @@
 0.0.0.0 techcrunch.com
 0.0.0.0 techhive.com
 0.0.0.0 technet.microsoft.com
+0.0.0.0 techprincess.it
 0.0.0.0 techradar.com
 0.0.0.0 tech-recipes.com
 0.0.0.0 techrepublic.com
@@ -1111,6 +1126,7 @@
 0.0.0.0 torrentportal.com
 0.0.0.0 totallyphp.co.uk
 0.0.0.0 tpi.it
+0.0.0.0 track.effiliation.com
 0.0.0.0 tradeadexchange.com
 0.0.0.0 tradedoubler.com
 0.0.0.0 tradingsat.com
@@ -1129,6 +1145,7 @@
 0.0.0.0 tubeoffline.com
 0.0.0.0 tubeviral.com
 0.0.0.0 tumblr.com
+0.0.0.0 tunebat.com
 0.0.0.0 turbolab.it
 0.0.0.0 tuttoandroid.net
 0.0.0.0 tuttoannunci.org
@@ -1197,6 +1214,7 @@
 0.0.0.0 w3schools.com
 0.0.0.0 wagital.com
 0.0.0.0 walkonjob.it
+0.0.0.0 wall.alphacoders.com
 0.0.0.0 wallpaperswide.com
 0.0.0.0 warthunder.com
 0.0.0.0 washingtonpost.com
@@ -1213,6 +1231,7 @@
 0.0.0.0 widget.worldfilia.net
 0.0.0.0 wikia.com
 0.0.0.0 wiki.answers.com
+0.0.0.0 wikifeet.com
 0.0.0.0 wikihow.com
 0.0.0.0 williamhill.it
 0.0.0.0 winamp.com
@@ -1222,6 +1241,7 @@
 0.0.0.0 windowsitpro.com
 0.0.0.0 windowsnetworking.com
 0.0.0.0 windows-noob.com
+0.0.0.0 winhelponline.com
 0.0.0.0 winscp.net
 0.0.0.0 wired.com
 0.0.0.0 wired.it
