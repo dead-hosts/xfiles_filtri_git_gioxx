@@ -7,7 +7,7 @@
     "02blog.it": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "105.net": {
         "epoch": 1603756800.0,
@@ -1362,7 +1362,7 @@
     "eplaza.it": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "eprice.it": {
         "epoch": 1583107200.0,
@@ -2455,8 +2455,8 @@
         "state": "future"
     },
     "iusethis.com": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     },
     "ivid.it": {
@@ -2800,8 +2800,8 @@
         "state": "future"
     },
     "lolstatistics.com": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     },
     "lonelyplanetitalia.it": {
@@ -4327,7 +4327,7 @@
     "soluzionibio.it": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "sondriotoday.it": {
         "epoch": 1579046400.0,
@@ -5427,7 +5427,7 @@
     "youreporter.it": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "yourinspirationweb.com": {
         "epoch": 1588204800.0,
