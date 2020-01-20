@@ -275,8 +275,8 @@
         "state": "future"
     },
     "allkeyshop.com": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "allmyvideos.net": {
@@ -482,7 +482,7 @@
     "autoblog.it": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "automoto.it": {
         "epoch": 1607558400.0,
@@ -1087,7 +1087,7 @@
     "dailygreen.it": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "dailymail.co.uk": {
         "epoch": 1844812800.0,
@@ -1102,7 +1102,7 @@
     "dasolo.org": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "dday.it": {
         "epoch": 1594080000.0,
@@ -2560,8 +2560,8 @@
         "state": "future"
     },
     "kotaku.co.uk": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "krebsonsecurity.com": {
@@ -3130,9 +3130,9 @@
         "state": "future"
     },
     "miui.it": {
-        "epoch": 1578096000.0,
-        "expiration_date": "04-jan-2020",
-        "state": "past"
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
     },
     "mmosite.com": {
         "epoch": 1592352000.0,
@@ -4865,8 +4865,8 @@
         "state": "future"
     },
     "tuttoandroid.net": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "tuttoannunci.org": {
