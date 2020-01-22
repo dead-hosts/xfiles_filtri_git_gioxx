@@ -1895,8 +1895,8 @@
         "state": "future"
     },
     "googlesyndication.com": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "gottabemobile.com": {
@@ -2277,7 +2277,7 @@
     "incredibilia.it": {
         "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "independent.co.uk": {
         "epoch": 1580601600.0,
@@ -2572,7 +2572,7 @@
     "la7.it": {
         "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "labaia.ws": {
         "epoch": 1591747200.0,
@@ -4757,7 +4757,7 @@
     "totallyphp.co.uk": {
         "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "tpi.it": {
         "epoch": 1585958400.0,
