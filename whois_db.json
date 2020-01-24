@@ -552,7 +552,7 @@
     "bellaweb.it": {
         "epoch": 1579824000.0,
         "expiration_date": "24-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "beppegrillo.it": {
         "epoch": 1579737600.0,
@@ -1247,7 +1247,7 @@
     "dreamcar.it": {
         "epoch": 1579824000.0,
         "expiration_date": "24-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "droidviews.com": {
         "epoch": 1621814400.0,
@@ -4532,7 +4532,7 @@
     "techtipsgeek.com": {
         "epoch": 1579824000.0,
         "expiration_date": "24-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "techzilla.it": {
         "epoch": 1587254400.0,
