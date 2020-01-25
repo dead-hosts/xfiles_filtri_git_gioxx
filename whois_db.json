@@ -732,7 +732,7 @@
     "calcioblog.it": {
         "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "calciomercato.com": {
         "epoch": 1602460800.0,
@@ -822,7 +822,7 @@
     "cineblog.it": {
         "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "cintnetworks.com": {
         "epoch": 1584403200.0,
@@ -1232,7 +1232,7 @@
     "downloadblog.it": {
         "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "downloatransfer.com": {
         "epoch": 1602288000.0,
@@ -3357,7 +3357,7 @@
     "ninjamarketing.it": {
         "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "nintendolife.com": {
         "epoch": 1698537600.0,
@@ -3687,7 +3687,7 @@
     "pinkblog.it": {
         "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "pirateproxy.cc": {
         "epoch": 1608422400.0,
@@ -4095,9 +4095,9 @@
         "state": "future"
     },
     "sardiniapost.it": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
-        "state": "past"
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
+        "state": "future"
     },
     "sciencerecorder.com": {
         "epoch": 1602720000,
@@ -4342,7 +4342,7 @@
     "soundsblog.it": {
         "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "sourceforge.net": {
         "epoch": 1596844800.0,
@@ -4902,7 +4902,7 @@
     "tvblog.it": {
         "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "tvdream.net": {
         "epoch": 1631836800.0,
