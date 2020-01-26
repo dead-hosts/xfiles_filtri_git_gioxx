@@ -3262,7 +3262,7 @@
     "mynight.pl": {
         "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "mysalessystem.com": {
         "epoch": 1586044800.0,
@@ -3952,7 +3952,7 @@
     "ravennaedintorni.it": {
         "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "ravennanotizie.it": {
         "epoch": 1593043200.0,
@@ -4477,7 +4477,7 @@
     "techassistance.it": {
         "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "techcloudtrk.com": {
         "epoch": 1600905600.0,
@@ -5322,7 +5322,7 @@
     "wired.it": {
         "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "womensradio.com": {
         "epoch": 1705622400,
