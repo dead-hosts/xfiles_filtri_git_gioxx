@@ -3260,9 +3260,9 @@
         "state": "future"
     },
     "mynight.pl": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
-        "state": "past"
+        "epoch": 1582588800.0,
+        "expiration_date": "25-feb-2020",
+        "state": "future"
     },
     "mysalessystem.com": {
         "epoch": 1586044800.0,
