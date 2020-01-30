@@ -600,8 +600,8 @@
         "state": "future"
     },
     "bing.com": {
-        "epoch": 1580342400.0,
-        "expiration_date": "30-jan-2020",
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
         "state": "future"
     },
     "bitchyf.it": {
@@ -1677,7 +1677,7 @@
     "foxtv.it": {
         "epoch": 1580342400.0,
         "expiration_date": "30-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "franchiseherald.com": {
         "epoch": 1580515200.0,
@@ -2352,7 +2352,7 @@
     "intrage.it": {
         "epoch": 1580342400.0,
         "expiration_date": "30-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "investing.com": {
         "epoch": 1740355200.0,
@@ -3882,7 +3882,7 @@
     "quotidiano.net": {
         "epoch": 1580342400.0,
         "expiration_date": "30-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "qwepw.com": {
         "epoch": 1607817600.0,
@@ -4200,8 +4200,8 @@
         "state": "future"
     },
     "simply-hentai.com": {
-        "epoch": 1580342400.0,
-        "expiration_date": "30-jan-2020",
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
         "state": "future"
     },
     "sitepoint.com": {
