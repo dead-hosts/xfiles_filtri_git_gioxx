@@ -5,9 +5,9 @@
         "state": "future"
     },
     "02blog.it": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
-        "state": "past"
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
     },
     "105.net": {
         "epoch": 1603756800.0,
@@ -1360,9 +1360,9 @@
         "state": "future"
     },
     "eplaza.it": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
-        "state": "past"
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
     },
     "eprice.it": {
         "epoch": 1583107200.0,
@@ -2367,7 +2367,7 @@
     "iovadoalcinema.it": {
         "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "iovivoaroma.it": {
         "epoch": 1588982400.0,
@@ -3382,7 +3382,7 @@
     "notadisciplinare.it": {
         "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "notebookcheck.it": {
         "epoch": 1595548800.0,
@@ -3657,7 +3657,7 @@
     "phicatube.net": {
         "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "phonezoo.com": {
         "epoch": 1603065600,
@@ -5425,9 +5425,9 @@
         "state": "future"
     },
     "youreporter.it": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
-        "state": "past"
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
     },
     "yourinspirationweb.com": {
         "epoch": 1588204800.0,
