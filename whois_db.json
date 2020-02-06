@@ -577,7 +577,7 @@
     "bettingtradition.com": {
         "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "bgr.com": {
         "epoch": 1587427200.0,
@@ -1662,7 +1662,7 @@
     "forumfree.it": {
         "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "fosswire.com": {
         "epoch": 1602720000,
@@ -2570,9 +2570,9 @@
         "state": "future"
     },
     "la7.it": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
-        "state": "past"
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "state": "future"
     },
     "labaia.ws": {
         "epoch": 1591747200.0,
@@ -5072,7 +5072,7 @@
     "viamichelin.it": {
         "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "vice.com": {
         "epoch": 1873411200.0,
