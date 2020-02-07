@@ -3477,7 +3477,7 @@
     "ondarock.it": {
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "onesafe-software.com": {
         "epoch": 1585267200.0,
