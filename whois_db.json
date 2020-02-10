@@ -2492,7 +2492,7 @@
     "jobrapido.it": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "jooble.it": {
         "epoch": 1585353600.0,
@@ -3685,9 +3685,9 @@
         "state": "future"
     },
     "pinkblog.it": {
-        "epoch": 1579910400.0,
-        "expiration_date": "25-jan-2020",
-        "state": "past"
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "state": "future"
     },
     "pirateproxy.cc": {
         "epoch": 1608422400.0,
