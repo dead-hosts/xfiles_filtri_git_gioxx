@@ -1772,7 +1772,7 @@
     "gamer-network.net": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "games.it": {
         "epoch": 1592092800.0,
@@ -2005,8 +2005,8 @@
         "state": "future"
     },
     "hhourtrk2.com": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "hongkiat.com": {
@@ -3087,7 +3087,7 @@
     "milanotoday.it": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "milkandcookies.com": {
         "epoch": 1589328000,
@@ -3282,7 +3282,7 @@
     "napolitoday.it": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "napolux.com": {
         "epoch": 1638316800.0,
@@ -3372,7 +3372,7 @@
     "nolabnoparty.com": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "nonsolocap.it": {
         "epoch": 1602633600.0,
@@ -3950,9 +3950,9 @@
         "state": "future"
     },
     "ravennaedintorni.it": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
-        "state": "past"
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
+        "state": "future"
     },
     "ravennanotizie.it": {
         "epoch": 1593043200.0,
@@ -4047,7 +4047,7 @@
     "romatoday.it": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "roulettebotplus.com": {
         "epoch": 1607212800.0,
@@ -5320,9 +5320,9 @@
         "state": "future"
     },
     "wired.it": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
-        "state": "past"
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
+        "state": "future"
     },
     "womensradio.com": {
         "epoch": 1705622400,
