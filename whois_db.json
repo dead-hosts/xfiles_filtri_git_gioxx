@@ -677,7 +677,7 @@
     "bravo-dog.com": {
         "epoch": 1581552000.0,
         "expiration_date": "13-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "breaknotizie.com": {
         "epoch": 1603411200.0,
@@ -1695,8 +1695,8 @@
         "state": "future"
     },
     "freeroms.com": {
-        "epoch": 1581552000.0,
-        "expiration_date": "13-feb-2020",
+        "epoch": 1739404800.0,
+        "expiration_date": "13-feb-2025",
         "state": "future"
     },
     "freewebcams.com": {
