@@ -1675,9 +1675,9 @@
         "state": "future"
     },
     "foxtv.it": {
-        "epoch": 1580342400.0,
-        "expiration_date": "30-jan-2020",
-        "state": "past"
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
+        "state": "future"
     },
     "franchiseherald.com": {
         "epoch": 1580515200.0,
@@ -2350,9 +2350,9 @@
         "state": "future"
     },
     "intrage.it": {
-        "epoch": 1580342400.0,
-        "expiration_date": "30-jan-2020",
-        "state": "past"
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
+        "state": "future"
     },
     "investing.com": {
         "epoch": 1740355200.0,
@@ -2470,8 +2470,8 @@
         "state": "future"
     },
     "j.gs": {
-        "epoch": 1581724800.0,
-        "expiration_date": "15-feb-2020",
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "jamendo.com": {
@@ -3710,8 +3710,8 @@
         "state": "future"
     },
     "playboy.com": {
-        "epoch": 1581724800.0,
-        "expiration_date": "15-feb-2020",
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "playstationbit.com": {
@@ -4755,9 +4755,9 @@
         "state": "future"
     },
     "totallyphp.co.uk": {
-        "epoch": 1579651200.0,
-        "expiration_date": "22-jan-2020",
-        "state": "past"
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
+        "state": "future"
     },
     "tpi.it": {
         "epoch": 1585958400.0,
@@ -4912,7 +4912,7 @@
     "twenga.it": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "twitch.tv": {
         "epoch": 1717804800,
