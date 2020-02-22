@@ -1177,7 +1177,7 @@
     "diretta.it": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "direttastreaming.com": {
         "epoch": 1700092800.0,
@@ -1660,9 +1660,9 @@
         "state": "future"
     },
     "forumfree.it": {
-        "epoch": 1580947200.0,
-        "expiration_date": "06-feb-2020",
-        "state": "past"
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "state": "future"
     },
     "fosswire.com": {
         "epoch": 1602720000,
@@ -4567,7 +4567,7 @@
     "televisionando.it": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "terraclicks.com": {
         "epoch": 1586822400.0,
@@ -4952,7 +4952,7 @@
     "unilibro.it": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "unita.it": {
         "epoch": 1609459200.0,
@@ -5070,9 +5070,9 @@
         "state": "future"
     },
     "viamichelin.it": {
-        "epoch": 1580947200.0,
-        "expiration_date": "06-feb-2020",
-        "state": "past"
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "state": "future"
     },
     "vice.com": {
         "epoch": 1873411200.0,
