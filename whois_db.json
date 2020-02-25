@@ -260,9 +260,9 @@
         "state": "future"
     },
     "agoravox.it": {
-        "epoch": 1581206400.0,
-        "expiration_date": "09-feb-2020",
-        "state": "past"
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "state": "future"
     },
     "alfemminile.com": {
         "epoch": 1604534400.0,
@@ -3262,7 +3262,7 @@
     "mynight.pl": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "mysalessystem.com": {
         "epoch": 1586044800.0,
@@ -4370,8 +4370,8 @@
         "state": "future"
     },
     "spiceworks.com": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "splitbrain.org": {
