@@ -2490,9 +2490,9 @@
         "state": "future"
     },
     "jobrapido.it": {
-        "epoch": 1581292800.0,
-        "expiration_date": "10-feb-2020",
-        "state": "past"
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
+        "state": "future"
     },
     "jooble.it": {
         "epoch": 1585353600.0,
@@ -5007,7 +5007,7 @@
     "v1n7c.com": {
         "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "valdinievoleoggi.it": {
         "epoch": 1605657600.0,
