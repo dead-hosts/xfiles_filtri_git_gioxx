@@ -2765,9 +2765,9 @@
         "state": "future"
     },
     "livenation.it": {
-        "epoch": 1580515200.0,
-        "expiration_date": "01-feb-2020",
-        "state": "past"
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
+        "state": "future"
     },
     "livesicilia.it": {
         "epoch": 1600128000.0,
