@@ -1257,7 +1257,7 @@
     "ducati.it": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "dummies.com": {
         "epoch": 1639699200.0,
@@ -3085,9 +3085,9 @@
         "state": "future"
     },
     "milanotoday.it": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
-        "state": "past"
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
     },
     "milkandcookies.com": {
         "epoch": 1589328000,
@@ -3280,9 +3280,9 @@
         "state": "future"
     },
     "napolitoday.it": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
-        "state": "past"
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
     },
     "napolux.com": {
         "epoch": 1638316800.0,
@@ -4045,9 +4045,9 @@
         "state": "future"
     },
     "romatoday.it": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
-        "state": "past"
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
     },
     "roulettebotplus.com": {
         "epoch": 1607212800.0,
