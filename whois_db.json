@@ -382,7 +382,7 @@
     "ansa.it": {
         "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "aol.com": {
         "epoch": 1637625600,
@@ -3032,7 +3032,7 @@
     "mellowads.com": {
         "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "mentelocale.it": {
         "epoch": 1591747200.0,
