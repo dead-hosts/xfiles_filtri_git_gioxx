@@ -507,7 +507,7 @@
     "avvenire.it": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "avvocati.it": {
         "epoch": 1612137600.0,
@@ -4127,7 +4127,7 @@
     "scriptmasters.info": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "sendspace.com": {
         "epoch": 1626220800.0,
@@ -4415,9 +4415,9 @@
         "state": "future"
     },
     "subito.it": {
-        "epoch": 1582070400.0,
-        "expiration_date": "19-feb-2020",
-        "state": "past"
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "state": "future"
     },
     "subscene.com": {
         "epoch": 1606176000.0,
