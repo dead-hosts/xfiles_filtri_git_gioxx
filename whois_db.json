@@ -1295,9 +1295,9 @@
         "state": "future"
     },
     "edreams.it": {
-        "epoch": 1582243200.0,
-        "expiration_date": "21-feb-2020",
-        "state": "past"
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "state": "future"
     },
     "edugeek.net": {
         "epoch": 1591574400.0,
@@ -4807,7 +4807,7 @@
     "trovabanche.it": {
         "epoch": 1583625600.0,
         "expiration_date": "08-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "trovanumeri.com": {
         "epoch": 1586131200.0,
