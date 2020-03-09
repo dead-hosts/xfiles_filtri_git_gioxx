@@ -525,8 +525,8 @@
         "state": "future"
     },
     "backin.net": {
-        "epoch": 1583712000.0,
-        "expiration_date": "09-mar-2020",
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
         "state": "future"
     },
     "badtaste.it": {
@@ -1175,9 +1175,9 @@
         "state": "future"
     },
     "diretta.it": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
-        "state": "past"
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
     },
     "direttastreaming.com": {
         "epoch": 1700092800.0,
@@ -2815,8 +2815,8 @@
         "state": "future"
     },
     "lpcloudsvr203.com": {
-        "epoch": 1583712000.0,
-        "expiration_date": "09-mar-2020",
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
         "state": "future"
     },
     "lshunter.tv": {
@@ -4565,9 +4565,9 @@
         "state": "future"
     },
     "televisionando.it": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
-        "state": "past"
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
     },
     "terraclicks.com": {
         "epoch": 1586822400.0,
@@ -4950,9 +4950,9 @@
         "state": "future"
     },
     "unilibro.it": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
-        "state": "past"
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
     },
     "unita.it": {
         "epoch": 1609459200.0,
