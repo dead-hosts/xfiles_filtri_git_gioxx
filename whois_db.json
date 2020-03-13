@@ -747,7 +747,7 @@
     "calendari2012.com": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "calendario-365.it": {
         "epoch": 1581638400.0,
@@ -3735,8 +3735,8 @@
         "state": "future"
     },
     "pokeritaliaweb.org": {
-        "epoch": 1584057600.0,
-        "expiration_date": "13-mar-2020",
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
         "state": "future"
     },
     "polygon.com": {
@@ -3807,7 +3807,7 @@
     "prontoimprese.it": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "psdispatch.com": {
         "epoch": 1606780800,
