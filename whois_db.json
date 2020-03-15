@@ -1485,9 +1485,9 @@
         "state": "future"
     },
     "fastweb.it": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
-        "state": "past"
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
     },
     "fattoincasadabenedetta.it": {
         "epoch": 1599004800.0,
@@ -3125,9 +3125,9 @@
         "state": "future"
     },
     "mitula.it": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
-        "state": "past"
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
     },
     "miui.it": {
         "epoch": 1609718400.0,
@@ -4135,8 +4135,8 @@
         "state": "future"
     },
     "serverfault.com": {
-        "epoch": 1584230400.0,
-        "expiration_date": "15-mar-2020",
+        "epoch": 1615766400.0,
+        "expiration_date": "15-mar-2021",
         "state": "future"
     },
     "serving-sys.com": {
