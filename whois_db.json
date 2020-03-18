@@ -2452,7 +2452,7 @@
     "itproportal.com": {
         "epoch": 1584489600.0,
         "expiration_date": "18-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "iusethis.com": {
         "epoch": 1610928000.0,
@@ -5297,7 +5297,7 @@
     "windowsitpro.com": {
         "epoch": 1584489600.0,
         "expiration_date": "18-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "windowsnetworking.com": {
         "epoch": 1609977600.0,
