@@ -422,7 +422,7 @@
     "aquaneva.it": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "aranzulla.it": {
         "epoch": 1608508800.0,
@@ -477,7 +477,7 @@
     "autoaz.it": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "autoblog.it": {
         "epoch": 1579392000.0,
@@ -505,9 +505,9 @@
         "state": "future"
     },
     "avvenire.it": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
-        "state": "past"
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
     },
     "avvocati.it": {
         "epoch": 1612137600.0,
@@ -2192,7 +2192,7 @@
     "ilmilaneseimbruttito.com": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "ilpost.it": {
         "epoch": 1588118400.0,
