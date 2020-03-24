@@ -1872,7 +1872,7 @@
     "gioxx.org": {
         "epoch": 1585008000.0,
         "expiration_date": "24-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "gizmodo.com": {
         "epoch": 1593561600.0,
@@ -4835,9 +4835,9 @@
         "state": "future"
     },
     "trovabanche.it": {
-        "epoch": 1583625600.0,
-        "expiration_date": "08-mar-2020",
-        "state": "past"
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "state": "future"
     },
     "trovanumeri.com": {
         "epoch": 1586131200.0,
