@@ -2495,8 +2495,8 @@
         "state": "future"
     },
     "jaxov.com": {
-        "epoch": 1585094400.0,
-        "expiration_date": "25-mar-2020",
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
         "state": "future"
     },
     "jigzone.com": {
@@ -3422,7 +3422,7 @@
     "notizie.it": {
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "nuggad.net": {
         "epoch": 1644019200.0,
