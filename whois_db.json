@@ -2642,7 +2642,7 @@
     "lastampa.it": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "lastfm.it": {
         "epoch": 1587600000.0,
