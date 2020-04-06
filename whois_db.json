@@ -2827,7 +2827,7 @@
     "lonelyplanetitalia.it": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "loveshack.org": {
         "epoch": 1573689600,
@@ -4842,7 +4842,7 @@
     "trovanumeri.com": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "trovaprezzi.it": {
         "epoch": 1598572800.0,
