@@ -1707,7 +1707,7 @@
     "freemodding.it": {
         "epoch": 1586217600.0,
         "expiration_date": "07-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "freeroms.com": {
         "epoch": 1739404800.0,
@@ -2850,8 +2850,8 @@
         "state": "future"
     },
     "lupoporno.com": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1649289600.0,
+        "expiration_date": "07-apr-2022",
         "state": "future"
     },
     "mac-forums.com": {
@@ -2967,7 +2967,7 @@
     "matrimonio.it": {
         "epoch": 1586217600.0,
         "expiration_date": "07-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "mauxa.com": {
         "epoch": 1612137600.0,
@@ -4607,7 +4607,7 @@
     "tesionline.it": {
         "epoch": 1586217600.0,
         "expiration_date": "07-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "tgmonline.it": {
         "epoch": 1608336000.0,
