@@ -3087,7 +3087,7 @@
     "milano-italia.it": {
         "epoch": 1586304000.0,
         "expiration_date": "08-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "milanocam.it": {
         "epoch": 1615852800.0,
@@ -3827,7 +3827,7 @@
     "promotelefonia.it": {
         "epoch": 1586304000.0,
         "expiration_date": "08-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "prontoimprese.it": {
         "epoch": 1615593600.0,
