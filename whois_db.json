@@ -2987,7 +2987,7 @@
     "mbnews.it": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "mbta.com": {
         "epoch": 1596585600,
