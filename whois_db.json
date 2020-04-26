@@ -125,8 +125,8 @@
         "state": "future"
     },
     "ad6media.fr": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "adadvisor.net": {
@@ -315,8 +315,8 @@
         "state": "future"
     },
     "altroconsumo.it": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
         "state": "future"
     },
     "alvolante.it": {
@@ -377,7 +377,7 @@
     "annuncicdn.it": {
         "epoch": 1587254400.0,
         "expiration_date": "19-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "ansa.it": {
         "epoch": 1614729600.0,
@@ -480,9 +480,9 @@
         "state": "future"
     },
     "autoblog.it": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
-        "state": "past"
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
     },
     "automoto.it": {
         "epoch": 1607558400.0,
@@ -750,8 +750,8 @@
         "state": "future"
     },
     "calendario-365.it": {
-        "epoch": 1581638400.0,
-        "expiration_date": "14-feb-2020",
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "cam4.com": {
@@ -877,7 +877,7 @@
     "clz3.net": {
         "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "cn24tv.it": {
         "epoch": 1588464000.0,
@@ -1385,8 +1385,8 @@
         "state": "future"
     },
     "esetnod32keys4free.com": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
         "state": "future"
     },
     "esquire.com": {
@@ -1705,9 +1705,9 @@
         "state": "future"
     },
     "freemodding.it": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
-        "state": "past"
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "state": "future"
     },
     "freeroms.com": {
         "epoch": 1739404800.0,
@@ -1907,7 +1907,7 @@
     "google.it": {
         "epoch": 1587427200.0,
         "expiration_date": "21-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "googlesyndication.com": {
         "epoch": 1611187200.0,
@@ -2040,8 +2040,8 @@
         "state": "future"
     },
     "howsecureismypassword.net": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
+        "epoch": 1650672000.0,
+        "expiration_date": "23-apr-2022",
         "state": "future"
     },
     "howto-outlook.com": {
@@ -2080,8 +2080,8 @@
         "state": "future"
     },
     "huffingtonpost.it": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
         "state": "future"
     },
     "hwdrivers.com": {
@@ -2300,8 +2300,8 @@
         "state": "future"
     },
     "infiltrato.it": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "infobel.com": {
@@ -2557,12 +2557,12 @@
     "kijiji.it": {
         "epoch": 1587427200.0,
         "expiration_date": "21-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "kingdomgame.it": {
         "epoch": 1587168000.0,
         "expiration_date": "18-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "komando.com": {
         "epoch": 1731024000.0,
@@ -2635,8 +2635,8 @@
         "state": "future"
     },
     "larena.it": {
-        "epoch": 1584403200.0,
-        "expiration_date": "17-mar-2020",
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
         "state": "future"
     },
     "lastampa.it": {
@@ -2647,7 +2647,7 @@
     "lastfm.it": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "lastpass.com": {
         "epoch": 1798848000.0,
@@ -2825,9 +2825,9 @@
         "state": "future"
     },
     "lonelyplanetitalia.it": {
-        "epoch": 1586131200.0,
-        "expiration_date": "06-apr-2020",
-        "state": "past"
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "state": "future"
     },
     "loveshack.org": {
         "epoch": 1573689600,
@@ -2965,9 +2965,9 @@
         "state": "future"
     },
     "matrimonio.it": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
-        "state": "past"
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "state": "future"
     },
     "mauxa.com": {
         "epoch": 1612137600.0,
@@ -3045,9 +3045,9 @@
         "state": "future"
     },
     "melamorsicata.it": {
-        "epoch": 1586044800.0,
-        "expiration_date": "05-apr-2020",
-        "state": "past"
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "state": "future"
     },
     "mellowads.com": {
         "epoch": 1614729600.0,
@@ -3085,9 +3085,9 @@
         "state": "future"
     },
     "milano-italia.it": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
-        "state": "past"
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
+        "state": "future"
     },
     "milanocam.it": {
         "epoch": 1615852800.0,
@@ -3180,8 +3180,8 @@
         "state": "future"
     },
     "mondofox.it": {
-        "epoch": 1580342400.0,
-        "expiration_date": "30-jan-2020",
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
         "state": "future"
     },
     "mondoxbox.com": {
@@ -3242,7 +3242,7 @@
     "multiplayer.it": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "multiupload.com": {
         "epoch": 1720656000.0,
@@ -3310,8 +3310,8 @@
         "state": "future"
     },
     "navigaweb.net": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "nbcnews.com": {
@@ -3580,8 +3580,8 @@
         "state": "future"
     },
     "panorama.it": {
-        "epoch": 1583020800.0,
-        "expiration_date": "01-mar-2020",
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
         "state": "future"
     },
     "parliamodivideogiochi.it": {
@@ -3620,8 +3620,8 @@
         "state": "future"
     },
     "pclicious.com": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
         "state": "future"
     },
     "pcmag.com": {
@@ -3635,8 +3635,8 @@
         "state": "future"
     },
     "pcworld.com": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "perfectgeeks.com": {
@@ -3702,7 +3702,7 @@
     "pinceladasdaweb.com.br": {
         "epoch": 1587340800.0,
         "expiration_date": "20-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "pingtest.net": {
         "epoch": 1652054400.0,
@@ -3825,9 +3825,9 @@
         "state": "future"
     },
     "promotelefonia.it": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
-        "state": "past"
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
+        "state": "future"
     },
     "prontoimprese.it": {
         "epoch": 1615593600.0,
@@ -3940,8 +3940,8 @@
         "state": "future"
     },
     "rai.it": {
-        "epoch": 1580256000.0,
-        "expiration_date": "29-jan-2020",
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
         "state": "future"
     },
     "rai.tv": {
@@ -4270,8 +4270,8 @@
         "state": "future"
     },
     "smartworld.it": {
-        "epoch": 1584835200.0,
-        "expiration_date": "22-mar-2020",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "smashingmagazine.com": {
@@ -4567,7 +4567,7 @@
     "techzilla.it": {
         "epoch": 1587254400.0,
         "expiration_date": "19-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "tecnoandroid.it": {
         "epoch": 1605398400.0,
@@ -4585,9 +4585,9 @@
         "state": "future"
     },
     "teleborsa.it": {
-        "epoch": 1586476800.0,
-        "expiration_date": "10-apr-2020",
-        "state": "past"
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
+        "state": "future"
     },
     "telefonino.net": {
         "epoch": 1593907200.0,
@@ -4605,9 +4605,9 @@
         "state": "future"
     },
     "tesionline.it": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
-        "state": "past"
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "state": "future"
     },
     "tgmonline.it": {
         "epoch": 1608336000.0,
@@ -4642,7 +4642,7 @@
     "thegamesmachine.it": {
         "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "theguardian.com": {
         "epoch": 1720137600.0,
@@ -4705,8 +4705,8 @@
         "state": "future"
     },
     "ticketone.it": {
-        "epoch": 1584835200.0,
-        "expiration_date": "22-mar-2020",
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
         "state": "future"
     },
     "time4tv.com": {
@@ -4720,8 +4720,8 @@
         "state": "future"
     },
     "tinypic.com": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "tiscali.it": {
@@ -5255,9 +5255,9 @@
         "state": "future"
     },
     "webmonkey.com": {
-        "epoch": 1584921600.0,
-        "expiration_date": "23-mar-2020",
-        "state": "past"
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "state": "future"
     },
     "webnews.it": {
         "epoch": 1600041600.0,
