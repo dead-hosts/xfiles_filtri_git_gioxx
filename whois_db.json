@@ -152,7 +152,7 @@
     "adexchangedirect.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "adfclick1.com": {
         "epoch": 1609286400.0,
@@ -177,7 +177,7 @@
     "adnetworkperformance.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "adnxs.com": {
         "epoch": 1590537600.0,
@@ -902,7 +902,7 @@
     "codeonclick.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "codeproject.com": {
         "epoch": 1668038400.0,
@@ -2982,7 +2982,7 @@
     "maxonclick.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "mbnews.it": {
         "epoch": 1586649600.0,
@@ -4797,7 +4797,7 @@
     "tradeadexchange.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "tradedoubler.com": {
         "epoch": 1696896000.0,
@@ -5077,7 +5077,7 @@
     "venturead.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "ver-pelis.net": {
         "epoch": 1612224000.0,
