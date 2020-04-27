@@ -7,6 +7,13 @@
             "last_retested_at_iso": "2020-04-26T15:58:43.666399",
             "status": "INVALID"
         },
+        "it.vipboxeu.co": {
+            "included_at_epoch": 1587992654.865348,
+            "included_at_iso": "2020-04-27T13:04:14.865348",
+            "last_retested_at_epoch": 1587992654.889523,
+            "last_retested_at_iso": "2020-04-27T13:04:14.889523",
+            "status": "INACTIVE"
+        },
         "megaportale.biz": {
             "included_at_epoch": 1587948885.428034,
             "included_at_iso": "2020-04-27T00:54:45.428034",
