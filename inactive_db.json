@@ -3,8 +3,8 @@
         "*": {
             "included_at_epoch": 1587177362.0,
             "included_at_iso": "2020-04-18T02:36:02",
-            "last_retested_at_epoch": 1587916723.666399,
-            "last_retested_at_iso": "2020-04-26T15:58:43.666399",
+            "last_retested_at_epoch": 1588004877.774268,
+            "last_retested_at_iso": "2020-04-27T16:27:57.774268",
             "status": "INVALID"
         },
         "it.vipboxeu.co": {
@@ -24,8 +24,8 @@
         "network.adsmarket.com": {
             "included_at_epoch": 1587177364.0,
             "included_at_iso": "2020-04-18T02:36:04",
-            "last_retested_at_epoch": 1587916725.720192,
-            "last_retested_at_iso": "2020-04-26T15:58:45.720192",
+            "last_retested_at_epoch": 1588004879.891482,
+            "last_retested_at_iso": "2020-04-27T16:27:59.891482",
             "status": "INACTIVE"
         }
     }
