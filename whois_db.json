@@ -245,9 +245,9 @@
         "state": "future"
     },
     "agar.io": {
-        "epoch": 1588032000.0,
-        "expiration_date": "28-apr-2020",
-        "state": "past"
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
+        "state": "future"
     },
     "aggiustatutto.it": {
         "epoch": 1617321600.0,
