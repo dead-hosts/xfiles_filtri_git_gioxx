@@ -247,7 +247,7 @@
     "agar.io": {
         "epoch": 1588032000.0,
         "expiration_date": "28-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "aggiustatutto.it": {
         "epoch": 1617321600.0,
@@ -1057,7 +1057,7 @@
     "cwi.it": {
         "epoch": 1588032000.0,
         "expiration_date": "28-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "da-ads.com": {
         "epoch": 1593475200.0,
@@ -4832,7 +4832,7 @@
     "tripadvisor.it": {
         "epoch": 1588032000.0,
         "expiration_date": "28-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "trovabanche.it": {
         "epoch": 1615161600.0,
