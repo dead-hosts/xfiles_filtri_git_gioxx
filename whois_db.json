@@ -150,9 +150,9 @@
         "state": "future"
     },
     "adexchangedirect.com": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
-        "state": "past"
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
     },
     "adfclick1.com": {
         "epoch": 1609286400.0,
@@ -175,9 +175,9 @@
         "state": "future"
     },
     "adnetworkperformance.com": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
-        "state": "past"
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
     },
     "adnxs.com": {
         "epoch": 1590537600.0,
@@ -900,9 +900,9 @@
         "state": "future"
     },
     "codeonclick.com": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
-        "state": "past"
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
     },
     "codeproject.com": {
         "epoch": 1668038400.0,
@@ -2980,9 +2980,9 @@
         "state": "future"
     },
     "maxonclick.com": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
-        "state": "past"
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
     },
     "mbnews.it": {
         "epoch": 1618185600.0,
@@ -4795,9 +4795,9 @@
         "state": "future"
     },
     "tradeadexchange.com": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
-        "state": "past"
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
     },
     "tradedoubler.com": {
         "epoch": 1696896000.0,
@@ -5075,9 +5075,9 @@
         "state": "future"
     },
     "venturead.com": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
-        "state": "past"
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
     },
     "ver-pelis.net": {
         "epoch": 1612224000.0,
