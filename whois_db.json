@@ -1709,6 +1709,11 @@
         "expiration_date": "07-apr-2021",
         "state": "future"
     },
+    "freeonline.org": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
     "freeroms.com": {
         "epoch": 1739404800.0,
         "expiration_date": "13-feb-2025",
@@ -3824,6 +3829,11 @@
         "expiration_date": "29-nov-2020",
         "state": "future"
     },
+    "programmiedovetrovarli.it": {
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
     "promotelefonia.it": {
         "epoch": 1617840000.0,
         "expiration_date": "08-apr-2021",
@@ -4067,6 +4077,11 @@
     "rollingstone.it": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "romalife.it": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "romatoday.it": {
