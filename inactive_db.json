@@ -7,6 +7,13 @@
             "last_retested_at_iso": "2020-04-30T17:16:56.620708",
             "status": "INVALID"
         },
+        "m.agi.it": {
+            "included_at_epoch": 1588294161.949283,
+            "included_at_iso": "2020-05-01T00:49:21.949283",
+            "last_retested_at_epoch": 1588294161.949283,
+            "last_retested_at_iso": "2020-05-01T00:49:21.949283",
+            "status": "INACTIVE"
+        },
         "megaportale.biz": {
             "included_at_epoch": 1587948885.428034,
             "included_at_iso": "2020-04-27T00:54:45.428034",
