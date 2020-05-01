@@ -165,8 +165,8 @@
         "state": "future"
     },
     "adk2x.com": {
-        "epoch": 1581552000.0,
-        "expiration_date": "13-feb-2020",
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
         "state": "future"
     },
     "adnanny.com": {
@@ -197,7 +197,7 @@
     "adrotate.se": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "adspserving.com": {
         "epoch": 1599350400.0,
@@ -572,7 +572,7 @@
     "bet365.it": {
         "epoch": 1587427200.0,
         "expiration_date": "21-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "bettingtradition.com": {
         "epoch": 1612569600.0,
@@ -580,8 +580,8 @@
         "state": "future"
     },
     "bgr.com": {
-        "epoch": 1587427200.0,
-        "expiration_date": "21-apr-2020",
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "bikeitalia.it": {
@@ -825,8 +825,8 @@
         "state": "future"
     },
     "cintnetworks.com": {
-        "epoch": 1584403200.0,
-        "expiration_date": "17-mar-2020",
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
         "state": "future"
     },
     "cittaceleste.it": {
@@ -1000,8 +1000,8 @@
         "state": "future"
     },
     "cpmoz.com": {
-        "epoch": 1584403200.0,
-        "expiration_date": "17-mar-2020",
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
         "state": "future"
     },
     "cpmterra.com": {
@@ -1190,8 +1190,8 @@
         "state": "future"
     },
     "dissapore.com": {
-        "epoch": 1580688000.0,
-        "expiration_date": "03-feb-2020",
+        "epoch": 1612310400.0,
+        "expiration_date": "03-feb-2021",
         "state": "future"
     },
     "djmickbabes.com": {
@@ -1695,8 +1695,8 @@
         "state": "future"
     },
     "franchiseherald.com": {
-        "epoch": 1580515200.0,
-        "expiration_date": "01-feb-2020",
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "freemake.com": {
@@ -2285,8 +2285,8 @@
         "state": "future"
     },
     "incesti.com": {
-        "epoch": 1582502400.0,
-        "expiration_date": "24-feb-2020",
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
         "state": "future"
     },
     "inclk.com": {
@@ -2525,8 +2525,8 @@
         "state": "future"
     },
     "juiceadv.com": {
-        "epoch": 1580256000.0,
-        "expiration_date": "29-jan-2020",
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
         "state": "future"
     },
     "justin.tv": {
@@ -2660,8 +2660,8 @@
         "state": "future"
     },
     "latinospost.com": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "learnhub.com": {
@@ -2740,8 +2740,8 @@
         "state": "future"
     },
     "liliputing.com": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "linkbucks.com": {
@@ -2805,13 +2805,13 @@
         "state": "future"
     },
     "livinginterior.it": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "loading-delivery1.com": {
-        "epoch": 1586476800.0,
-        "expiration_date": "10-apr-2020",
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
         "state": "future"
     },
     "lockerz.com": {
@@ -3005,8 +3005,8 @@
         "state": "future"
     },
     "media1first.com": {
-        "epoch": 1586563200.0,
-        "expiration_date": "11-apr-2020",
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
         "state": "future"
     },
     "mediafire.com": {
@@ -3240,8 +3240,8 @@
         "state": "future"
     },
     "msoutlook.info": {
-        "epoch": 1584921600.0,
-        "expiration_date": "23-mar-2020",
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
         "state": "future"
     },
     "multiplayer.it": {
@@ -3295,8 +3295,8 @@
         "state": "future"
     },
     "mytaste.it": {
-        "epoch": 1583884800.0,
-        "expiration_date": "11-mar-2020",
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
         "state": "future"
     },
     "n99adshostnet.com": {
@@ -3350,8 +3350,8 @@
         "state": "future"
     },
     "newslinet.com": {
-        "epoch": 1584835200.0,
-        "expiration_date": "22-mar-2020",
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
         "state": "future"
     },
     "newsrimini.it": {
@@ -3495,8 +3495,8 @@
         "state": "future"
     },
     "onclickpredictiv.com": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
         "state": "future"
     },
     "ondarock.it": {
@@ -3880,8 +3880,8 @@
         "state": "future"
     },
     "puntocellulare.it": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "punypng.com": {
@@ -3895,8 +3895,8 @@
         "state": "future"
     },
     "q.gs": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
         "state": "future"
     },
     "qlnews.it": {
@@ -4000,8 +4000,8 @@
         "state": "future"
     },
     "rdsa2012.com": {
-        "epoch": 1584921600.0,
-        "expiration_date": "23-mar-2020",
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
         "state": "future"
     },
     "realtimetv.it": {
@@ -4047,6 +4047,11 @@
     "ricettedalmondo.it": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
+    "rietilife.com": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "rivcash.com": {
@@ -4125,13 +4130,13 @@
         "state": "future"
     },
     "saluteperme.com": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "saraelesueamiche.it": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
         "state": "future"
     },
     "sardiniapost.it": {
@@ -4195,8 +4200,8 @@
         "state": "future"
     },
     "sex-flow.com": {
-        "epoch": 1582502400.0,
-        "expiration_date": "24-feb-2020",
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
         "state": "future"
     },
     "sh.st": {
@@ -4295,13 +4300,13 @@
         "state": "future"
     },
     "smereghetti.com": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
         "state": "future"
     },
     "smiling.video": {
-        "epoch": 1583020800.0,
-        "expiration_date": "01-mar-2020",
+        "epoch": 1646092800.0,
+        "expiration_date": "01-mar-2022",
         "state": "future"
     },
     "snapfiles.com": {
@@ -4475,8 +4480,8 @@
         "state": "future"
     },
     "swzone.it": {
-        "epoch": 1580774400.0,
-        "expiration_date": "04-feb-2020",
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "syfy.com": {
@@ -4612,6 +4617,11 @@
     "televisionando.it": {
         "epoch": 1613952000.0,
         "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
+    "ternilife.com": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "terraclicks.com": {
@@ -4750,8 +4760,8 @@
         "state": "future"
     },
     "tmz.com": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
+        "epoch": 1644969600.0,
+        "expiration_date": "16-feb-2022",
         "state": "future"
     },
     "today.it": {
@@ -4805,8 +4815,8 @@
         "state": "future"
     },
     "tpi.it": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
         "state": "future"
     },
     "tradeadexchange.com": {
@@ -5160,8 +5170,8 @@
         "state": "future"
     },
     "videowood.tv": {
-        "epoch": 1581120000.0,
-        "expiration_date": "08-feb-2020",
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
         "state": "future"
     },
     "vidtomp3.com": {
@@ -5325,8 +5335,8 @@
         "state": "future"
     },
     "windows-noob.com": {
-        "epoch": 1579651200.0,
-        "expiration_date": "22-jan-2020",
+        "epoch": 1642809600.0,
+        "expiration_date": "22-jan-2022",
         "state": "future"
     },
     "windows8blog.it": {
@@ -5425,8 +5435,8 @@
         "state": "future"
     },
     "xlovecam.com": {
-        "epoch": 1579910400.0,
-        "expiration_date": "25-jan-2020",
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "xviralex.com": {
