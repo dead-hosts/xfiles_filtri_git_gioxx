@@ -452,7 +452,7 @@
     "askstudent.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "assodigitale.it": {
         "epoch": 1604966400.0,
@@ -882,7 +882,7 @@
     "cn24tv.it": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "cnet.com": {
         "epoch": 1614988800.0,
@@ -2272,7 +2272,7 @@
     "immobiliare.it": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "imore.com": {
         "epoch": 1663545600.0,
@@ -2565,9 +2565,9 @@
         "state": "past"
     },
     "kingdomgame.it": {
-        "epoch": 1587168000.0,
-        "expiration_date": "18-apr-2020",
-        "state": "past"
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
+        "state": "future"
     },
     "komando.com": {
         "epoch": 1731024000.0,
@@ -2885,8 +2885,8 @@
         "state": "future"
     },
     "macupdate.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "macusato.it": {
@@ -2980,8 +2980,8 @@
         "state": "future"
     },
     "maxigossip.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "maxonclick.com": {
@@ -3660,8 +3660,8 @@
         "state": "future"
     },
     "petenetlive.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "petri.co.il": {
@@ -4510,9 +4510,9 @@
         "state": "future"
     },
     "tariffando.it": {
-        "epoch": 1587081600.0,
-        "expiration_date": "17-apr-2020",
-        "state": "past"
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
+        "state": "future"
     },
     "tatami-solutions.com": {
         "epoch": 1611705600.0,
@@ -4777,7 +4777,7 @@
     "tomshw.it": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "topstoreoffers.com": {
         "epoch": 1606694400.0,
