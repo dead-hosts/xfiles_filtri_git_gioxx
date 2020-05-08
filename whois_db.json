@@ -375,9 +375,9 @@
         "state": "future"
     },
     "annuncicdn.it": {
-        "epoch": 1587254400.0,
-        "expiration_date": "19-apr-2020",
-        "state": "past"
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
+        "state": "future"
     },
     "ansa.it": {
         "epoch": 1614729600.0,
@@ -450,9 +450,9 @@
         "state": "future"
     },
     "askstudent.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
-        "state": "past"
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
     },
     "assodigitale.it": {
         "epoch": 1604966400.0,
@@ -640,8 +640,8 @@
         "state": "future"
     },
     "boingboing.net": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "boobieblog.com": {
@@ -1910,9 +1910,9 @@
         "state": "future"
     },
     "google.it": {
-        "epoch": 1587427200.0,
-        "expiration_date": "21-apr-2020",
-        "state": "past"
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "state": "future"
     },
     "googlesyndication.com": {
         "epoch": 1611187200.0,
@@ -2050,8 +2050,8 @@
         "state": "future"
     },
     "howto-outlook.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "howtogeek.com": {
@@ -2140,8 +2140,8 @@
         "state": "future"
     },
     "idownloadblog.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "ifans.com": {
@@ -2560,9 +2560,9 @@
         "state": "future"
     },
     "kijiji.it": {
-        "epoch": 1587427200.0,
-        "expiration_date": "21-apr-2020",
-        "state": "past"
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "state": "future"
     },
     "kingdomgame.it": {
         "epoch": 1618704000.0,
@@ -2940,8 +2940,8 @@
         "state": "future"
     },
     "manuali.net": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "marapcana.life": {
@@ -3040,8 +3040,8 @@
         "state": "past"
     },
     "megastreaming.biz": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "melablog.it": {
@@ -3695,8 +3695,8 @@
         "state": "future"
     },
     "photobucket.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "pillamaro.it": {
@@ -3705,9 +3705,9 @@
         "state": "future"
     },
     "pinceladasdaweb.com.br": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
-        "state": "past"
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
+        "state": "future"
     },
     "pingtest.net": {
         "epoch": 1652054400.0,
@@ -4310,8 +4310,8 @@
         "state": "future"
     },
     "snapfiles.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "snazzyspace.com": {
@@ -4585,9 +4585,9 @@
         "state": "future"
     },
     "techzilla.it": {
-        "epoch": 1587254400.0,
-        "expiration_date": "19-apr-2020",
-        "state": "past"
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
+        "state": "future"
     },
     "tecnoandroid.it": {
         "epoch": 1605398400.0,
@@ -5332,7 +5332,7 @@
     "windoweb.it": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "windows-noob.com": {
         "epoch": 1642809600.0,
