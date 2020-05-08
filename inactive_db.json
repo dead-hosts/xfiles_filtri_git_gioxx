@@ -24,8 +24,8 @@
         "readmanga.eu": {
             "included_at_epoch": 1588343937.410054,
             "included_at_iso": "2020-05-01T14:38:57.410054",
-            "last_retested_at_epoch": 1588617483.753885,
-            "last_retested_at_iso": "2020-05-04T18:38:03.753885",
+            "last_retested_at_epoch": 1588963232.22944,
+            "last_retested_at_iso": "2020-05-08T18:40:32.229440",
             "status": "INACTIVE"
         }
     }
