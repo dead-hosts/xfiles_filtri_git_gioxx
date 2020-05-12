@@ -950,8 +950,8 @@
         "state": "future"
     },
     "computerandvideogames.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "computerworld.com": {
@@ -1555,8 +1555,8 @@
         "state": "future"
     },
     "filepi.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1652227200.0,
+        "expiration_date": "11-may-2022",
         "state": "future"
     },
     "filesharingtalk.com": {
@@ -1630,8 +1630,8 @@
         "state": "future"
     },
     "flaticon.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "flickr.com": {
@@ -2392,7 +2392,7 @@
     "iovivoaroma.it": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "iphoneitalia.com": {
         "epoch": 1607299200.0,
@@ -2650,9 +2650,9 @@
         "state": "future"
     },
     "lastfm.it": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
-        "state": "past"
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
+        "state": "future"
     },
     "lastpass.com": {
         "epoch": 1798848000.0,
@@ -2737,7 +2737,7 @@
     "liligo.it": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "liliputing.com": {
         "epoch": 1617926400.0,
@@ -3362,7 +3362,7 @@
     "newstreet.it": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "nexac.com": {
         "epoch": 1604016000.0,
@@ -3862,7 +3862,7 @@
     "pubblicitaitalia.it": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "publiweb.com": {
         "epoch": 1590451200.0,
@@ -4367,7 +4367,7 @@
     "soloenduro.it": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "soluzionibio.it": {
         "epoch": 1611100800.0,
@@ -4665,9 +4665,9 @@
         "state": "future"
     },
     "thegamesmachine.it": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
-        "state": "past"
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "state": "future"
     },
     "theguardian.com": {
         "epoch": 1720137600.0,
@@ -4757,7 +4757,7 @@
     "tmag.it": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "tmz.com": {
         "epoch": 1644969600.0,
@@ -5202,7 +5202,7 @@
     "virgilio.it": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "visibilmente.com": {
         "epoch": 1606694400.0,
