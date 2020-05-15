@@ -3675,8 +3675,8 @@
         "state": "future"
     },
     "pexels.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1652572800.0,
+        "expiration_date": "15-may-2022",
         "state": "future"
     },
     "phica.net": {
@@ -3925,9 +3925,9 @@
         "state": "future"
     },
     "r101.it": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
-        "state": "past"
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
+        "state": "future"
     },
     "rackcdn.com": {
         "epoch": 1607990400.0,
@@ -4609,6 +4609,11 @@
         "expiration_date": "10-apr-2021",
         "state": "future"
     },
+    "teleclubitalia.it": {
+        "epoch": 1591401600.0,
+        "expiration_date": "06-jun-2020",
+        "state": "future"
+    },
     "telefonino.net": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
@@ -4855,9 +4860,9 @@
         "state": "future"
     },
     "tripadvisor.it": {
-        "epoch": 1588032000.0,
-        "expiration_date": "28-apr-2020",
-        "state": "past"
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
+        "state": "future"
     },
     "trovabanche.it": {
         "epoch": 1615161600.0,
