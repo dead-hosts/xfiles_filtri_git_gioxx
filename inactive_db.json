@@ -10,8 +10,8 @@
         "adrotate.se": {
             "included_at_epoch": 1589309056.59867,
             "included_at_iso": "2020-05-12T18:44:16.598670",
-            "last_retested_at_epoch": 1589309056.59867,
-            "last_retested_at_iso": "2020-05-12T18:44:16.598670",
+            "last_retested_at_epoch": 1589540363.310782,
+            "last_retested_at_iso": "2020-05-15T10:59:23.310782",
             "status": "INACTIVE"
         },
         "megaportale.biz": {
@@ -31,8 +31,8 @@
         "readmanga.eu": {
             "included_at_epoch": 1588343937.410054,
             "included_at_iso": "2020-05-01T14:38:57.410054",
-            "last_retested_at_epoch": 1589309057.744854,
-            "last_retested_at_iso": "2020-05-12T18:44:17.744854",
+            "last_retested_at_epoch": 1589540364.489173,
+            "last_retested_at_iso": "2020-05-15T10:59:24.489173",
             "status": "INACTIVE"
         }
     }

@@ -1055,9 +1055,9 @@
         "state": "future"
     },
     "cwi.it": {
-        "epoch": 1588032000.0,
-        "expiration_date": "28-apr-2020",
-        "state": "past"
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
+        "state": "future"
     },
     "da-ads.com": {
         "epoch": 1593475200.0,
@@ -1585,8 +1585,8 @@
         "state": "future"
     },
     "filmsenzalimiti.co": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "filmstream.me": {
@@ -2867,7 +2867,7 @@
     "macitynet.it": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "maciverse.com": {
         "epoch": 1610755200.0,
