@@ -762,7 +762,7 @@
     "cam4.it": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "camelcamelcamel.com": {
         "epoch": 1736121600.0,
@@ -1700,8 +1700,8 @@
         "state": "future"
     },
     "freemake.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1747526400.0,
+        "expiration_date": "18-may-2025",
         "state": "future"
     },
     "freemodding.it": {
@@ -1745,8 +1745,8 @@
         "state": "future"
     },
     "fullstuff.net": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "fwmrm.net": {
@@ -2962,7 +2962,7 @@
     "marketresearchglobal.com": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "mashable.com": {
         "epoch": 1752883200.0,
@@ -3120,8 +3120,8 @@
         "state": "future"
     },
     "milleguide.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "minecraft-italia.it": {
@@ -3597,7 +3597,7 @@
     "parmatoday.it": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "passepartout.net": {
         "epoch": 1593475200.0,
