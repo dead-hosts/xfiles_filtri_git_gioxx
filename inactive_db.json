@@ -1,10 +1,10 @@
 {
     "/home/travis/build/dead-hosts/xfiles_filtri_git_gioxx/domains.list": {
         "*": {
-            "included_at_epoch": 1587177362.0,
-            "included_at_iso": "2020-04-18T02:36:02",
-            "last_retested_at_epoch": 1589539219.639754,
-            "last_retested_at_iso": "2020-05-15T10:40:19.639754",
+            "included_at_epoch": 1589827188.506426,
+            "included_at_iso": "2020-05-18T18:39:48.506426",
+            "last_retested_at_epoch": 1589827188.506426,
+            "last_retested_at_iso": "2020-05-18T18:39:48.506426",
             "status": "INVALID"
         },
         "adrotate.se": {
@@ -17,15 +17,15 @@
         "megaportale.biz": {
             "included_at_epoch": 1587948885.428034,
             "included_at_iso": "2020-04-27T00:54:45.428034",
-            "last_retested_at_epoch": 1589539229.947007,
-            "last_retested_at_iso": "2020-05-15T10:40:29.947007",
+            "last_retested_at_epoch": 1589827198.94918,
+            "last_retested_at_iso": "2020-05-18T18:39:58.949180",
             "status": "INACTIVE"
         },
         "network.adsmarket.com": {
-            "included_at_epoch": 1587177364.0,
-            "included_at_iso": "2020-04-18T02:36:04",
-            "last_retested_at_epoch": 1589539221.907969,
-            "last_retested_at_iso": "2020-05-15T10:40:21.907969",
+            "included_at_epoch": 1589827190.813081,
+            "included_at_iso": "2020-05-18T18:39:50.813081",
+            "last_retested_at_epoch": 1589827190.813081,
+            "last_retested_at_iso": "2020-05-18T18:39:50.813081",
             "status": "INACTIVE"
         },
         "readmanga.eu": {

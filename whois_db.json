@@ -295,8 +295,8 @@
         "state": "future"
     },
     "altadefinizione.tv": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "altalex.com": {
@@ -857,7 +857,7 @@
     "clickpoint.it": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "clkfeed.com": {
         "epoch": 1602460800.0,
@@ -1590,8 +1590,8 @@
         "state": "future"
     },
     "filmstream.me": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "filmze-streamiz.com": {
@@ -2005,9 +2005,9 @@
         "state": "future"
     },
     "hdblog.it": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
-        "state": "past"
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
+        "state": "future"
     },
     "headadmin.net": {
         "epoch": 1614643200.0,
@@ -2270,9 +2270,9 @@
         "state": "future"
     },
     "immobiliare.it": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "imore.com": {
         "epoch": 1663545600.0,
@@ -4210,8 +4210,8 @@
         "state": "future"
     },
     "sharingfreelive.net": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "shop4freebies.com": {
@@ -4845,8 +4845,8 @@
         "state": "future"
     },
     "trakt.tv": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "treccani.it": {
