@@ -880,9 +880,9 @@
         "state": "future"
     },
     "cn24tv.it": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
-        "state": "past"
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
+        "state": "future"
     },
     "cnet.com": {
         "epoch": 1614988800.0,
@@ -1490,8 +1490,8 @@
         "state": "future"
     },
     "fastvideo.me": {
-        "epoch": 1590019200.0,
-        "expiration_date": "21-may-2020",
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
         "state": "future"
     },
     "fastweb.it": {
@@ -1602,7 +1602,7 @@
     "finanza.com": {
         "epoch": 1590105600.0,
         "expiration_date": "22-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "findicons.com": {
         "epoch": 1647907200.0,
@@ -2182,7 +2182,7 @@
     "ilmattino.it": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "ilmessaggero.it": {
         "epoch": 1611360000.0,
@@ -3140,8 +3140,8 @@
         "state": "future"
     },
     "mioaffitto.it": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "missilehugger.com": {
@@ -4780,9 +4780,9 @@
         "state": "future"
     },
     "tomshw.it": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
-        "state": "past"
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
+        "state": "future"
     },
     "topstoreoffers.com": {
         "epoch": 1606694400.0,
@@ -5335,9 +5335,9 @@
         "state": "future"
     },
     "windoweb.it": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
-        "state": "past"
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "state": "future"
     },
     "windows-noob.com": {
         "epoch": 1642809600.0,
@@ -5477,7 +5477,7 @@
     "youfeed.it": {
         "epoch": 1590105600.0,
         "expiration_date": "22-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "youporn.com": {
         "epoch": 1621728000.0,

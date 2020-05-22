@@ -3,8 +3,8 @@
         "*": {
             "included_at_epoch": 1589827188.506426,
             "included_at_iso": "2020-05-18T18:39:48.506426",
-            "last_retested_at_epoch": 1589827188.506426,
-            "last_retested_at_iso": "2020-05-18T18:39:48.506426",
+            "last_retested_at_epoch": 1590172934.89362,
+            "last_retested_at_iso": "2020-05-22T18:42:14.893620",
             "status": "INVALID"
         },
         "adrotate.se": {
@@ -17,15 +17,15 @@
         "megaportale.biz": {
             "included_at_epoch": 1587948885.428034,
             "included_at_iso": "2020-04-27T00:54:45.428034",
-            "last_retested_at_epoch": 1589827198.94918,
-            "last_retested_at_iso": "2020-05-18T18:39:58.949180",
+            "last_retested_at_epoch": 1590172944.958996,
+            "last_retested_at_iso": "2020-05-22T18:42:24.958996",
             "status": "INACTIVE"
         },
         "network.adsmarket.com": {
             "included_at_epoch": 1589827190.813081,
             "included_at_iso": "2020-05-18T18:39:50.813081",
-            "last_retested_at_epoch": 1589827190.813081,
-            "last_retested_at_iso": "2020-05-18T18:39:50.813081",
+            "last_retested_at_epoch": 1590172937.131641,
+            "last_retested_at_iso": "2020-05-22T18:42:17.131641",
             "status": "INACTIVE"
         },
         "readmanga.eu": {
