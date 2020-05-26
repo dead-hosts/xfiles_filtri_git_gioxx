@@ -3,8 +3,8 @@
         "*": {
             "included_at_epoch": 1589827188.506426,
             "included_at_iso": "2020-05-18T18:39:48.506426",
-            "last_retested_at_epoch": 1590172934.89362,
-            "last_retested_at_iso": "2020-05-22T18:42:14.893620",
+            "last_retested_at_epoch": 1590490545.951958,
+            "last_retested_at_iso": "2020-05-26T10:55:45.951958",
             "status": "INVALID"
         },
         "adrotate.se": {
@@ -14,18 +14,32 @@
             "last_retested_at_iso": "2020-05-22T19:00:24.214368",
             "status": "INACTIVE"
         },
+        "ambiente.liquida.it": {
+            "included_at_epoch": 1590490555.869388,
+            "included_at_iso": "2020-05-26T10:55:55.869388",
+            "last_retested_at_epoch": 1590490555.869388,
+            "last_retested_at_iso": "2020-05-26T10:55:55.869388",
+            "status": "INACTIVE"
+        },
         "megaportale.biz": {
-            "included_at_epoch": 1587948885.428034,
-            "included_at_iso": "2020-04-27T00:54:45.428034",
-            "last_retested_at_epoch": 1590172944.958996,
-            "last_retested_at_iso": "2020-05-22T18:42:24.958996",
+            "included_at_epoch": 1590490556.00804,
+            "included_at_iso": "2020-05-26T10:55:56.008040",
+            "last_retested_at_epoch": 1590490556.00804,
+            "last_retested_at_iso": "2020-05-26T10:55:56.008040",
             "status": "INACTIVE"
         },
         "network.adsmarket.com": {
             "included_at_epoch": 1589827190.813081,
             "included_at_iso": "2020-05-18T18:39:50.813081",
-            "last_retested_at_epoch": 1590172937.131641,
-            "last_retested_at_iso": "2020-05-22T18:42:17.131641",
+            "last_retested_at_epoch": 1590490548.19256,
+            "last_retested_at_iso": "2020-05-26T10:55:48.192560",
+            "status": "INACTIVE"
+        },
+        "pianetamotori.liquida.it": {
+            "included_at_epoch": 1590490562.247943,
+            "included_at_iso": "2020-05-26T10:56:02.247943",
+            "last_retested_at_epoch": 1590490562.247943,
+            "last_retested_at_iso": "2020-05-26T10:56:02.247943",
             "status": "INACTIVE"
         },
         "readmanga.eu": {
