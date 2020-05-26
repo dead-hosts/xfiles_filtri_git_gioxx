@@ -10,8 +10,8 @@
         "adrotate.se": {
             "included_at_epoch": 1589309056.59867,
             "included_at_iso": "2020-05-12T18:44:16.598670",
-            "last_retested_at_epoch": 1590174024.214368,
-            "last_retested_at_iso": "2020-05-22T19:00:24.214368",
+            "last_retested_at_epoch": 1590492393.805943,
+            "last_retested_at_iso": "2020-05-26T11:26:33.805943",
             "status": "INACTIVE"
         },
         "ambiente.liquida.it": {
@@ -45,8 +45,8 @@
         "readmanga.eu": {
             "included_at_epoch": 1588343937.410054,
             "included_at_iso": "2020-05-01T14:38:57.410054",
-            "last_retested_at_epoch": 1590174025.395444,
-            "last_retested_at_iso": "2020-05-22T19:00:25.395444",
+            "last_retested_at_epoch": 1590492394.98174,
+            "last_retested_at_iso": "2020-05-26T11:26:34.981740",
             "status": "INACTIVE"
         }
     }

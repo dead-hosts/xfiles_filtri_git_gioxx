@@ -3020,8 +3020,8 @@
         "state": "future"
     },
     "medium.com": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
         "state": "future"
     },
     "megalab.it": {
@@ -3962,7 +3962,7 @@
     "raiplay.it": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "rapidshare-downloads.com": {
         "epoch": 1591401600,
