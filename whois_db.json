@@ -180,8 +180,8 @@
         "state": "future"
     },
     "adnxs.com": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1653609600.0,
+        "expiration_date": "27-may-2022",
         "state": "future"
     },
     "adplxmd.com": {
@@ -1467,7 +1467,7 @@
     "fanpage.it": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "fantagazzetta.com": {
         "epoch": 1601942400.0,
@@ -1787,7 +1787,7 @@
     "gamepal.it": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "gamer-network.net": {
         "epoch": 1613001600.0,
@@ -2735,9 +2735,9 @@
         "state": "future"
     },
     "liligo.it": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
-        "state": "past"
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "state": "future"
     },
     "liliputing.com": {
         "epoch": 1617926400.0,
@@ -3360,9 +3360,9 @@
         "state": "future"
     },
     "newstreet.it": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
-        "state": "past"
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
+        "state": "future"
     },
     "nexac.com": {
         "epoch": 1604016000.0,
@@ -3860,14 +3860,14 @@
         "state": "future"
     },
     "pubblicitaitalia.it": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
-        "state": "past"
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "state": "future"
     },
     "publiweb.com": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
-        "state": "past"
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
+        "state": "future"
     },
     "pubted.com": {
         "epoch": 1593907200.0,
@@ -4790,8 +4790,8 @@
         "state": "future"
     },
     "torntv-tvv.org": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "toroadvertising.com": {
@@ -5240,8 +5240,8 @@
         "state": "future"
     },
     "wagital.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "walkonjob.it": {

@@ -3,8 +3,8 @@
         "*": {
             "included_at_epoch": 1589827188.506426,
             "included_at_iso": "2020-05-18T18:39:48.506426",
-            "last_retested_at_epoch": 1590490545.951958,
-            "last_retested_at_iso": "2020-05-26T10:55:45.951958",
+            "last_retested_at_epoch": 1590778260.619384,
+            "last_retested_at_iso": "2020-05-29T18:51:00.619384",
             "status": "INVALID"
         },
         "adrotate.se": {
@@ -17,36 +17,36 @@
         "ambiente.liquida.it": {
             "included_at_epoch": 1590490555.869388,
             "included_at_iso": "2020-05-26T10:55:55.869388",
-            "last_retested_at_epoch": 1590490555.869388,
-            "last_retested_at_iso": "2020-05-26T10:55:55.869388",
+            "last_retested_at_epoch": 1590778270.258446,
+            "last_retested_at_iso": "2020-05-29T18:51:10.258446",
             "status": "INACTIVE"
         },
         "megaportale.biz": {
             "included_at_epoch": 1590490556.00804,
             "included_at_iso": "2020-05-26T10:55:56.008040",
-            "last_retested_at_epoch": 1590490556.00804,
-            "last_retested_at_iso": "2020-05-26T10:55:56.008040",
+            "last_retested_at_epoch": 1590778270.393724,
+            "last_retested_at_iso": "2020-05-29T18:51:10.393724",
             "status": "INACTIVE"
         },
         "network.adsmarket.com": {
             "included_at_epoch": 1589827190.813081,
             "included_at_iso": "2020-05-18T18:39:50.813081",
-            "last_retested_at_epoch": 1590490548.19256,
-            "last_retested_at_iso": "2020-05-26T10:55:48.192560",
+            "last_retested_at_epoch": 1590778262.781489,
+            "last_retested_at_iso": "2020-05-29T18:51:02.781489",
             "status": "INACTIVE"
         },
         "pianetamotori.liquida.it": {
             "included_at_epoch": 1590490562.247943,
             "included_at_iso": "2020-05-26T10:56:02.247943",
-            "last_retested_at_epoch": 1590490562.247943,
-            "last_retested_at_iso": "2020-05-26T10:56:02.247943",
+            "last_retested_at_epoch": 1590778276.470988,
+            "last_retested_at_iso": "2020-05-29T18:51:16.470988",
             "status": "INACTIVE"
         },
-        "readmanga.eu": {
-            "included_at_epoch": 1588343937.410054,
-            "included_at_iso": "2020-05-01T14:38:57.410054",
-            "last_retested_at_epoch": 1590492394.98174,
-            "last_retested_at_iso": "2020-05-26T11:26:34.981740",
+        "songslover.pk": {
+            "included_at_epoch": 1590778273.478479,
+            "included_at_iso": "2020-05-29T18:51:13.478479",
+            "last_retested_at_epoch": 1590778273.49358,
+            "last_retested_at_iso": "2020-05-29T18:51:13.493580",
             "status": "INACTIVE"
         }
     }
