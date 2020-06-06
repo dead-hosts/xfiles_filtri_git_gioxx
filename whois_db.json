@@ -535,8 +535,8 @@
         "state": "future"
     },
     "bannerflow.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "bbc.co.uk": {
@@ -595,8 +595,8 @@
         "state": "future"
     },
     "binaryinstructor.com": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "bing.com": {
@@ -1220,8 +1220,8 @@
         "state": "future"
     },
     "doublepimp.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "downdetector.com": {
@@ -2637,7 +2637,7 @@
     "laprovinciadicomo.it": {
         "epoch": 1591315200.0,
         "expiration_date": "05-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "larena.it": {
         "epoch": 1615939200.0,
@@ -5345,9 +5345,9 @@
         "state": "future"
     },
     "windows8blog.it": {
-        "epoch": 1590019200.0,
-        "expiration_date": "21-may-2020",
-        "state": "past"
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
+        "state": "future"
     },
     "windowscentral.com": {
         "epoch": 1732320000.0,
