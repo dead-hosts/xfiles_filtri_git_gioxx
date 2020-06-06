@@ -3,8 +3,8 @@
         "*": {
             "included_at_epoch": 1589827188.506426,
             "included_at_iso": "2020-05-18T18:39:48.506426",
-            "last_retested_at_epoch": 1591123696.679742,
-            "last_retested_at_iso": "2020-06-02T18:48:16.679742",
+            "last_retested_at_epoch": 1591469306.653759,
+            "last_retested_at_iso": "2020-06-06T18:48:26.653759",
             "status": "INVALID"
         },
         "adrotate.se": {
@@ -17,29 +17,29 @@
         "ambiente.liquida.it": {
             "included_at_epoch": 1590490555.869388,
             "included_at_iso": "2020-05-26T10:55:55.869388",
-            "last_retested_at_epoch": 1591123706.531171,
-            "last_retested_at_iso": "2020-06-02T18:48:26.531171",
+            "last_retested_at_epoch": 1591469315.923917,
+            "last_retested_at_iso": "2020-06-06T18:48:35.923917",
             "status": "INACTIVE"
         },
         "megaportale.biz": {
             "included_at_epoch": 1590490556.00804,
             "included_at_iso": "2020-05-26T10:55:56.008040",
-            "last_retested_at_epoch": 1591123706.672214,
-            "last_retested_at_iso": "2020-06-02T18:48:26.672214",
+            "last_retested_at_epoch": 1591469316.055496,
+            "last_retested_at_iso": "2020-06-06T18:48:36.055496",
             "status": "INACTIVE"
         },
         "network.adsmarket.com": {
             "included_at_epoch": 1589827190.813081,
             "included_at_iso": "2020-05-18T18:39:50.813081",
-            "last_retested_at_epoch": 1591123698.946046,
-            "last_retested_at_iso": "2020-06-02T18:48:18.946046",
+            "last_retested_at_epoch": 1591469308.723267,
+            "last_retested_at_iso": "2020-06-06T18:48:28.723267",
             "status": "INACTIVE"
         },
         "pianetamotori.liquida.it": {
             "included_at_epoch": 1590490562.247943,
             "included_at_iso": "2020-05-26T10:56:02.247943",
-            "last_retested_at_epoch": 1591123713.091417,
-            "last_retested_at_iso": "2020-06-02T18:48:33.091417",
+            "last_retested_at_epoch": 1591469321.88929,
+            "last_retested_at_iso": "2020-06-06T18:48:41.889290",
             "status": "INACTIVE"
         }
     }
