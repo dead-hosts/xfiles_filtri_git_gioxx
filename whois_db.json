@@ -1310,8 +1310,8 @@
         "state": "future"
     },
     "edugeek.net": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "efrennolasco.com": {
@@ -1782,7 +1782,7 @@
     "gamemag.it": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "gamepal.it": {
         "epoch": 1590710400.0,
@@ -2070,9 +2070,9 @@
         "state": "future"
     },
     "htaccess-guide.com": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
-        "state": "past"
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "state": "future"
     },
     "html.it": {
         "epoch": 1600041600.0,
@@ -2097,7 +2097,7 @@
     "hwfiles.it": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "hwlegend.com": {
         "epoch": 1601251200.0,
@@ -2167,7 +2167,7 @@
     "ilfattoquotidiano.it": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "ilgarantista.it": {
         "epoch": 1593993600.0,
@@ -2175,9 +2175,9 @@
         "state": "future"
     },
     "ilgiornale.it": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
-        "state": "past"
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
+        "state": "future"
     },
     "ilmattino.it": {
         "epoch": 1621555200.0,
@@ -2595,8 +2595,8 @@
         "state": "future"
     },
     "labaia.ws": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "labnol.org": {
@@ -3027,7 +3027,7 @@
     "megalab.it": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "megapopads.com": {
         "epoch": 1591920000.0,
@@ -3062,7 +3062,7 @@
     "mentelocale.it": {
         "epoch": 1591747200.0,
         "expiration_date": "10-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "mercatinomusicale.com": {
         "epoch": 1658448000.0,
@@ -3635,8 +3635,8 @@
         "state": "future"
     },
     "pcprofessionale.it": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "pcworld.com": {
@@ -4285,8 +4285,8 @@
         "state": "future"
     },
     "smartadserver.com": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "smartworld.it": {
@@ -4852,7 +4852,7 @@
     "treccani.it": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "trend-online.com": {
         "epoch": 1612224000.0,
@@ -5245,9 +5245,9 @@
         "state": "future"
     },
     "walkonjob.it": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
-        "state": "past"
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
+        "state": "future"
     },
     "wallpaperswide.com": {
         "epoch": 1652918400.0,
@@ -5475,9 +5475,9 @@
         "state": "future"
     },
     "youfeed.it": {
-        "epoch": 1590105600.0,
-        "expiration_date": "22-may-2020",
-        "state": "past"
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "state": "future"
     },
     "youporn.com": {
         "epoch": 1621728000.0,
