@@ -1000,8 +1000,8 @@
         "state": "future"
     },
     "cosedicasa.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "cosenascoste.com": {
@@ -1162,7 +1162,7 @@
     "digital-sat.it": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "digitalangel.it": {
         "epoch": 1604966400.0,
@@ -2365,8 +2365,8 @@
         "state": "future"
     },
     "instructables.com": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
         "state": "future"
     },
     "intellitxt.com": {
@@ -2650,9 +2650,9 @@
         "state": "future"
     },
     "laprovinciadicomo.it": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
-        "state": "past"
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
+        "state": "future"
     },
     "larena.it": {
         "epoch": 1615939200.0,
@@ -4635,9 +4635,9 @@
         "state": "future"
     },
     "teleclubitalia.it": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
-        "state": "past"
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "state": "future"
     },
     "telefonino.net": {
         "epoch": 1593907200.0,
