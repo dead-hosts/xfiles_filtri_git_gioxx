@@ -85,8 +85,8 @@
         "state": "future"
     },
     "62b70ac32d4614b.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "6sicuro.it": {
@@ -1790,9 +1790,9 @@
         "state": "future"
     },
     "gamemag.it": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
-        "state": "past"
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
+        "state": "future"
     },
     "gamepal.it": {
         "epoch": 1622246400.0,
@@ -2080,8 +2080,8 @@
         "state": "future"
     },
     "hstpnetwork.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "htaccess-guide.com": {
@@ -2110,9 +2110,9 @@
         "state": "future"
     },
     "hwfiles.it": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
-        "state": "past"
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
+        "state": "future"
     },
     "hwlegend.com": {
         "epoch": 1601251200.0,
@@ -2177,12 +2177,12 @@
     "igossip.it": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "ilfattoquotidiano.it": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
-        "state": "past"
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "state": "future"
     },
     "ilgarantista.it": {
         "epoch": 1593993600.0,
@@ -3045,9 +3045,9 @@
         "state": "future"
     },
     "megalab.it": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
-        "state": "past"
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
+        "state": "future"
     },
     "megapopads.com": {
         "epoch": 1623456000.0,
@@ -3975,8 +3975,8 @@
         "state": "future"
     },
     "rai.tv": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "raiplay.it": {
@@ -4012,7 +4012,7 @@
     "ravennanotizie.it": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "ravennatoday.it": {
         "epoch": 1622592000.0,
@@ -4787,7 +4787,7 @@
     "tiscali.it": {
         "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "tmag.it": {
         "epoch": 1620604800.0,
@@ -5120,8 +5120,8 @@
         "state": "future"
     },
     "varese.net": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "varesenews.it": {
