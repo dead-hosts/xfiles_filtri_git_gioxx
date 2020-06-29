@@ -2775,8 +2775,8 @@
         "state": "future"
     },
     "linktarget.com": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
         "state": "future"
     },
     "linuxuser.co.uk": {
@@ -3080,9 +3080,9 @@
         "state": "future"
     },
     "mentelocale.it": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
-        "state": "past"
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
+        "state": "future"
     },
     "mercatinomusicale.com": {
         "epoch": 1658448000.0,
@@ -3722,7 +3722,7 @@
     "pillamaro.it": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "pinceladasdaweb.com.br": {
         "epoch": 1618876800.0,
@@ -4422,7 +4422,7 @@
     "spaziogames.it": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "speckyboy.com": {
         "epoch": 1606176000.0,
@@ -4475,8 +4475,8 @@
         "state": "future"
     },
     "statsmobi.com": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "stockpair.com": {
@@ -4880,9 +4880,9 @@
         "state": "future"
     },
     "treccani.it": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
-        "state": "past"
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
+        "state": "future"
     },
     "trend-online.com": {
         "epoch": 1612224000.0,
@@ -5345,8 +5345,8 @@
         "state": "future"
     },
     "wikifeet.com": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1751068800.0,
+        "expiration_date": "28-jun-2025",
         "state": "future"
     },
     "wikihow.com": {
