@@ -220,8 +220,8 @@
         "state": "future"
     },
     "advplace.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "adxcore.com": {
@@ -325,9 +325,9 @@
         "state": "future"
     },
     "amando.it": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
-        "state": "past"
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "state": "future"
     },
     "amazon-adsystem.com": {
         "epoch": 1726444800.0,
@@ -785,9 +785,9 @@
         "state": "future"
     },
     "catanzaroinforma.it": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
-        "state": "past"
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "state": "future"
     },
     "cb01.org": {
         "epoch": 1600732800.0,
@@ -1070,8 +1070,8 @@
         "state": "future"
     },
     "da-ads.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "dagospia.com": {
@@ -1430,9 +1430,9 @@
         "state": "future"
     },
     "evomagazine.it": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
-        "state": "past"
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
+        "state": "future"
     },
     "exchangetips.us": {
         "epoch": 1646524800.0,
@@ -1805,9 +1805,9 @@
         "state": "future"
     },
     "games.it": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
-        "state": "past"
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
+        "state": "future"
     },
     "gamesource.it": {
         "epoch": 1618099200.0,
@@ -1890,8 +1890,8 @@
         "state": "future"
     },
     "gizmodo.com": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "golackawanna.com": {
@@ -1960,9 +1960,9 @@
         "state": "future"
     },
     "groupon.it": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
-        "state": "past"
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
+        "state": "future"
     },
     "gsmarena.com": {
         "epoch": 1686787200.0,
@@ -2940,8 +2940,8 @@
         "state": "future"
     },
     "makeuseof.com": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "mangaforever.net": {
@@ -3620,8 +3620,8 @@
         "state": "future"
     },
     "passepartout.net": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "pastebin.com": {
@@ -4230,8 +4230,8 @@
         "state": "future"
     },
     "sh.st": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "sharingfreelive.net": {
@@ -4245,8 +4245,8 @@
         "state": "future"
     },
     "shopping.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "shoppydoo.it": {
@@ -4280,9 +4280,9 @@
         "state": "future"
     },
     "sky.it": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
-        "state": "past"
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
     },
     "skypefun.net": {
         "epoch": 1605830400.0,
