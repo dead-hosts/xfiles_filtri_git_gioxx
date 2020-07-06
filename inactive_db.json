@@ -10,8 +10,8 @@
         "adrotate.se": {
             "included_at_epoch": 1591902405.875808,
             "included_at_iso": "2020-06-11T19:06:45.875808",
-            "last_retested_at_epoch": 1593945269.905033,
-            "last_retested_at_iso": "2020-07-05T10:34:29.905033",
+            "last_retested_at_epoch": 1594032112.759001,
+            "last_retested_at_iso": "2020-07-06T10:41:52.759001",
             "status": "INACTIVE"
         },
         "ambiente.liquida.it": {
@@ -45,8 +45,8 @@
         "pianetamotori.liquida.it": {
             "included_at_epoch": 1593112688.555551,
             "included_at_iso": "2020-06-25T19:18:08.555551",
-            "last_retested_at_epoch": 1593945261.499009,
-            "last_retested_at_iso": "2020-07-05T10:34:21.499009",
+            "last_retested_at_epoch": 1594032103.97148,
+            "last_retested_at_iso": "2020-07-06T10:41:43.971480",
             "status": "INACTIVE"
         }
     }

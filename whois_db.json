@@ -1312,7 +1312,7 @@
     "edintorni.net": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "edreams.it": {
         "epoch": 1613865600.0,
@@ -2187,7 +2187,7 @@
     "ilgarantista.it": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ilgiornale.it": {
         "epoch": 1621900800.0,
@@ -4640,9 +4640,9 @@
         "state": "future"
     },
     "telefonino.net": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
-        "state": "past"
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "state": "future"
     },
     "televisionando.it": {
         "epoch": 1613952000.0,
