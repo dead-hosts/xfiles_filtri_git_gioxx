@@ -1117,7 +1117,7 @@
     "dday.it": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "dduniverse.net": {
         "epoch": 1602979200.0,
@@ -1160,9 +1160,9 @@
         "state": "future"
     },
     "digital-sat.it": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
-        "state": "past"
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "state": "future"
     },
     "digitalangel.it": {
         "epoch": 1604966400.0,
@@ -1310,9 +1310,9 @@
         "state": "future"
     },
     "edintorni.net": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
-        "state": "past"
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
     },
     "edreams.it": {
         "epoch": 1613865600.0,
@@ -2570,8 +2570,8 @@
         "state": "future"
     },
     "kickass.so": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "kijiji.it": {
@@ -4947,7 +4947,7 @@
     "turbolab.it": {
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "tutorialized.com": {
         "epoch": 1638748800,
