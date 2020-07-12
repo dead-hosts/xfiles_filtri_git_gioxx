@@ -400,8 +400,8 @@
         "state": "future"
     },
     "apkmirror.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "appcrawlr.com": {
@@ -2712,7 +2712,7 @@
     "lettera43.it": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "libero.it": {
         "epoch": 1622678400.0,
@@ -4690,9 +4690,9 @@
         "state": "future"
     },
     "thefreecamsecret.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
-        "state": "past"
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
+        "state": "future"
     },
     "thegamesmachine.it": {
         "epoch": 1619308800.0,
