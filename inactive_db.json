@@ -1,52 +1,52 @@
 {
     "/home/travis/build/dead-hosts/xfiles_filtri_git_gioxx/domains.list": {
         "*": {
-            "included_at_epoch": 1592248692.906224,
-            "included_at_iso": "2020-06-15T19:18:12.906224",
-            "last_retested_at_epoch": 1594495564.000078,
-            "last_retested_at_iso": "2020-07-11T19:26:04.000078",
+            "included_at_epoch": 1594809541.641092,
+            "included_at_iso": "2020-07-15T10:39:01.641092",
+            "last_retested_at_epoch": 1594809541.641092,
+            "last_retested_at_iso": "2020-07-15T10:39:01.641092",
             "status": "INVALID"
         },
         "adrotate.se": {
             "included_at_epoch": 1594495588.03447,
             "included_at_iso": "2020-07-11T19:26:28.034470",
-            "last_retested_at_epoch": 1594495588.03447,
-            "last_retested_at_iso": "2020-07-11T19:26:28.034470",
+            "last_retested_at_epoch": 1594809564.303314,
+            "last_retested_at_iso": "2020-07-15T10:39:24.303314",
             "status": "INACTIVE"
         },
         "ambiente.liquida.it": {
             "included_at_epoch": 1593112682.210403,
             "included_at_iso": "2020-06-25T19:18:02.210403",
-            "last_retested_at_epoch": 1594495567.037096,
-            "last_retested_at_iso": "2020-07-11T19:26:07.037096",
+            "last_retested_at_epoch": 1594809544.546312,
+            "last_retested_at_iso": "2020-07-15T10:39:04.546312",
             "status": "INACTIVE"
         },
         "go.flaticon.com": {
             "included_at_epoch": 1593112674.392862,
             "included_at_iso": "2020-06-25T19:17:54.392862",
-            "last_retested_at_epoch": 1594495565.334822,
-            "last_retested_at_iso": "2020-07-11T19:26:05.334822",
+            "last_retested_at_epoch": 1594809542.917623,
+            "last_retested_at_iso": "2020-07-15T10:39:02.917623",
             "status": "INACTIVE"
         },
         "megaportale.biz": {
             "included_at_epoch": 1593112682.355477,
             "included_at_iso": "2020-06-25T19:18:02.355477",
-            "last_retested_at_epoch": 1594495577.817874,
-            "last_retested_at_iso": "2020-07-11T19:26:17.817874",
+            "last_retested_at_epoch": 1594809554.767215,
+            "last_retested_at_iso": "2020-07-15T10:39:14.767215",
             "status": "INACTIVE"
         },
         "network.adsmarket.com": {
-            "included_at_epoch": 1592248695.209891,
-            "included_at_iso": "2020-06-15T19:18:15.209891",
-            "last_retested_at_epoch": 1594495565.636635,
-            "last_retested_at_iso": "2020-07-11T19:26:05.636635",
+            "included_at_epoch": 1594809543.239143,
+            "included_at_iso": "2020-07-15T10:39:03.239143",
+            "last_retested_at_epoch": 1594809543.239143,
+            "last_retested_at_iso": "2020-07-15T10:39:03.239143",
             "status": "INACTIVE"
         },
         "pianetamotori.liquida.it": {
             "included_at_epoch": 1593112688.555551,
             "included_at_iso": "2020-06-25T19:18:08.555551",
-            "last_retested_at_epoch": 1594495580.588531,
-            "last_retested_at_iso": "2020-07-11T19:26:20.588531",
+            "last_retested_at_epoch": 1594809557.374659,
+            "last_retested_at_iso": "2020-07-15T10:39:17.374659",
             "status": "INACTIVE"
         }
     }

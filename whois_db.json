@@ -75,8 +75,8 @@
         "state": "future"
     },
     "4xcellent.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "5nowvideo.com": {
@@ -550,8 +550,8 @@
         "state": "future"
     },
     "bbc.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "bellaweb.it": {
@@ -1872,7 +1872,7 @@
     "giorgiotave.it": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "giornalegiornaliero.com": {
         "epoch": 1611878400.0,
@@ -3127,7 +3127,7 @@
     "milanolife.it": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "milanotoday.it": {
         "epoch": 1613001600.0,
@@ -3720,9 +3720,9 @@
         "state": "future"
     },
     "pillamaro.it": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
-        "state": "past"
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
+        "state": "future"
     },
     "pinceladasdaweb.com.br": {
         "epoch": 1618876800.0,
@@ -3925,8 +3925,8 @@
         "state": "future"
     },
     "quattroruote.it": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "queensberry-rules.com": {
@@ -4307,7 +4307,7 @@
     "smart-call.it": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "smartadserver.com": {
         "epoch": 1623283200.0,
@@ -4420,9 +4420,9 @@
         "state": "future"
     },
     "spaziogames.it": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
-        "state": "past"
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
+        "state": "future"
     },
     "speckyboy.com": {
         "epoch": 1606176000.0,
@@ -4480,8 +4480,8 @@
         "state": "future"
     },
     "stockpair.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "streamnowmovies.com": {
