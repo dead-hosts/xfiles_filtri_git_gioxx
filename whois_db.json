@@ -272,7 +272,7 @@
     "alguer.it": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "allkeyshop.com": {
         "epoch": 1611014400.0,
@@ -1700,8 +1700,8 @@
         "state": "future"
     },
     "francescocosta.net": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "franchiseherald.com": {
@@ -3275,8 +3275,8 @@
         "state": "future"
     },
     "musicbrainz.org": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1878940800.0,
+        "expiration_date": "17-jul-2029",
         "state": "future"
     },
     "mutuok.com": {
@@ -3790,8 +3790,8 @@
         "state": "future"
     },
     "polygon.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "popads.net": {
@@ -4465,8 +4465,8 @@
         "state": "future"
     },
     "start.io": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "statcounter.com": {
@@ -5490,8 +5490,8 @@
         "state": "future"
     },
     "yeabble.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "yepp-yepp.it": {
@@ -5567,7 +5567,7 @@
     "zeroredirect10.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "zeusnews.it": {
         "epoch": 1598313600.0,
