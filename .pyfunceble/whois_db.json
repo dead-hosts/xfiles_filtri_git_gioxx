@@ -1412,7 +1412,7 @@
     "eurogamer.it": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "eurogamer.net": {
         "epoch": 1838592000.0,
@@ -3990,8 +3990,8 @@
         "state": "future"
     },
     "rapidvideo.org": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "rapidvideo.tv": {
@@ -5480,8 +5480,8 @@
         "state": "future"
     },
     "yabidos.com": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "yahoo.com": {
@@ -5565,9 +5565,9 @@
         "state": "future"
     },
     "zeroredirect10.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
-        "state": "past"
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
     },
     "zeusnews.it": {
         "epoch": 1598313600.0,
