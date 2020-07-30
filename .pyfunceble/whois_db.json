@@ -1670,8 +1670,8 @@
         "state": "future"
     },
     "forensicfocus.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "fortune.com": {
@@ -2232,7 +2232,7 @@
     "ilrestodelcarlino.it": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ilsecoloxix.it": {
         "epoch": 1603929600.0,
@@ -2710,9 +2710,9 @@
         "state": "future"
     },
     "lettera43.it": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
-        "state": "past"
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
     },
     "libero.it": {
         "epoch": 1622678400.0,
@@ -3457,6 +3457,11 @@
     "nwsource.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "nxmac.com": {
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "nytimes.com": {
@@ -4357,7 +4362,7 @@
     "softairmania.it": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "softblog.it": {
         "epoch": 1613520000.0,
@@ -5414,6 +5419,11 @@
         "expiration_date": "26-jan-2021",
         "state": "future"
     },
+    "wittgenstein.it": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
     "womensradio.com": {
         "epoch": 1705622400,
         "expiration_date": "19-jan-2024",
@@ -5455,8 +5465,8 @@
         "state": "future"
     },
     "xboxway.com": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "xe.com": {
@@ -5542,6 +5552,11 @@
     "ytimg.com": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
+    "ytmp3.cc": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "yuvutu.com": {
