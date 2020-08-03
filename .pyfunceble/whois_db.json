@@ -20,8 +20,8 @@
         "state": "future"
     },
     "10fbb07a4b0.se": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "123people.it": {
@@ -270,9 +270,9 @@
         "state": "future"
     },
     "alguer.it": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
-        "state": "past"
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "state": "future"
     },
     "allkeyshop.com": {
         "epoch": 1611014400.0,
@@ -1410,9 +1410,9 @@
         "state": "future"
     },
     "eurogamer.it": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
-        "state": "past"
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
+        "state": "future"
     },
     "eurogamer.net": {
         "epoch": 1838592000.0,
@@ -1462,7 +1462,7 @@
     "faccedagioco.com": {
         "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "facebook.com": {
         "epoch": 1837987200.0,
@@ -1870,9 +1870,9 @@
         "state": "future"
     },
     "giorgiotave.it": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
-        "state": "past"
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "state": "future"
     },
     "giornalegiornaliero.com": {
         "epoch": 1611878400.0,
@@ -2207,7 +2207,7 @@
     "ilmeteo.it": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "ilmilaneseimbruttito.com": {
         "epoch": 1616371200.0,
@@ -2330,8 +2330,8 @@
         "state": "future"
     },
     "infojobs.it": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "infopart.org": {
@@ -3125,9 +3125,9 @@
         "state": "future"
     },
     "milanolife.it": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
-        "state": "past"
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "state": "future"
     },
     "milanotoday.it": {
         "epoch": 1613001600.0,
@@ -3195,8 +3195,8 @@
         "state": "future"
     },
     "mofunzone.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1659225600.0,
+        "expiration_date": "31-jul-2022",
         "state": "future"
     },
     "mollotutto.com": {
@@ -3705,8 +3705,8 @@
         "state": "future"
     },
     "phica.net": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "phicatube.net": {
@@ -3902,7 +3902,7 @@
     "punto-informatico.it": {
         "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "puntocellulare.it": {
         "epoch": 1616198400.0,
@@ -4310,9 +4310,9 @@
         "state": "future"
     },
     "smart-call.it": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
-        "state": "past"
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "state": "future"
     },
     "smartadserver.com": {
         "epoch": 1623283200.0,
@@ -4377,7 +4377,7 @@
     "softonic.it": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "softpedia.com": {
         "epoch": 1655596800.0,
@@ -4490,8 +4490,8 @@
         "state": "future"
     },
     "streamnowmovies.com": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "subito.it": {
@@ -4625,8 +4625,8 @@
         "state": "future"
     },
     "tecnobriciole.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "tecnomani.com": {
@@ -4730,8 +4730,8 @@
         "state": "future"
     },
     "thenextweb.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "thenounproject.com": {
@@ -4810,8 +4810,8 @@
         "state": "future"
     },
     "tomsguide.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "tomshw.it": {
@@ -5537,7 +5537,7 @@
     "yourlifeupdated.it": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "youtube.com": {
         "epoch": 1613347200.0,
