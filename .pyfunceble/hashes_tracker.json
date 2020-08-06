@@ -1,12 +1,12 @@
 {
     "/home/travis/build/dead-hosts/xfiles_filtri_git_gioxx/domains.list": {
         "base": {
-            "datetime_iso": "2020-08-03T19:08:58.288788",
-            "hash": "27fab8069d27a644f28980c858bae827dacf835399fb6d3a014a527c"
+            "datetime_iso": "2020-08-06T10:45:52.054637",
+            "hash": "7c30a61d8ff64a08f6d40d32a296dc8e1486f9529dd271c3520cab8b"
         },
         "latest": {
-            "datetime_iso": "2020-08-04T10:44:10.179239",
-            "hash": "27fab8069d27a644f28980c858bae827dacf835399fb6d3a014a527c"
+            "datetime_iso": "2020-08-06T10:45:52.054637",
+            "hash": "7c30a61d8ff64a08f6d40d32a296dc8e1486f9529dd271c3520cab8b"
         },
         "position": 0
     }

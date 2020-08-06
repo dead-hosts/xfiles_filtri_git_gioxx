@@ -987,7 +987,7 @@
     "corriere.it": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "corrieredellacalabria.it": {
         "epoch": 1616803200.0,
@@ -1080,9 +1080,9 @@
         "state": "future"
     },
     "dailybest.it": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
     },
     "dailydot.com": {
         "epoch": 1605744000.0,
@@ -1827,7 +1827,7 @@
     "gazzetta.it": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "gazzettadiparma.it": {
         "epoch": 1605225600.0,
@@ -1955,9 +1955,9 @@
         "state": "future"
     },
     "greenme.it": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
     },
     "groupon.it": {
         "epoch": 1623628800.0,
@@ -2177,6 +2177,11 @@
     "igossip.it": {
         "epoch": 1624406400.0,
         "expiration_date": "23-jun-2021",
+        "state": "future"
+    },
+    "ilcorsaronero.link": {
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "ilfattoquotidiano.it": {
@@ -3600,8 +3605,8 @@
         "state": "future"
     },
     "pagomeno.it": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "panorama-auto.it": {
@@ -4097,7 +4102,7 @@
     "robertochibbaro.it": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "robertoiacono.it": {
         "epoch": 1602201600.0,
@@ -4267,6 +4272,11 @@
     "shoutmeloud.com": {
         "epoch": 1701302400.0,
         "expiration_date": "30-nov-2023",
+        "state": "future"
+    },
+    "shutterencoder.com": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "sicurauto.it": {
@@ -4537,7 +4547,7 @@
     "targatocn.it": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "tariffando.it": {
         "epoch": 1618617600.0,
