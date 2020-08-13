@@ -322,7 +322,7 @@
     "alvolante.it": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "amando.it": {
         "epoch": 1623715200.0,
@@ -880,8 +880,8 @@
         "state": "future"
     },
     "cloudtracked.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
         "state": "future"
     },
     "clz3.net": {
@@ -2052,7 +2052,7 @@
     "hostingtalk.it": {
         "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "hotscripts.com": {
         "epoch": 1599868800.0,
@@ -2075,8 +2075,8 @@
         "state": "future"
     },
     "hqstream.tv": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "hstpnetwork.com": {
@@ -2235,9 +2235,9 @@
         "state": "future"
     },
     "ilrestodelcarlino.it": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
-        "state": "past"
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
+        "state": "future"
     },
     "ilsecoloxix.it": {
         "epoch": 1603929600.0,
@@ -2630,9 +2630,9 @@
         "state": "past"
     },
     "lafucina.it": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
-        "state": "past"
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
+        "state": "future"
     },
     "lalaziosiamonoi.it": {
         "epoch": 1596499200.0,
@@ -3102,7 +3102,7 @@
     "meteo.it": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "mgid.com": {
         "epoch": 1609286400.0,
@@ -3602,7 +3602,7 @@
     "paddypower.it": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "pagomeno.it": {
         "epoch": 1623888000.0,
@@ -4190,9 +4190,9 @@
         "state": "future"
     },
     "screenweek.it": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
-        "state": "past"
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "state": "future"
     },
     "scribd.com": {
         "epoch": 1600905600.0,
@@ -4590,8 +4590,8 @@
         "state": "future"
     },
     "techprincess.it": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "techradar.com": {
