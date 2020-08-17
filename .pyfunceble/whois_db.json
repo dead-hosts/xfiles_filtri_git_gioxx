@@ -1735,8 +1735,8 @@
         "state": "future"
     },
     "friendlyappz.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "fruji.com": {
@@ -4370,9 +4370,9 @@
         "state": "future"
     },
     "softairmania.it": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
-        "state": "past"
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
+        "state": "future"
     },
     "softblog.it": {
         "epoch": 1613520000.0,
@@ -4385,9 +4385,9 @@
         "state": "future"
     },
     "softonic.it": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
-        "state": "past"
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "state": "future"
     },
     "softpedia.com": {
         "epoch": 1655596800.0,
@@ -4695,8 +4695,8 @@
         "state": "future"
     },
     "theapplelounge.com": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "thebrowsergame.com": {
@@ -5032,7 +5032,7 @@
     "ucicinemas.it": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "ultimate-rihanna.com": {
         "epoch": 1596499200,
@@ -5372,7 +5372,7 @@
     "williamhill.it": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "winamp.com": {
         "epoch": 1608681600.0,
