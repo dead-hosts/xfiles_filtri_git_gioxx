@@ -27,7 +27,7 @@
     "123people.it": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "1fichier.com": {
         "epoch": 1607299200.0,
@@ -205,8 +205,8 @@
         "state": "future"
     },
     "adsrvmedia.net": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "adverkeyz.com": {
@@ -985,9 +985,9 @@
         "state": "future"
     },
     "corriere.it": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
-        "state": "past"
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
+        "state": "future"
     },
     "corrieredellacalabria.it": {
         "epoch": 1616803200.0,
@@ -1825,9 +1825,9 @@
         "state": "future"
     },
     "gazzetta.it": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
-        "state": "past"
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
+        "state": "future"
     },
     "gazzettadiparma.it": {
         "epoch": 1605225600.0,
@@ -1902,7 +1902,7 @@
     "golandwin.it": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "goo.gl": {
         "epoch": 1609459200.0,
@@ -2210,9 +2210,9 @@
         "state": "future"
     },
     "ilmeteo.it": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
-        "state": "past"
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
+        "state": "future"
     },
     "ilmilaneseimbruttito.com": {
         "epoch": 1616371200.0,
@@ -2360,8 +2360,8 @@
         "state": "future"
     },
     "instantshift.com": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1692576000.0,
+        "expiration_date": "21-aug-2023",
         "state": "future"
     },
     "instapaper.com": {
@@ -2550,8 +2550,8 @@
         "state": "future"
     },
     "justin.tv": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "justwatch.com": {
@@ -2635,9 +2635,9 @@
         "state": "future"
     },
     "lalaziosiamonoi.it": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
-        "state": "past"
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
+        "state": "future"
     },
     "laleggepertutti.it": {
         "epoch": 1605312000.0,
@@ -3235,8 +3235,8 @@
         "state": "future"
     },
     "motogp.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "movshare.ag": {
@@ -3595,9 +3595,9 @@
         "state": "future"
     },
     "overpress.it": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
-        "state": "past"
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
+        "state": "future"
     },
     "paddypower.it": {
         "epoch": 1597190400.0,
@@ -3905,9 +3905,9 @@
         "state": "future"
     },
     "punto-informatico.it": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
-        "state": "past"
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
+        "state": "future"
     },
     "puntocellulare.it": {
         "epoch": 1616198400.0,
@@ -4100,9 +4100,9 @@
         "state": "future"
     },
     "robertochibbaro.it": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
-        "state": "past"
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
+        "state": "future"
     },
     "robertoiacono.it": {
         "epoch": 1602201600.0,
@@ -4515,8 +4515,8 @@
         "state": "future"
     },
     "suryadewa.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "swzone.it": {
