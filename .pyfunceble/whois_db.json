@@ -620,8 +620,8 @@
         "state": "future"
     },
     "biteyourapple.net": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "bitterstrawberry.org": {
@@ -852,7 +852,7 @@
     "cliccalavoro.it": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "clickansave.net": {
         "epoch": 1613088000.0,
@@ -1090,8 +1090,8 @@
         "state": "future"
     },
     "dailygame.net": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "dailygreen.it": {
@@ -1210,8 +1210,8 @@
         "state": "future"
     },
     "documoo.tv": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "doodle.com": {
@@ -1880,8 +1880,8 @@
         "state": "future"
     },
     "giornalettismo.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "gioxx.org": {
@@ -2150,9 +2150,9 @@
         "state": "future"
     },
     "idealista.it": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
-        "state": "past"
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "state": "future"
     },
     "idownloadblog.com": {
         "epoch": 1620259200.0,
@@ -2625,9 +2625,9 @@
         "state": "future"
     },
     "lacnews24.it": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
-        "state": "past"
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "state": "future"
     },
     "lafucina.it": {
         "epoch": 1627171200.0,
@@ -3415,8 +3415,8 @@
         "state": "future"
     },
     "nintendon.it": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "nolabnoparty.com": {
@@ -3485,9 +3485,9 @@
         "state": "future"
     },
     "oggitreviso.it": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
-        "state": "past"
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "state": "future"
     },
     "oilproject.org": {
         "epoch": 1599436800.0,
@@ -4085,8 +4085,8 @@
         "state": "future"
     },
     "rivcash.com": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "rivistastudio.com": {
@@ -4335,8 +4335,8 @@
         "state": "future"
     },
     "smashingmagazine.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "smereghetti.com": {
@@ -4545,9 +4545,9 @@
         "state": "future"
     },
     "targatocn.it": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
-        "state": "past"
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
+        "state": "future"
     },
     "tariffando.it": {
         "epoch": 1618617600.0,
@@ -5262,7 +5262,7 @@
     "vitadasmartphone.it": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "vittgam.net": {
         "epoch": 1620518400.0,
@@ -5597,7 +5597,7 @@
     "zeusnews.it": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "zippyshare.com": {
         "epoch": 1630886400.0,
