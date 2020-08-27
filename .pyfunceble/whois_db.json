@@ -257,7 +257,7 @@
     "agi.it": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "agoravox.it": {
         "epoch": 1612828800.0,
@@ -1352,7 +1352,7 @@
     "emiliameteo.net": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "emuparadise.me": {
         "epoch": 1623715200.0,
@@ -2050,9 +2050,9 @@
         "state": "future"
     },
     "hostingtalk.it": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
-        "state": "past"
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
+        "state": "future"
     },
     "hotscripts.com": {
         "epoch": 1599868800.0,
@@ -3100,9 +3100,9 @@
         "state": "future"
     },
     "meteo.it": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
-        "state": "past"
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
+        "state": "future"
     },
     "mgid.com": {
         "epoch": 1609286400.0,
