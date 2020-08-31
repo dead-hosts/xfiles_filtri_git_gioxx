@@ -27,6 +27,7 @@
     "123people.it": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
+        "server": "whois.nic.it",
         "state": "past"
     },
     "1fichier.com": {
@@ -257,6 +258,7 @@
     "agi.it": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
+        "server": "whois.nic.it",
         "state": "past"
     },
     "agoravox.it": {
@@ -320,9 +322,10 @@
         "state": "future"
     },
     "alvolante.it": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
-        "state": "past"
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "server": "whois.nic.it",
+        "state": "future"
     },
     "amando.it": {
         "epoch": 1623715200.0,
@@ -537,7 +540,8 @@
     "badtaste.it": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "bannerflow.com": {
         "epoch": 1622678400.0,
@@ -852,6 +856,7 @@
     "cliccalavoro.it": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
+        "server": "whois.nic.it",
         "state": "past"
     },
     "clickansave.net": {
@@ -1350,9 +1355,10 @@
         "state": "future"
     },
     "emiliameteo.net": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
-        "state": "past"
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "emuparadise.me": {
         "epoch": 1623715200.0,
@@ -1587,7 +1593,8 @@
     "filetarget.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "film-stream.tv": {
         "epoch": 1609113600.0,
@@ -1780,8 +1787,9 @@
         "state": "future"
     },
     "gameforge.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gamefront.com": {
@@ -1902,6 +1910,7 @@
     "golandwin.it": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
+        "server": "whois.nic.it",
         "state": "past"
     },
     "goo.gl": {
@@ -2140,8 +2149,9 @@
         "state": "future"
     },
     "iconshut.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "iconspedia.com": {
@@ -3127,7 +3137,8 @@
     "milanodabere.it": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "milanolife.it": {
         "epoch": 1626307200.0,
@@ -3382,7 +3393,8 @@
     "newsrimini.it": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "newstreet.it": {
         "epoch": 1620777600.0,
@@ -3600,9 +3612,10 @@
         "state": "future"
     },
     "paddypower.it": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
-        "state": "past"
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
+        "server": "whois.nic.it",
+        "state": "future"
     },
     "pagomeno.it": {
         "epoch": 1623888000.0,
@@ -3842,6 +3855,7 @@
     "postimg.org": {
         "epoch": 1552694400.0,
         "expiration_date": "16-mar-2019",
+        "server": "whois.pir.org",
         "state": "past"
     },
     "primaonline.it": {
@@ -3932,6 +3946,7 @@
     "qlnews.it": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
+        "server": "whois.nic.it",
         "state": "past"
     },
     "quattroruote.it": {
@@ -4225,8 +4240,9 @@
         "state": "future"
     },
     "servizioallerta.it": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
+        "server": "whois.nic.it",
         "state": "future"
     },
     "serviziopubblico.it": {
@@ -4262,7 +4278,8 @@
     "shoppydoo.it": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "shouldiremoveit.com": {
         "epoch": 1607299200.0,
@@ -4922,7 +4939,8 @@
     "trovaprezzi.it": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "troyhunt.com": {
         "epoch": 1605398400.0,
@@ -5032,6 +5050,7 @@
     "ucicinemas.it": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
+        "server": "whois.nic.it",
         "state": "past"
     },
     "ultimate-rihanna.com": {
@@ -5262,6 +5281,7 @@
     "vitadasmartphone.it": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
+        "server": "whois.nic.it",
         "state": "past"
     },
     "vittgam.net": {
@@ -5372,6 +5392,7 @@
     "williamhill.it": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
+        "server": "whois.nic.it",
         "state": "past"
     },
     "winamp.com": {
@@ -5547,6 +5568,7 @@
     "yourlifeupdated.it": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
+        "server": "whois.nic.it",
         "state": "past"
     },
     "youtube.com": {
@@ -5597,6 +5619,7 @@
     "zeusnews.it": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
+        "server": "whois.nic.it",
         "state": "past"
     },
     "zippyshare.com": {

@@ -48,6 +48,13 @@
             "last_retested_at_epoch": 1598557520.359523,
             "last_retested_at_iso": "2020-08-27T19:45:20.359523",
             "status": "INACTIVE"
+        },
+        "zpag.es": {
+            "included_at_epoch": 1598902483.29316,
+            "included_at_iso": "2020-08-31T19:34:43.293160",
+            "last_retested_at_epoch": 1598902483.29316,
+            "last_retested_at_iso": "2020-08-31T19:34:43.293160",
+            "status": "INACTIVE"
         }
     }
 }
