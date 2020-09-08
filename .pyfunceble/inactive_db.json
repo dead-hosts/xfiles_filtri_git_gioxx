@@ -8,10 +8,10 @@
             "status": "INVALID"
         },
         "adrotate.se": {
-            "included_at_epoch": 1597001667.044436,
-            "included_at_iso": "2020-08-09T19:34:27.044436",
-            "last_retested_at_epoch": 1598557527.760061,
-            "last_retested_at_iso": "2020-08-27T19:45:27.760061",
+            "included_at_epoch": 1599593851.136702,
+            "included_at_iso": "2020-09-08T19:37:31.136702",
+            "last_retested_at_epoch": 1599593851.136702,
+            "last_retested_at_iso": "2020-09-08T19:37:31.136702",
             "status": "INACTIVE"
         },
         "ambiente.liquida.it": {
