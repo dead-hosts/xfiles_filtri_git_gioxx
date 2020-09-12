@@ -1,10 +1,10 @@
 {
     "/home/travis/build/dead-hosts/xfiles_filtri_git_gioxx/domains.list": {
         "*": {
-            "included_at_epoch": 1597347629.267394,
-            "included_at_iso": "2020-08-13T19:40:29.267394",
-            "last_retested_at_epoch": 1598557503.750629,
-            "last_retested_at_iso": "2020-08-27T19:45:03.750629",
+            "included_at_epoch": 1599939651.887397,
+            "included_at_iso": "2020-09-12T19:40:51.887397",
+            "last_retested_at_epoch": 1599939651.887397,
+            "last_retested_at_iso": "2020-09-12T19:40:51.887397",
             "status": "INVALID"
         },
         "adrotate.se": {
@@ -19,6 +19,13 @@
             "included_at_iso": "2020-08-25T19:31:48.124507",
             "last_retested_at_epoch": 1598557506.749908,
             "last_retested_at_iso": "2020-08-27T19:45:06.749908",
+            "status": "INACTIVE"
+        },
+        "entilocali.umforumgratis.com": {
+            "included_at_epoch": 1599939653.338699,
+            "included_at_iso": "2020-09-12T19:40:53.338699",
+            "last_retested_at_epoch": 1599939653.338699,
+            "last_retested_at_iso": "2020-09-12T19:40:53.338699",
             "status": "INACTIVE"
         },
         "go.flaticon.com": {
@@ -36,10 +43,10 @@
             "status": "INACTIVE"
         },
         "network.adsmarket.com": {
-            "included_at_epoch": 1597347630.969793,
-            "included_at_iso": "2020-08-13T19:40:30.969793",
-            "last_retested_at_epoch": 1598557505.407895,
-            "last_retested_at_iso": "2020-08-27T19:45:05.407895",
+            "included_at_epoch": 1599939652.199501,
+            "included_at_iso": "2020-09-12T19:40:52.199501",
+            "last_retested_at_epoch": 1599939652.199501,
+            "last_retested_at_iso": "2020-09-12T19:40:52.199501",
             "status": "INACTIVE"
         },
         "pianetamotori.liquida.it": {

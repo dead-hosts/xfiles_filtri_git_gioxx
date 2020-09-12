@@ -258,10 +258,10 @@
         "state": "future"
     },
     "agi.it": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "agoravox.it": {
         "epoch": 1612828800.0,
@@ -289,8 +289,9 @@
         "state": "future"
     },
     "almico.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "altadefinizione.bid": {
@@ -2070,8 +2071,9 @@
         "state": "future"
     },
     "hotscripts.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "howsecureismypassword.net": {
@@ -2661,8 +2663,9 @@
         "state": "future"
     },
     "laltranotizia.net": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lansweeper.com": {
@@ -3250,7 +3253,8 @@
     "moto.it": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "motogp.com": {
         "epoch": 1629417600.0,
@@ -4305,8 +4309,9 @@
         "state": "future"
     },
     "shutterencoder.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sicurauto.it": {
@@ -5293,10 +5298,10 @@
         "state": "future"
     },
     "vitadasmartphone.it": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "vittgam.net": {
         "epoch": 1620518400.0,
@@ -5638,10 +5643,10 @@
         "state": "future"
     },
     "zeusnews.it": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "zippyshare.com": {
         "epoch": 1630886400.0,
