@@ -541,10 +541,10 @@
         "state": "future"
     },
     "badtaste.it": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "bannerflow.com": {
         "epoch": 1622678400.0,
@@ -1113,8 +1113,9 @@
         "state": "future"
     },
     "daniweb.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1757894400.0,
+        "expiration_date": "15-sep-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dasolo.org": {
@@ -1931,8 +1932,9 @@
         "state": "future"
     },
     "google.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1852502400.0,
+        "expiration_date": "14-sep-2028",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "google.it": {
@@ -2109,7 +2111,8 @@
     "html.it": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "huffingtonpost.com": {
         "epoch": 1646870400.0,
@@ -2837,7 +2840,8 @@
     "livesicilia.it": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "livevss.net": {
         "epoch": 1598400000,
@@ -2940,8 +2944,9 @@
         "state": "future"
     },
     "macworld.co.uk": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "macworld.com": {
@@ -3145,10 +3150,10 @@
         "state": "future"
     },
     "milanodabere.it": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "milanolife.it": {
         "epoch": 1626307200.0,
@@ -3403,10 +3408,10 @@
         "state": "future"
     },
     "newsrimini.it": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "newstreet.it": {
         "epoch": 1620777600.0,
@@ -3815,7 +3820,8 @@
     "pmi.it": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "pocketgamer.co.uk": {
         "epoch": 1627430400.0,
@@ -4068,7 +4074,8 @@
     "realtimetv.it": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "reddit.com": {
         "epoch": 1651190400.0,
@@ -4293,10 +4300,10 @@
         "state": "future"
     },
     "shoppydoo.it": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "shouldiremoveit.com": {
         "epoch": 1607299200.0,
@@ -4956,10 +4963,10 @@
         "state": "future"
     },
     "trovaprezzi.it": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "troyhunt.com": {
         "epoch": 1605398400.0,
@@ -5376,7 +5383,8 @@
     "webnews.it": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "weborama.fr": {
         "epoch": 1604016000.0,
@@ -5592,10 +5600,10 @@
         "state": "future"
     },
     "yourlifeupdated.it": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "youtube.com": {
         "epoch": 1613347200.0,
