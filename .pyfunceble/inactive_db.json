@@ -21,6 +21,13 @@
             "last_retested_at_iso": "2020-08-27T19:45:06.749908",
             "status": "INACTIVE"
         },
+        "attaccomirato.com": {
+            "included_at_epoch": 1600630966.85253,
+            "included_at_iso": "2020-09-20T19:42:46.852530",
+            "last_retested_at_epoch": 1600630966.85253,
+            "last_retested_at_iso": "2020-09-20T19:42:46.852530",
+            "status": "INACTIVE"
+        },
         "entilocali.umforumgratis.com": {
             "included_at_epoch": 1599939653.338699,
             "included_at_iso": "2020-09-12T19:40:53.338699",

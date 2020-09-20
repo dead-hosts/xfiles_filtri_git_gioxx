@@ -1523,10 +1523,10 @@
         "state": "future"
     },
     "fattoincasadabenedetta.it": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "favicon-generator.org": {
         "epoch": 1610755200.0,
@@ -1705,8 +1705,9 @@
         "state": "future"
     },
     "foursquareitalia.org": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "foxtv.it": {
@@ -2286,8 +2287,9 @@
         "state": "future"
     },
     "imagerip.net": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "imageshack.com": {
@@ -3966,10 +3968,10 @@
         "state": "future"
     },
     "qlnews.it": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "quattroruote.it": {
         "epoch": 1602288000.0,
@@ -5041,7 +5043,8 @@
     "tuttouomini.it": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "tv-link.me": {
         "epoch": 1584748800,
@@ -5147,7 +5150,8 @@
     "urbanpost.it": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "ustream.tv": {
         "epoch": 1633910400.0,
@@ -5323,7 +5327,8 @@
     "vnews24.it": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "w3schools.com": {
         "epoch": 1742515200.0,
