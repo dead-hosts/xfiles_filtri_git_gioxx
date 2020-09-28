@@ -9220,11 +9220,11 @@
             "status": "ACTIVE"
         },
         "zpag.es": {
-            "included_at_epoch": 1598902483.29316,
-            "included_at_iso": "2020-08-31T19:34:43.293160",
-            "last_retested_at_epoch": 1598902483.29316,
-            "last_retested_at_iso": "2020-08-31T19:34:43.293160",
-            "status": "INACTIVE"
+            "included_at_epoch": 1601321847.946372,
+            "included_at_iso": "2020-09-28T19:37:27.946372",
+            "last_retested_at_epoch": 1601321847.946372,
+            "last_retested_at_iso": "2020-09-28T19:37:27.946372",
+            "status": "ACTIVE"
         }
     }
 }
