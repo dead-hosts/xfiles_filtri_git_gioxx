@@ -648,8 +648,9 @@
         "state": "future"
     },
     "bloomberg.com": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "boingboing.net": {
@@ -2112,10 +2113,10 @@
         "state": "future"
     },
     "html.it": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "huffingtonpost.com": {
         "epoch": 1646870400.0,
@@ -2138,8 +2139,9 @@
         "state": "future"
     },
     "hwlegend.com": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hwupgrade.it": {
@@ -2620,8 +2622,9 @@
         "state": "future"
     },
     "komoona.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kotaku.co.uk": {
@@ -3261,10 +3264,10 @@
         "state": "future"
     },
     "moto.it": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "motogp.com": {
         "epoch": 1629417600.0,
@@ -3824,10 +3827,10 @@
         "state": "future"
     },
     "pmi.it": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "pocketgamer.co.uk": {
         "epoch": 1627430400.0,
@@ -3921,10 +3924,10 @@
         "state": "future"
     },
     "pspiso.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "psu.com": {
         "epoch": 1614729600,
@@ -4447,8 +4450,9 @@
         "state": "future"
     },
     "softstribe.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "solocane.it": {
@@ -4517,8 +4521,9 @@
         "state": "future"
     },
     "sportinal.com": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sqlpowershell.blog": {
@@ -4938,8 +4943,9 @@
         "state": "future"
     },
     "trailersland.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trakt.tv": {
@@ -5222,8 +5228,9 @@
         "state": "future"
     },
     "vg247.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "vg247.it": {
@@ -5395,10 +5402,10 @@
         "state": "future"
     },
     "webnews.it": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "weborama.fr": {
         "epoch": 1604016000.0,
@@ -5564,8 +5571,9 @@
         "state": "future"
     },
     "xviralex.com": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "yabidos.com": {
