@@ -25,10 +25,10 @@
         "state": "future"
     },
     "123people.it": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "1fichier.com": {
         "epoch": 1607299200.0,
@@ -81,8 +81,9 @@
         "state": "future"
     },
     "5nowvideo.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "62b70ac32d4614b.com": {
@@ -243,8 +244,9 @@
         "state": "future"
     },
     "aflrm.com": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "agar.io": {
@@ -699,8 +701,9 @@
         "state": "future"
     },
     "breathecast.com": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bresciaoggi.it": {
@@ -1168,8 +1171,9 @@
         "state": "future"
     },
     "diarioinenglish.com": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "digital-sat.it": {
@@ -2367,8 +2371,9 @@
         "state": "future"
     },
     "infopart.org": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "informarexresistere.fr": {
@@ -2846,10 +2851,10 @@
         "state": "future"
     },
     "livesicilia.it": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "livevss.net": {
         "epoch": 1598400000,
@@ -3627,7 +3632,8 @@
     "outcast.it": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "overclock.net": {
         "epoch": 1620864000.0,
@@ -3663,7 +3669,8 @@
     "parliamodivideogiochi.it": {
         "epoch": 1601510400.0,
         "expiration_date": "01-oct-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "parmatoday.it": {
         "epoch": 1621123200.0,
@@ -4082,10 +4089,10 @@
         "state": "future"
     },
     "realtimetv.it": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "reddit.com": {
         "epoch": 1651190400.0,
@@ -4345,8 +4352,9 @@
         "state": "future"
     },
     "sitepoint.com": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sky.it": {
@@ -5055,10 +5063,10 @@
         "state": "future"
     },
     "tuttouomini.it": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "tv-link.me": {
         "epoch": 1584748800,
@@ -5290,8 +5298,9 @@
         "state": "future"
     },
     "vidtomp3.com": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "viglink.com": {
@@ -5520,8 +5529,9 @@
         "state": "future"
     },
     "wowcast.tv": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "wpjedi.com": {
