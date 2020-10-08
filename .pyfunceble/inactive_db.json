@@ -337,10 +337,10 @@
             "status": "ACTIVE"
         },
         "adrotate.se": {
-            "included_at_epoch": 1599593851.136702,
-            "included_at_iso": "2020-09-08T19:37:31.136702",
-            "last_retested_at_epoch": 1601841232.921183,
-            "last_retested_at_iso": "2020-10-04T19:53:52.921183",
+            "included_at_epoch": 1602186064.743046,
+            "included_at_iso": "2020-10-08T19:41:04.743046",
+            "last_retested_at_epoch": 1602186064.743046,
+            "last_retested_at_iso": "2020-10-08T19:41:04.743046",
             "status": "INACTIVE"
         },
         "ads.adamoads.com": {
