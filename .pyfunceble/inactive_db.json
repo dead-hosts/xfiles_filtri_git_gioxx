@@ -799,10 +799,10 @@
             "status": "ACTIVE"
         },
         "attaccomirato.com": {
-            "included_at_epoch": 1600630966.85253,
-            "included_at_iso": "2020-09-20T19:42:46.852530",
-            "last_retested_at_epoch": 1602878366.699426,
-            "last_retested_at_iso": "2020-10-16T19:59:26.699426",
+            "included_at_epoch": 1603223203.225568,
+            "included_at_iso": "2020-10-20T19:46:43.225568",
+            "last_retested_at_epoch": 1603223203.225568,
+            "last_retested_at_iso": "2020-10-20T19:46:43.225568",
             "status": "INACTIVE"
         },
         "audiko.net": {
