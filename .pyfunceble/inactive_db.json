@@ -980,6 +980,13 @@
             "last_retested_at_iso": "2020-10-22T21:06:24.146821",
             "status": "ACTIVE"
         },
+        "betanews.com": {
+            "included_at_epoch": 1603748035.689211,
+            "included_at_iso": "2020-10-26T21:33:55.689211",
+            "last_retested_at_epoch": 1603748035.689211,
+            "last_retested_at_iso": "2020-10-26T21:33:55.689211",
+            "status": "ACTIVE"
+        },
         "bettingtradition.com": {
             "included_at_epoch": 1603400754.145352,
             "included_at_iso": "2020-10-22T21:05:54.145352",
@@ -1160,6 +1167,13 @@
             "included_at_iso": "2020-10-22T21:05:56.454754",
             "last_retested_at_epoch": 1603400783.53262,
             "last_retested_at_iso": "2020-10-22T21:06:23.532620",
+            "status": "ACTIVE"
+        },
+        "borsaitaliana.it": {
+            "included_at_epoch": 1603748035.724758,
+            "included_at_iso": "2020-10-26T21:33:55.724758",
+            "last_retested_at_epoch": 1603748035.753802,
+            "last_retested_at_iso": "2020-10-26T21:33:55.753802",
             "status": "ACTIVE"
         },
         "botcrawl.com": {
@@ -2049,6 +2063,13 @@
             "included_at_iso": "2020-10-22T21:05:58.071223",
             "last_retested_at_epoch": 1603400758.071223,
             "last_retested_at_iso": "2020-10-22T21:05:58.071223",
+            "status": "ACTIVE"
+        },
+        "digitalcitizen.life": {
+            "included_at_epoch": 1603748035.78188,
+            "included_at_iso": "2020-10-26T21:33:55.781880",
+            "last_retested_at_epoch": 1603748035.78188,
+            "last_retested_at_iso": "2020-10-26T21:33:55.781880",
             "status": "ACTIVE"
         },
         "digitaltrends.com": {
@@ -3967,6 +3988,13 @@
             "included_at_iso": "2020-10-22T21:06:26.016494",
             "last_retested_at_epoch": 1603400786.016494,
             "last_retested_at_iso": "2020-10-22T21:06:26.016494",
+            "status": "ACTIVE"
+        },
+        "inthetechpit.com": {
+            "included_at_epoch": 1603748035.809834,
+            "included_at_iso": "2020-10-26T21:33:55.809834",
+            "last_retested_at_epoch": 1603748035.83838,
+            "last_retested_at_iso": "2020-10-26T21:33:55.838380",
             "status": "ACTIVE"
         },
         "intoscana.it": {
@@ -7546,6 +7574,13 @@
             "last_retested_at_iso": "2020-10-22T21:06:28.413357",
             "status": "ACTIVE"
         },
+        "studiocataldi.it": {
+            "included_at_epoch": 1603748035.86593,
+            "included_at_iso": "2020-10-26T21:33:55.865930",
+            "last_retested_at_epoch": 1603748035.894247,
+            "last_retested_at_iso": "2020-10-26T21:33:55.894247",
+            "status": "ACTIVE"
+        },
         "stufapellet.forumcommunity.net": {
             "included_at_epoch": 1603400754.691657,
             "included_at_iso": "2020-10-22T21:05:54.691657",
@@ -9220,10 +9255,10 @@
             "status": "ACTIVE"
         },
         "zpag.es": {
-            "included_at_epoch": 1601321847.946372,
-            "included_at_iso": "2020-09-28T19:37:27.946372",
-            "last_retested_at_epoch": 1601841232.070414,
-            "last_retested_at_iso": "2020-10-04T19:53:52.070414",
+            "included_at_epoch": 1603748035.922068,
+            "included_at_iso": "2020-10-26T21:33:55.922068",
+            "last_retested_at_epoch": 1603748035.922068,
+            "last_retested_at_iso": "2020-10-26T21:33:55.922068",
             "status": "ACTIVE"
         }
     }
