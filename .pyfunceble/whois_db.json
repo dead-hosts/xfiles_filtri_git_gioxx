@@ -222,8 +222,9 @@
         "state": "future"
     },
     "adverkeyz.com": {
-        "epoch": 1604102400.0,
-        "expiration_date": "31-oct-2020",
+        "epoch": 1635638400.0,
+        "expiration_date": "31-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "advertising.com": {
@@ -891,7 +892,8 @@
     "cittaceleste.it": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "classifichemusica.com": {
         "epoch": 1607817600.0,
@@ -931,10 +933,10 @@
         "state": "future"
     },
     "cloudtracked.com": {
-        "epoch": 1603843200.0,
-        "expiration_date": "28-oct-2020",
+        "epoch": 1635379200.0,
+        "expiration_date": "28-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "clz3.net": {
         "epoch": 1619395200.0,
@@ -1816,8 +1818,9 @@
         "state": "future"
     },
     "fruji.com": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ft.com": {
@@ -2329,7 +2332,8 @@
     "ilsecoloxix.it": {
         "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "ilsoftware.it": {
         "epoch": 1605225600.0,
@@ -2830,7 +2834,8 @@
     "liberoquotidiano.it": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "libertychampion.com": {
         "epoch": 1580256000,
@@ -3505,13 +3510,15 @@
         "state": "future"
     },
     "nexac.com": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nextlnk1.com": {
-        "epoch": 1604102400.0,
-        "expiration_date": "31-oct-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nextwindows.ru": {
@@ -3540,10 +3547,10 @@
         "state": "future"
     },
     "nonsolocap.it": {
-        "epoch": 1602633600.0,
-        "expiration_date": "14-oct-2020",
+        "epoch": 1634169600.0,
+        "expiration_date": "14-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "notadisciplinare.it": {
         "epoch": 1615939200.0,
@@ -3781,8 +3788,9 @@
         "state": "future"
     },
     "pcadvisor.co.uk": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "pclicious.com": {
@@ -4266,7 +4274,8 @@
     "romalife.it": {
         "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "romatoday.it": {
         "epoch": 1613001600.0,
@@ -4331,8 +4340,9 @@
         "state": "future"
     },
     "scorecardresearch.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "screenweek.it": {
@@ -4375,7 +4385,7 @@
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
         "server": "whois.nic.it",
-        "state": "future"
+        "state": "past"
     },
     "serviziopubblico.it": {
         "epoch": 1630800000.0,
@@ -5100,8 +5110,9 @@
         "state": "future"
     },
     "trw12.com": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tuaw.com": {
@@ -5381,7 +5392,8 @@
     "videogame.it": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "videogiochi.com": {
         "epoch": 1607040000.0,
@@ -5525,8 +5537,9 @@
         "state": "future"
     },
     "weborama.fr": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1888012800.0,
+        "expiration_date": "30-oct-2029",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "wefunction.com": {
