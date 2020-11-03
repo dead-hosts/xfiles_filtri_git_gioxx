@@ -2023,10 +2023,10 @@
         "state": "future"
     },
     "gqitalia.it": {
-        "epoch": 1602979200.0,
-        "expiration_date": "18-oct-2020",
+        "epoch": 1634515200.0,
+        "expiration_date": "18-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "graphberry.com": {
         "epoch": 1628380800.0,
@@ -2880,8 +2880,9 @@
         "state": "future"
     },
     "linkedin.com": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1667347200.0,
+        "expiration_date": "02-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "linkiesta.it": {
@@ -2895,8 +2896,9 @@
         "state": "future"
     },
     "linuxuser.co.uk": {
-        "epoch": 1604361600.0,
-        "expiration_date": "03-nov-2020",
+        "epoch": 1635897600.0,
+        "expiration_date": "03-nov-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "live.com": {
@@ -3625,10 +3627,10 @@
         "state": "future"
     },
     "ollo.it": {
-        "epoch": 1602892800.0,
-        "expiration_date": "17-oct-2020",
+        "epoch": 1634428800.0,
+        "expiration_date": "17-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "oltreuomo.com": {
         "epoch": 1615507200.0,
@@ -3749,7 +3751,8 @@
     "panorama-auto.it": {
         "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "panorama.it": {
         "epoch": 1614556800.0,
