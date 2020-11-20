@@ -146,7 +146,8 @@
     "adcash.com": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "addictivetips.com": {
         "epoch": 1661040000.0,
@@ -273,6 +274,12 @@
         "epoch": 1630022400.0,
         "expiration_date": "27-aug-2021",
         "server": "whois.nic.it",
+        "state": "future"
+    },
+    "agnitogeek.com": {
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "agoravox.it": {
@@ -860,8 +867,9 @@
         "state": "future"
     },
     "channel4.com": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "check-host.net": {
@@ -896,10 +904,10 @@
         "state": "future"
     },
     "cittaceleste.it": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "classifichemusica.com": {
         "epoch": 1607817600.0,
@@ -1026,8 +1034,9 @@
         "state": "future"
     },
     "computerworld.com": {
-        "epoch": 1605312000.0,
-        "expiration_date": "14-nov-2020",
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "computing.net": {
@@ -1120,8 +1129,9 @@
         "state": "future"
     },
     "cupmagazine.com": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "curse.com": {
@@ -1152,7 +1162,8 @@
     "dailydot.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "dailygame.net": {
         "epoch": 1629590400.0,
@@ -1413,8 +1424,9 @@
         "state": "future"
     },
     "ehow.com": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "email.it": {
@@ -1770,6 +1782,12 @@
         "expiration_date": "06-feb-2021",
         "state": "future"
     },
+    "fossbytes.com": {
+        "epoch": 1659398400.0,
+        "expiration_date": "02-aug-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "fosswire.com": {
         "epoch": 1602720000,
         "expiration_date": "15-oct-2020",
@@ -1926,10 +1944,10 @@
         "state": "past"
     },
     "geekissimo.com": {
-        "epoch": 1605225600.0,
-        "expiration_date": "13-nov-2020",
+        "epoch": 1668297600.0,
+        "expiration_date": "13-nov-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "general-files.org": {
         "epoch": 1636416000.0,
@@ -2031,8 +2049,9 @@
         "state": "future"
     },
     "gpone.com": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gqitalia.it": {
@@ -2093,8 +2112,9 @@
         "state": "future"
     },
     "gurustop.net": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "h-online.com": {
@@ -2302,6 +2322,12 @@
         "expiration_date": "25-may-2021",
         "state": "future"
     },
+    "ilgiorno.it": {
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
     "ilmattino.it": {
         "epoch": 1621555200.0,
         "expiration_date": "21-may-2021",
@@ -2344,10 +2370,10 @@
         "state": "future"
     },
     "ilsecoloxix.it": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "ilsoftware.it": {
         "epoch": 1605225600.0,
@@ -2356,8 +2382,9 @@
         "state": "past"
     },
     "ilsole24ore.com": {
-        "epoch": 1605571200.0,
-        "expiration_date": "17-nov-2020",
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ilsussidiario.net": {
@@ -2694,6 +2721,12 @@
         "expiration_date": "07-mar-2022",
         "state": "future"
     },
+    "key4biz.it": {
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
     "kickass.so": {
         "epoch": 1625702400.0,
         "expiration_date": "08-jul-2021",
@@ -2763,7 +2796,8 @@
     "laleggepertutti.it": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "laltranotizia.net": {
         "epoch": 1631145600.0,
@@ -2850,10 +2884,10 @@
         "state": "future"
     },
     "liberoquotidiano.it": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "libertychampion.com": {
         "epoch": 1580256000,
@@ -3365,8 +3399,9 @@
         "state": "future"
     },
     "motigo.com": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "moto.it": {
@@ -3610,8 +3645,9 @@
         "state": "future"
     },
     "nwsource.com": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nxmac.com": {
@@ -3757,8 +3793,8 @@
         "state": "future"
     },
     "ow.ly": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1763596800.0,
+        "expiration_date": "20-nov-2025",
         "server": "whois.nic.ly",
         "state": "future"
     },
@@ -3774,10 +3810,10 @@
         "state": "future"
     },
     "panorama-auto.it": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "panorama.it": {
         "epoch": 1614556800.0,
@@ -4301,10 +4337,10 @@
         "state": "future"
     },
     "romalife.it": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "romatoday.it": {
         "epoch": 1613001600.0,
@@ -4411,10 +4447,10 @@
         "state": "future"
     },
     "servizioallerta.it": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "serviziopubblico.it": {
         "epoch": 1630800000.0,
@@ -4493,7 +4529,8 @@
     "skypefun.net": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "slidetomac.com": {
         "epoch": 1666224000.0,
@@ -4837,7 +4874,8 @@
     "tecnoandroid.it": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "tecnobriciole.com": {
         "epoch": 1627689600.0,
@@ -5135,8 +5173,9 @@
         "state": "future"
     },
     "troyhunt.com": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trw12.com": {
@@ -5280,7 +5319,8 @@
     "universomamma.it": {
         "epoch": 1605484800.0,
         "expiration_date": "16-nov-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "unvideoalgiorno.it": {
         "epoch": 1633824000.0,
@@ -5332,7 +5372,8 @@
     "valdinievoleoggi.it": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "valentinomarangi.com": {
         "epoch": 1639440000.0,
@@ -5420,10 +5461,10 @@
         "state": "future"
     },
     "videogame.it": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "videogiochi.com": {
         "epoch": 1607040000.0,
@@ -5549,7 +5590,8 @@
     "weblinkads.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "webmasterpoint.org": {
         "epoch": 1606780800.0,
@@ -5668,7 +5710,8 @@
     "wittgenstein.it": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "womensradio.com": {
         "epoch": 1705622400,
