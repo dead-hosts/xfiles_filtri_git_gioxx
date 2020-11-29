@@ -1085,6 +1085,13 @@
             "last_retested_at_iso": "2020-11-25T23:37:02.687625",
             "status": "ACTIVE"
         },
+        "bleepingcomputer.com": {
+            "included_at_epoch": 1606680727.714514,
+            "included_at_iso": "2020-11-29T20:12:07.714514",
+            "last_retested_at_epoch": 1606680727.714514,
+            "last_retested_at_iso": "2020-11-29T20:12:07.714514",
+            "status": "ACTIVE"
+        },
         "blog.bepuppy.com": {
             "included_at_epoch": 1605832890.338856,
             "included_at_iso": "2020-11-20T00:41:30.338856",
@@ -3199,6 +3206,13 @@
             "last_retested_at_iso": "2020-11-25T23:36:56.349600",
             "status": "ACTIVE"
         },
+        "getbootstrap.com": {
+            "included_at_epoch": 1606680727.777031,
+            "included_at_iso": "2020-11-29T20:12:07.777031",
+            "last_retested_at_epoch": 1606680727.777031,
+            "last_retested_at_iso": "2020-11-29T20:12:07.777031",
+            "status": "ACTIVE"
+        },
         "getemoji.com": {
             "included_at_epoch": 1605832866.791943,
             "included_at_iso": "2020-11-20T00:41:06.791943",
@@ -4324,6 +4338,13 @@
             "included_at_iso": "2020-11-20T00:41:10.338815",
             "last_retested_at_epoch": 1606347439.135886,
             "last_retested_at_iso": "2020-11-25T23:37:19.135886",
+            "status": "ACTIVE"
+        },
+        "jsonlint.com": {
+            "included_at_epoch": 1606680727.835283,
+            "included_at_iso": "2020-11-29T20:12:07.835283",
+            "last_retested_at_epoch": 1606680727.835283,
+            "last_retested_at_iso": "2020-11-29T20:12:07.835283",
             "status": "ACTIVE"
         },
         "juiceadv.com": {
@@ -6417,6 +6438,13 @@
             "included_at_iso": "2020-11-20T00:41:17.581653",
             "last_retested_at_epoch": 1606347449.534596,
             "last_retested_at_iso": "2020-11-25T23:37:29.534596",
+            "status": "ACTIVE"
+        },
+        "player.fm": {
+            "included_at_epoch": 1606680727.866794,
+            "included_at_iso": "2020-11-29T20:12:07.866794",
+            "last_retested_at_epoch": 1606680727.866794,
+            "last_retested_at_iso": "2020-11-29T20:12:07.866794",
             "status": "ACTIVE"
         },
         "player.performgroup.com": {

@@ -684,6 +684,12 @@
         "expiration_date": "03-jan-2021",
         "state": "future"
     },
+    "bleepingcomputer.com": {
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "blogspot.com": {
         "epoch": 1596153600,
         "expiration_date": "31-jul-2020",
@@ -1957,6 +1963,12 @@
         "server": "whois.pir.org",
         "state": "future"
     },
+    "getbootstrap.com": {
+        "epoch": 1673308800.0,
+        "expiration_date": "10-jan-2023",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "getemoji.com": {
         "epoch": 1816646400.0,
         "expiration_date": "27-jul-2027",
@@ -2692,6 +2704,12 @@
     "joystiq.com": {
         "epoch": 1620604800.0,
         "expiration_date": "10-may-2021",
+        "state": "future"
+    },
+    "jsonlint.com": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "juiceadv.com": {

@@ -1,8 +1,8 @@
 [Adblock Plus 2.8]
-! Version: 202011181811
+! Version: 202011291937
 ! Title: ABP X Files
 ! X Files migliora la tua navigazione quotidiana!
-! Last modified: 18-11-2020
+! Last modified: 29-11-2020
 ! Expires: 7 days
 ! Homepage: https://xfiles.noads.it
 ! Home: https://xfiles.noads.it
@@ -58,6 +58,7 @@ aranzulla.it##DIV[id^="ad"]
 betanews.com##DIV[class="teads-inread xs-screen"]
 bitchyf.it##.trc_rbox.thumbnails-x.trc-content-sponsored
 bitchyf.it###trc_wrapper_80827
+bleepingcomputer.com##.cnx-size-responsive.cnx-player-wrapper
 blog.napolux.com##.wpcnt
 bloomberg.com##.leaderboard-ad-dummy
 borsaitaliana.it##DIV[class="adv--lgm l-adv--fixed js--adv-fix"]
@@ -129,6 +130,8 @@ fortune.com###div-gpt-leaderboard-fixed-1
 fortune.com###div-gpt-leaderboard-fixed-2
 fortune.com###div-gpt-square-fixed-1
 fortune.com##.padded-mobile
+forumfree.it###ffAdStart
+forumfree.it##.mgbox
 fossbytes.com##._ap_apex_ad
 francescocosta.net###bleft
 francescocosta.net###bright
@@ -139,6 +142,7 @@ gazzetta.it###barra_click_sx
 gazzetta.it###barra_click_top
 gazzetta.it##.bck-adv
 gazzetta.it##.teads-inread
+getbootstrap.com###carbonads
 ghacks.net##.adsbygoogle
 gizmodo.com##.ad-mobile-inner
 greenme.it##DIV[id="adwallpaper"]
@@ -148,15 +152,22 @@ howtogeek.com###purch_Y_R_1_1
 howto-outlook.com###header-banner
 html.it##.m3_container.html_art_griglia_646x670
 html.it###mirago
+huffingtonpost.it##.amp_article_bottom_recirc.advertisement
+huffingtonpost.it##.amp_top.advertisement
+huffingtonpost.it##.dfp_amp_article_bottom
 hwupgrade.it##DIV[class="gb-wrapper"]
 hwupgrade.it##.gb-wrapper
 iene.mediaset.it###adv-gpt-box-container1
 iene.mediaset.it###adv-gpt-masthead-skin-container1
 ilcorsaronero.link##DIV[id="ytdz"]
 ilfattoquotidiano.it###adv-intext-
+ilfattoquotidiano.it##.cc-adv-wrapper
+ilfattoquotidiano.it##div:nth-of-type(10)
+ilfattoquotidiano.it##[id^="ifq-intext-container-"]
 ilgiorno.it##.teads-inread
 ilmessaggero.it##amp-sticky-ad.i-amphtml-element
 ilmessaggero.it##div.adv_container:nth-child(2)
+ilmessaggero.it##.head_skin_add
 ilpost.it###btop
 ilpost.it##DIV[class="teads-inread"]
 ilpost.it##DIV[class="teads-inread xs-screen"]
@@ -179,6 +190,7 @@ it.bteye.org##IFRAME[src="/warn.php"]
 it.bteye.org##UL
 it.cleanpng.com##[class="ad-wrap"]
 it.cleanpng.com##DIV[class="pc-ad"]
+jsonlint.com###carbon-block
 justwatch.com##.ad-unit
 key4biz.it##.banner.d-block
 laleggepertutti.it##.teads-inread
@@ -243,6 +255,7 @@ phica.net###widget_198
 phica.net###widget_200
 phica.net##.widget-content.restore.axd.axd_176
 ||placehold.it/300x250
+player.fm##.records-list.sponsored-content
 programmiedovetrovarli.it##DIV[id="ai-adb-message"]
 programmiedovetrovarli.it##DIV[id="ai-adb-overlay"]
 punto-informatico.it##.adskin__div
@@ -356,7 +369,11 @@ wired.com##.cns-ads-stage.cns-ads-slot-type-hero.cns-ads-slot-type-hero-0.cns-ad
 wired.com##.consumer-marketing-unit__slot.consumer-marketing-unit__slot--paywall-bar-call-to-action
 wired.com##.paywall-bar__consumer-marketing-unit.consumer-marketing-unit.consumer-marketing-unit--paywall-bar-call-to-action.consumer-marketing-unit--no-failsafe
 wired.com##.paywall-bar.paywall-bar--visible
+wired.it##.ampvideoSticky.ampvideo
+wired.it##.article-detail > .ADV
+wired.it##.article-detail-content > .ADV
 wired.it##DIV[class="notranslate"]
+wired.it##.mainWrapper > .ADV
 witandfolly.co##SPAN[class^="ezoic-ad"]
 witandfolly.co##SPAN[id^="ezoic-pub-ad-placeholder"]
 wittgenstein.it##A[id="link_ws_bleft"]
