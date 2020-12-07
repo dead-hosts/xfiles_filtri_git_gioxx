@@ -1,10 +1,10 @@
 {
     "/home/travis/build/dead-hosts/xfiles_filtri_git_gioxx/domains.list": {
         "*": {
-            "included_at_epoch": 1604956240.151646,
-            "included_at_iso": "2020-11-09T21:10:40.151646",
-            "last_retested_at_epoch": 1606871048.533742,
-            "last_retested_at_iso": "2020-12-02T01:04:08.533742",
+            "included_at_epoch": 1607377070.76968,
+            "included_at_iso": "2020-12-07T21:37:50.769680",
+            "last_retested_at_epoch": 1607377070.76968,
+            "last_retested_at_iso": "2020-12-07T21:37:50.769680",
             "status": "INVALID"
         },
         "01net.it": {
@@ -2409,10 +2409,10 @@
             "status": "ACTIVE"
         },
         "entilocali.umforumgratis.com": {
-            "included_at_epoch": 1604956240.225429,
-            "included_at_iso": "2020-11-09T21:10:40.225429",
-            "last_retested_at_epoch": 1606871065.265553,
-            "last_retested_at_iso": "2020-12-02T01:04:25.265553",
+            "included_at_epoch": 1607377070.840732,
+            "included_at_iso": "2020-12-07T21:37:50.840732",
+            "last_retested_at_epoch": 1607377070.840732,
+            "last_retested_at_iso": "2020-12-07T21:37:50.840732",
             "status": "INACTIVE"
         },
         "eplaza.it": {
@@ -5783,10 +5783,10 @@
             "status": "ACTIVE"
         },
         "network.adsmarket.com": {
-            "included_at_epoch": 1604956240.189451,
-            "included_at_iso": "2020-11-09T21:10:40.189451",
-            "last_retested_at_epoch": 1606871052.720733,
-            "last_retested_at_iso": "2020-12-02T01:04:12.720733",
+            "included_at_epoch": 1607377070.808965,
+            "included_at_iso": "2020-12-07T21:37:50.808965",
+            "last_retested_at_epoch": 1607377070.808965,
+            "last_retested_at_iso": "2020-12-07T21:37:50.808965",
             "status": "INACTIVE"
         },
         "newalbumreleases.net": {
