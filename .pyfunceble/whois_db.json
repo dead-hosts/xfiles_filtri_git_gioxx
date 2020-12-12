@@ -320,8 +320,9 @@
         "state": "future"
     },
     "altadefinizione.bid": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.nic.bid",
         "state": "future"
     },
     "altadefinizione.tv": {
@@ -529,7 +530,8 @@
     "automoto.it": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "autoscout24.it": {
         "epoch": 1610841600.0,
@@ -870,8 +872,9 @@
         "state": "future"
     },
     "ccm.net": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "chandoo.org": {
@@ -1686,8 +1689,9 @@
         "state": "future"
     },
     "filesharingtalk.com": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "filesonic.it": {
@@ -2424,10 +2428,10 @@
         "state": "future"
     },
     "iltempo.it": {
-        "epoch": 1606176000.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "imagerip.net": {
         "epoch": 1631836800.0,
@@ -2563,7 +2567,8 @@
     "intoscana.it": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "intrage.it": {
         "epoch": 1611964800.0,
@@ -4920,8 +4925,9 @@
         "state": "future"
     },
     "techtimes.com": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "techtipsgeek.com": {
@@ -5155,8 +5161,9 @@
         "state": "future"
     },
     "torrentportal.com": {
-        "epoch": 1607644800.0,
-        "expiration_date": "11-dec-2020",
+        "epoch": 1639180800.0,
+        "expiration_date": "11-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "totaljerkface.com": {
@@ -5455,7 +5462,8 @@
     "vanityfair.it": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "varese.net": {
         "epoch": 1624492800.0,
@@ -5918,8 +5926,9 @@
         "state": "future"
     },
     "ytimg.com": {
-        "epoch": 1607644800.0,
-        "expiration_date": "11-dec-2020",
+        "epoch": 1639180800.0,
+        "expiration_date": "11-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ytmp3.cc": {
