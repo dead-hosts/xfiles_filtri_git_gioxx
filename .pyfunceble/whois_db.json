@@ -2,7 +2,8 @@
     "01net.it": {
         "epoch": 1607904000.0,
         "expiration_date": "14-dec-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "02blog.it": {
         "epoch": 1611014400.0,
@@ -48,10 +49,10 @@
         "state": "future"
     },
     "2spaghi.it": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "32red.it": {
         "epoch": 1635292800.0,
@@ -127,8 +128,9 @@
         "state": "future"
     },
     "ad-center.com": {
-        "epoch": 1608249600.0,
-        "expiration_date": "18-dec-2020",
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ad6media.fr": {
@@ -568,7 +570,8 @@
     "axa-assistance.it": {
         "epoch": 1607904000.0,
         "expiration_date": "14-dec-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "backin.net": {
         "epoch": 1615248000.0,
@@ -731,8 +734,9 @@
         "state": "future"
     },
     "botcrawl.com": {
-        "epoch": 1608336000.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1639872000.0,
+        "expiration_date": "19-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bradsdeals.com": {
@@ -850,6 +854,12 @@
         "expiration_date": "16-may-2021",
         "state": "future"
     },
+    "cambro.tv": {
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "server": "tvwhois.verisign-grs.com",
+        "state": "future"
+    },
     "camelcamelcamel.com": {
         "epoch": 1736121600.0,
         "expiration_date": "06-jan-2025",
@@ -927,8 +937,9 @@
         "state": "future"
     },
     "classifichemusica.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cliccalavoro.it": {
@@ -1022,7 +1033,8 @@
     "comesiscrive.it": {
         "epoch": 1608076800.0,
         "expiration_date": "16-dec-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "comingsoon.it": {
         "epoch": 1633478400.0,
@@ -1287,10 +1299,10 @@
         "state": "future"
     },
     "dilei.it": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "directrev.com": {
         "epoch": 1657324800.0,
@@ -1559,7 +1571,8 @@
     "excite.it": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "experts-exchange.com": {
         "epoch": 1878681600.0,
@@ -1646,7 +1659,8 @@
     "fcinternews.it": {
         "epoch": 1607990400.0,
         "expiration_date": "15-dec-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "fcitalia.com": {
         "epoch": 1632528000.0,
@@ -2136,7 +2150,8 @@
     "guidafisco.it": {
         "epoch": 1607904000.0,
         "expiration_date": "14-dec-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "guidamonaci.it": {
         "epoch": 1608508800.0,
@@ -2362,6 +2377,12 @@
         "server": "whois.nic.it",
         "state": "future"
     },
+    "illumeably.com": {
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "ilmattino.it": {
         "epoch": 1621555200.0,
         "expiration_date": "21-may-2021",
@@ -2389,10 +2410,10 @@
         "state": "future"
     },
     "ilquotidianodellacalabria.it": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "ilquotidianodellazio.it": {
         "epoch": 1609027200.0,
@@ -2425,7 +2446,8 @@
     "ilsussidiario.net": {
         "epoch": 1608336000.0,
         "expiration_date": "19-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "iltempo.it": {
         "epoch": 1637712000.0,
@@ -2553,10 +2575,10 @@
         "state": "future"
     },
     "internazionale.it": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "inthetechpit.com": {
         "epoch": 1637539200.0,
@@ -2821,8 +2843,9 @@
         "state": "future"
     },
     "labnol.org": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "lacnews24.it": {
@@ -3130,10 +3153,10 @@
         "state": "future"
     },
     "macusato.it": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "macworld.co.uk": {
         "epoch": 1631577600.0,
@@ -3260,10 +3283,10 @@
         "state": "future"
     },
     "mediaset.it": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "medium.com": {
         "epoch": 1621987200.0,
@@ -3352,6 +3375,12 @@
         "server": "whois.nic.it",
         "state": "future"
     },
+    "milanoevents.it": {
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
     "milanolife.it": {
         "epoch": 1626307200.0,
         "expiration_date": "15-jul-2021",
@@ -3384,8 +3413,9 @@
         "state": "future"
     },
     "minoto-video.com": {
-        "epoch": 1608076800.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mioaffitto.it": {
@@ -3636,8 +3666,9 @@
         "state": "future"
     },
     "nextwindows.ru": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "ninjamarketing.it": {
@@ -3994,6 +4025,12 @@
         "expiration_date": "27-jun-2021",
         "state": "future"
     },
+    "pimylifeup.com": {
+        "epoch": 1876953600.0,
+        "expiration_date": "24-jun-2029",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "pinceladasdaweb.com.br": {
         "epoch": 1618876800.0,
         "expiration_date": "20-apr-2021",
@@ -4230,8 +4267,9 @@
         "state": "future"
     },
     "rackcdn.com": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "radiocompany.com": {
@@ -4350,7 +4388,8 @@
     "ricettedalmondo.it": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "rietilife.com": {
         "epoch": 1613088000.0,
@@ -4740,6 +4779,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "speedcheck.org": {
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "speedtest.net": {
         "epoch": 1656115200.0,
         "expiration_date": "25-jun-2022",
@@ -4994,7 +5039,8 @@
     "tgmonline.it": {
         "epoch": 1608336000.0,
         "expiration_date": "19-dec-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "tgregione.it": {
         "epoch": 1614902400.0,
@@ -5302,8 +5348,9 @@
         "state": "future"
     },
     "tuttomercatoweb.com": {
-        "epoch": 1608249600.0,
-        "expiration_date": "18-dec-2020",
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tuttomotoriweb.com": {
@@ -5576,14 +5623,16 @@
         "state": "future"
     },
     "vimeo.com": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "vipboxeu.co": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
-        "state": "future"
+        "server": "whois.nic.co",
+        "state": "past"
     },
     "vipcpms.com": {
         "epoch": 1609200000.0,
@@ -5743,6 +5792,12 @@
     "windows8blog.it": {
         "epoch": 1621555200.0,
         "expiration_date": "21-may-2021",
+        "state": "future"
+    },
+    "windowsblogitalia.com": {
+        "epoch": 1641168000.0,
+        "expiration_date": "03-jan-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "windowscentral.com": {
