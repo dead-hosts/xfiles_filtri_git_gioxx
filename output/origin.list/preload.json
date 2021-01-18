@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/xfiles_filtri_git_gioxx/xfiles_filtri_git_gioxx/origin.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "origin.list",
+    "hash": "fedf1f9a8549dff9d01cc976a2ec25374e09e0b06e50cb7a07ee0e64",
+    "line_number": 4996,
+    "output_dir": "/home/runner/work/xfiles_filtri_git_gioxx/xfiles_filtri_git_gioxx/output/origin.list",
+    "previous_hash": "fedf1f9a8549dff9d01cc976a2ec25374e09e0b06e50cb7a07ee0e64",
+    "rel_source": "origin.list",
+    "session_id": "48e1ec89007c85e14d6593ce",
+    "source": "/home/runner/work/xfiles_filtri_git_gioxx/xfiles_filtri_git_gioxx/origin.list",
+    "subject": "/home/runner/work/xfiles_filtri_git_gioxx/xfiles_filtri_git_gioxx/origin.list",
+    "subject_type": "domain",
+    "type": "file"
+}
