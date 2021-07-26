@@ -1397,6 +1397,7 @@
         "uk.com",
         "unusualperson.com",
         "us-1.evennode.com",
+        "us-2.evennode.com",
         "us-3.evennode.com",
         "us-4.evennode.com",
         "us-east-1.amazonaws.com",
@@ -1491,7 +1492,6 @@
         "e4.cz",
         "flt.cloud.muni.cz",
         "realm.cz",
-        "us-2.evennode.com",
         "usr.cloud.muni.cz"
     ],
     "de": [
@@ -2124,6 +2124,7 @@
         "org.in",
         "res.in",
         "supabase.in",
+        "valleeaoste.it",
         "web.in"
     ],
     "info": [
@@ -2411,6 +2412,7 @@
         "frosinone.it",
         "fvg.it",
         "ge.it",
+        "genoa.it",
         "genova.it",
         "go.it",
         "gorizia.it",
@@ -2677,7 +2679,6 @@
         "vs.it",
         "vt.it",
         "vv.it",
-        "xn--1lqs03n.jp",
         "xn--balsan-sdtirol-nsb.it",
         "xn--bozen-sdtirol-2ob.it",
         "xn--bulsan-sdtirol-nsb.it",
@@ -2933,7 +2934,6 @@
         "gehirn.ne.jp",
         "geisei.kochi.jp",
         "genkai.saga.jp",
-        "genoa.it",
         "gifu.gifu.jp",
         "gifu.jp",
         "ginan.gifu.jp",
@@ -4736,6 +4736,9 @@
         "dweb.link",
         "mypep.link"
     ],
+    "live": [
+        "hlx.live"
+    ],
     "lk": [
         "ac.lk",
         "assn.lk",
@@ -6357,6 +6360,7 @@
         "porsgrunn.no",
         "porsáŋgu.no",
         "priv.no",
+        "pulawy.pl",
         "rade.no",
         "radoy.no",
         "radøy.no",
@@ -6858,7 +6862,9 @@
         "under.one"
     ],
     "online": [
-        "barsy.online"
+        "barsy.online",
+        "eero-stage.online",
+        "eero.online"
     ],
     "org": [
         "accesscam.org",
@@ -7053,6 +7059,8 @@
         "sld.pa"
     ],
     "page": [
+        "hlx.page",
+        "hlx3.page",
         "magnet.page",
         "pdns.page",
         "plesk.page",
