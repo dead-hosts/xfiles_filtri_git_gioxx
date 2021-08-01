@@ -183,7 +183,8 @@
         "telebit.app",
         "vercel.app",
         "web.app",
-        "wnext.app"
+        "wnext.app",
+        "xn--80aaa0cvac.xn--p1acf"
     ],
     "ar": [
         "blogspot.com.ar",
@@ -373,6 +374,7 @@
         "p.bg",
         "q.bg",
         "r.bg",
+        "s.bg",
         "t.bg",
         "u.bg",
         "v.bg",
@@ -386,8 +388,7 @@
         "edu.bh",
         "gov.bh",
         "net.bh",
-        "org.bh",
-        "s.bg"
+        "org.bh"
     ],
     "bi": [
         "co.bi",
@@ -2685,7 +2686,6 @@
         "xn--cesenaforl-i8a.it",
         "xn--forl-cesena-fcb.it",
         "xn--forlcesena-c8a.it",
-        "xn--io0a7i.cn",
         "xn--sdtirol-n2a.it",
         "xn--trentin-sd-tirol-rzb.it",
         "xn--trentin-sdtirol-7vb.it",
@@ -8587,7 +8587,6 @@
     ],
     "рус": [
         "xn--41a.xn--p1acf",
-        "xn--80aaa0cvac.xn--p1acf",
         "xn--90a1af.xn--p1acf",
         "xn--90amc.xn--p1acf",
         "xn--c1avg.xn--p1acf",
@@ -8602,7 +8601,6 @@
         "мир.рус",
         "мск.рус",
         "орг.рус",
-        "самара.рус",
         "сочи.рус",
         "спб.рус",
         "я.рус"
