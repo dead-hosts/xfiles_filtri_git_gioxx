@@ -1169,7 +1169,6 @@
         "is-a-llama.com",
         "is-a-musician.com",
         "is-a-nascarfan.com",
-        "is-a-nurse.com",
         "is-a-painter.com",
         "is-a-personaltrainer.com",
         "is-a-photographer.com",
@@ -6540,6 +6539,7 @@
         "vang.no",
         "vanylven.no",
         "vardo.no",
+        "vardø.no",
         "varggat.no",
         "varoy.no",
         "vefsn.no",
@@ -6730,6 +6730,7 @@
         "xn--tysvr-vra.no",
         "xn--unjrga-rta.no",
         "xn--vads-jra.no",
+        "xn--vard-jra.no",
         "xn--vegrshei-c0a.no",
         "xn--vestvgy-ixa6o.no",
         "xn--vg-yiab.no",
@@ -6782,6 +6783,7 @@
     ],
     "nu": [
         "enterprisecloud.nu",
+        "is-a-nurse.com",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu"
@@ -7848,8 +7850,7 @@
         "nic.tj",
         "org.tj",
         "test.tj",
-        "web.tj",
-        "xn--vard-jra.no"
+        "web.tj"
     ],
     "tl": [
         "gov.tl"
