@@ -521,7 +521,6 @@
         "cim.br",
         "cng.br",
         "cnt.br",
-        "co.education",
         "com.br",
         "contagem.br",
         "coop.br",
@@ -1663,6 +1662,9 @@
     ],
     "edu": [
         "git-pages.rit.edu"
+    ],
+    "education": [
+        "co.education"
     ],
     "ee": [
         "aip.ee",
@@ -4544,7 +4546,6 @@
         "静岡.jp",
         "香川.jp",
         "高知.jp",
-        "鳥取.jp",
         "鹿児島.jp"
     ],
     "ke": [
