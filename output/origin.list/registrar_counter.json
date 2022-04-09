@@ -1,16 +1,16 @@
 {
     "counter": {
-        "CloudFlare, Inc.": 2,
-        "GoDaddy.com, LLC": 2,
-        "NameCheap, Inc.": 1,
+        "GoDaddy.com, LLC": 5,
+        "Network Solutions, LLC": 4,
+        "Tucows Domains Inc.": 1,
         "eNom, LLC": 1,
-        "total": 6
+        "total": 11
     },
     "percentage": {
-        "CloudFlare, Inc.": 33.333333333333336,
-        "GoDaddy.com, LLC": 33.333333333333336,
-        "NameCheap, Inc.": 16.666666666666668,
-        "eNom, LLC": 16.666666666666668,
-        "total": 100.00000000000001
+        "GoDaddy.com, LLC": 45.45454545454545,
+        "Network Solutions, LLC": 36.36363636363637,
+        "Tucows Domains Inc.": 9.090909090909092,
+        "eNom, LLC": 9.090909090909092,
+        "total": 100.0
     }
 }
