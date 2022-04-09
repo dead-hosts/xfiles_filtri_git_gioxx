@@ -2,6 +2,7 @@
     "counter": {
         "CloudFlare, Inc.": 3,
         "GoDaddy.com, LLC": 9,
+        "INCZ-0001": 1,
         "Key-Systems": 1,
         "NameCheap, Inc.": 1,
         "Network Solutions, LLC": 4,
@@ -9,18 +10,19 @@
         "SafeBrands SAS": 1,
         "Tucows Domains Inc.": 1,
         "eNom, LLC": 1,
-        "total": 23
+        "total": 24
     },
     "percentage": {
-        "CloudFlare, Inc.": 13.043478260869565,
-        "GoDaddy.com, LLC": 39.130434782608695,
-        "Key-Systems": 4.3478260869565215,
-        "NameCheap, Inc.": 4.3478260869565215,
-        "Network Solutions, LLC": 17.391304347826086,
-        "OVH sas": 8.695652173913043,
-        "SafeBrands SAS": 4.3478260869565215,
-        "Tucows Domains Inc.": 4.3478260869565215,
-        "eNom, LLC": 4.3478260869565215,
-        "total": 99.99999999999999
+        "CloudFlare, Inc.": 12.5,
+        "GoDaddy.com, LLC": 37.5,
+        "INCZ-0001": 4.166666666666667,
+        "Key-Systems": 4.166666666666667,
+        "NameCheap, Inc.": 4.166666666666667,
+        "Network Solutions, LLC": 16.666666666666668,
+        "OVH sas": 8.333333333333334,
+        "SafeBrands SAS": 4.166666666666667,
+        "Tucows Domains Inc.": 4.166666666666667,
+        "eNom, LLC": 4.166666666666667,
+        "total": 100.00000000000001
     }
 }
