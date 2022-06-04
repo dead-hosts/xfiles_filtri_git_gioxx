@@ -1,20 +1,12 @@
 {
     "counter": {
-        "123-Reg Limited": 1,
-        "CSC Corporate Domains, Inc.": 1,
-        "MarkMonitor Inc.": 1,
-        "NameCheap, Inc.": 2,
-        "Network Solutions, LLC": 2,
-        "OVH sas": 1,
-        "total": 8
+        "CloudFlare, Inc.": 2,
+        "FastDomain Inc.": 1,
+        "total": 3
     },
     "percentage": {
-        "123-Reg Limited": 12.5,
-        "CSC Corporate Domains, Inc.": 12.5,
-        "MarkMonitor Inc.": 12.5,
-        "NameCheap, Inc.": 25.0,
-        "Network Solutions, LLC": 25.0,
-        "OVH sas": 12.5,
+        "CloudFlare, Inc.": 66.66666666666667,
+        "FastDomain Inc.": 33.333333333333336,
         "total": 100.0
     }
 }
