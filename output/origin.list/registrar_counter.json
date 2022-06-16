@@ -1,14 +1,18 @@
 {
     "counter": {
         "1API GmbH ( https://nic.at/registrar/578 )": 3,
+        "Amazon Registrar, Inc.": 1,
         "Dynadot, LLC": 1,
+        "GoDaddy.com, LLC": 3,
         "NameSilo, LLC": 1,
-        "total": 5
+        "total": 9
     },
     "percentage": {
-        "1API GmbH ( https://nic.at/registrar/578 )": 60.0,
-        "Dynadot, LLC": 20.0,
-        "NameSilo, LLC": 20.0,
+        "1API GmbH ( https://nic.at/registrar/578 )": 33.333333333333336,
+        "Amazon Registrar, Inc.": 11.11111111111111,
+        "Dynadot, LLC": 11.11111111111111,
+        "GoDaddy.com, LLC": 33.333333333333336,
+        "NameSilo, LLC": 11.11111111111111,
         "total": 100.0
     }
 }
