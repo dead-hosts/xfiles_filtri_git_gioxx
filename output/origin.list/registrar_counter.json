@@ -1,10 +1,14 @@
 {
     "counter": {
-        "GoDaddy.com, LLC": 1,
-        "total": 1
+        "LEXSYNERGY LIMITED": 3,
+        "MarkMonitor Inc.": 3,
+        "NameCheap, Inc.": 2,
+        "total": 8
     },
     "percentage": {
-        "GoDaddy.com, LLC": 100.0,
+        "LEXSYNERGY LIMITED": 37.5,
+        "MarkMonitor Inc.": 37.5,
+        "NameCheap, Inc.": 25.0,
         "total": 100.0
     }
 }
