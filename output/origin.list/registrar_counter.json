@@ -1,18 +1,16 @@
 {
     "counter": {
-        "Combell NV": 2,
-        "GANDI": 2,
-        "GoDaddy.com, LLC": 1,
-        "Network Solutions, LLC": 1,
-        "Online SAS": 2,
-        "total": 8
+        "CSC Corporate Domains, Inc.": 1,
+        "NameCheap, Inc.": 3,
+        "Network Solutions, LLC": 2,
+        "OVH sas": 1,
+        "total": 7
     },
     "percentage": {
-        "Combell NV": 25.0,
-        "GANDI": 25.0,
-        "GoDaddy.com, LLC": 12.5,
-        "Network Solutions, LLC": 12.5,
-        "Online SAS": 25.0,
+        "CSC Corporate Domains, Inc.": 14.285714285714286,
+        "NameCheap, Inc.": 42.857142857142854,
+        "Network Solutions, LLC": 28.571428571428573,
+        "OVH sas": 14.285714285714286,
         "total": 100.0
     }
 }
