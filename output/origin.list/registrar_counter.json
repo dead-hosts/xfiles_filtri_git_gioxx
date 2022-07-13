@@ -1,0 +1,12 @@
+{
+    "counter": {
+        "GoDaddy.com, LLC": 3,
+        "eNom, LLC": 1,
+        "total": 4
+    },
+    "percentage": {
+        "GoDaddy.com, LLC": 75.0,
+        "eNom, LLC": 25.0,
+        "total": 100.0
+    }
+}
