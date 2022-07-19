@@ -1,26 +1,14 @@
 {
     "counter": {
-        "CloudFlare, Inc.": 3,
-        "GoDaddy.com, LLC": 11,
-        "Key-Systems": 1,
-        "NameCheap, Inc.": 1,
-        "Network Solutions, LLC": 4,
-        "OVH sas": 2,
-        "SafeBrands SAS": 1,
-        "Tucows Domains Inc.": 1,
-        "eNom, LLC": 1,
-        "total": 25
+        "1API GmbH ( https://nic.at/registrar/578 )": 3,
+        "Dynadot, LLC": 1,
+        "NameSilo, LLC": 1,
+        "total": 5
     },
     "percentage": {
-        "CloudFlare, Inc.": 12.0,
-        "GoDaddy.com, LLC": 44.0,
-        "Key-Systems": 4.0,
-        "NameCheap, Inc.": 4.0,
-        "Network Solutions, LLC": 16.0,
-        "OVH sas": 8.0,
-        "SafeBrands SAS": 4.0,
-        "Tucows Domains Inc.": 4.0,
-        "eNom, LLC": 4.0,
+        "1API GmbH ( https://nic.at/registrar/578 )": 60.0,
+        "Dynadot, LLC": 20.0,
+        "NameSilo, LLC": 20.0,
         "total": 100.0
     }
 }
