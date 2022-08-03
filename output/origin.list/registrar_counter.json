@@ -1,10 +1,22 @@
 {
     "counter": {
+        "123-Reg Limited": 1,
+        "Combell NV": 2,
+        "GANDI": 3,
         "GoDaddy.com, LLC": 1,
-        "total": 1
+        "MarkMonitor Inc.": 1,
+        "Network Solutions, LLC": 3,
+        "Online SAS": 2,
+        "total": 13
     },
     "percentage": {
-        "GoDaddy.com, LLC": 100.0,
+        "123-Reg Limited": 7.6923076923076925,
+        "Combell NV": 15.384615384615385,
+        "GANDI": 23.076923076923077,
+        "GoDaddy.com, LLC": 7.6923076923076925,
+        "MarkMonitor Inc.": 7.6923076923076925,
+        "Network Solutions, LLC": 23.076923076923077,
+        "Online SAS": 15.384615384615385,
         "total": 100.0
     }
 }
