@@ -1,14 +1,14 @@
 {
     "counter": {
-        "CSC Corporate Domains, Inc.": 1,
+        "CSC Corporate Domains, Inc.": 2,
         "NameCheap, Inc.": 3,
         "OVH sas": 1,
-        "total": 5
+        "total": 6
     },
     "percentage": {
-        "CSC Corporate Domains, Inc.": 20.0,
-        "NameCheap, Inc.": 60.0,
-        "OVH sas": 20.0,
-        "total": 100.0
+        "CSC Corporate Domains, Inc.": 33.333333333333336,
+        "NameCheap, Inc.": 50.0,
+        "OVH sas": 16.666666666666668,
+        "total": 100.00000000000001
     }
 }
