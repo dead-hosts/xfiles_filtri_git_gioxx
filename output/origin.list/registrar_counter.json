@@ -1,0 +1,18 @@
+{
+    "counter": {
+        "CloudFlare, Inc.": 2,
+        "GoDaddy.com, LLC": 3,
+        "INCZ-0001": 1,
+        "NameCheap, Inc.": 1,
+        "eNom, LLC": 1,
+        "total": 8
+    },
+    "percentage": {
+        "CloudFlare, Inc.": 25.0,
+        "GoDaddy.com, LLC": 37.5,
+        "INCZ-0001": 12.5,
+        "NameCheap, Inc.": 12.5,
+        "eNom, LLC": 12.5,
+        "total": 100.0
+    }
+}
