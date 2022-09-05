@@ -1,16 +1,28 @@
 {
     "counter": {
+        "123-Reg Limited": 1,
         "CSC Corporate Domains, Inc.": 1,
+        "Combell NV": 2,
+        "GANDI": 3,
         "GoDaddy.com, LLC": 1,
+        "MarkMonitor Inc.": 1,
         "NameCheap, Inc.": 3,
+        "Network Solutions, LLC": 3,
         "OVH sas": 1,
-        "total": 6
+        "Online SAS": 2,
+        "total": 18
     },
     "percentage": {
-        "CSC Corporate Domains, Inc.": 16.666666666666668,
-        "GoDaddy.com, LLC": 16.666666666666668,
-        "NameCheap, Inc.": 50.0,
-        "OVH sas": 16.666666666666668,
+        "123-Reg Limited": 5.555555555555555,
+        "CSC Corporate Domains, Inc.": 5.555555555555555,
+        "Combell NV": 11.11111111111111,
+        "GANDI": 16.666666666666668,
+        "GoDaddy.com, LLC": 5.555555555555555,
+        "MarkMonitor Inc.": 5.555555555555555,
+        "NameCheap, Inc.": 16.666666666666668,
+        "Network Solutions, LLC": 16.666666666666668,
+        "OVH sas": 5.555555555555555,
+        "Online SAS": 11.11111111111111,
         "total": 100.00000000000001
     }
 }
