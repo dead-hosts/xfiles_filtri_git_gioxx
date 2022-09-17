@@ -1,0 +1,16 @@
+{
+    "counter": {
+        "1API GmbH": 1,
+        "Amazon Registrar, Inc.": 4,
+        "CSC Corporate Domains, Inc.": 1,
+        "GoDaddy.com, LLC": 1,
+        "total": 7
+    },
+    "percentage": {
+        "1API GmbH": 14.285714285714286,
+        "Amazon Registrar, Inc.": 57.142857142857146,
+        "CSC Corporate Domains, Inc.": 14.285714285714286,
+        "GoDaddy.com, LLC": 14.285714285714286,
+        "total": 100.00000000000001
+    }
+}
