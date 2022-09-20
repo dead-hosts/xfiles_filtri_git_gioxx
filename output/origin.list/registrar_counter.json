@@ -1,16 +1,20 @@
 {
     "counter": {
-        "1API GmbH": 1,
-        "Amazon Registrar, Inc.": 4,
-        "CSC Corporate Domains, Inc.": 1,
-        "GoDaddy.com, LLC": 1,
-        "total": 7
+        "CloudFlare, Inc.": 2,
+        "GoDaddy.com, LLC": 6,
+        "Key-Systems": 1,
+        "Network Solutions, LLC": 4,
+        "Tucows Domains Inc.": 1,
+        "eNom, LLC": 1,
+        "total": 15
     },
     "percentage": {
-        "1API GmbH": 14.285714285714286,
-        "Amazon Registrar, Inc.": 57.142857142857146,
-        "CSC Corporate Domains, Inc.": 14.285714285714286,
-        "GoDaddy.com, LLC": 14.285714285714286,
+        "CloudFlare, Inc.": 13.333333333333334,
+        "GoDaddy.com, LLC": 40.0,
+        "Key-Systems": 6.666666666666667,
+        "Network Solutions, LLC": 26.666666666666668,
+        "Tucows Domains Inc.": 6.666666666666667,
+        "eNom, LLC": 6.666666666666667,
         "total": 100.00000000000001
     }
 }
