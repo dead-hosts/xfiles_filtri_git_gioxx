@@ -1,20 +1,12 @@
 {
     "counter": {
-        "GKG.NET, INC.": 1,
         "GoDaddy.com, LLC": 1,
-        "MarkMonitor Inc.": 2,
-        "NAMESHIELD": 2,
-        "Soluciones Corporativas IP, SL": 1,
-        "Telia Inmics-Nebula Oy": 1,
-        "total": 8
+        "NameCheap, Inc.": 3,
+        "total": 4
     },
     "percentage": {
-        "GKG.NET, INC.": 12.5,
-        "GoDaddy.com, LLC": 12.5,
-        "MarkMonitor Inc.": 25.0,
-        "NAMESHIELD": 25.0,
-        "Soluciones Corporativas IP, SL": 12.5,
-        "Telia Inmics-Nebula Oy": 12.5,
+        "GoDaddy.com, LLC": 25.0,
+        "NameCheap, Inc.": 75.0,
         "total": 100.0
     }
 }
