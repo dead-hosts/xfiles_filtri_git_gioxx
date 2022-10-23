@@ -1,32 +1,28 @@
 {
     "counter": {
-        "Amazon Registrar, Inc.": 7,
-        "CSC Corporate Domains, Inc.": 2,
-        "GoDaddy.com, LLC": 1,
-        "INCZ-0001": 1,
-        "MarkMonitor Inc.": 1,
-        "Network Solutions, LLC": 5,
-        "Rebel Ltd": 1,
+        "1API GmbH ( https://nic.at/registrar/578 )": 3,
+        "CloudFlare, Inc.": 2,
+        "Dynadot, LLC": 1,
+        "GoDaddy.com, LLC": 6,
+        "Key-Systems": 1,
+        "NameSilo, LLC": 1,
+        "Network Solutions, LLC": 4,
+        "OVH sas": 2,
         "Tucows Domains Inc.": 1,
-        "Webnames.ca Inc.": 1,
         "eNom, LLC": 1,
-        "easyDNS Technologies Inc.": 3,
-        "nicar": 1,
-        "total": 25
+        "total": 22
     },
     "percentage": {
-        "Amazon Registrar, Inc.": 28.0,
-        "CSC Corporate Domains, Inc.": 8.0,
-        "GoDaddy.com, LLC": 4.0,
-        "INCZ-0001": 4.0,
-        "MarkMonitor Inc.": 4.0,
-        "Network Solutions, LLC": 20.0,
-        "Rebel Ltd": 4.0,
-        "Tucows Domains Inc.": 4.0,
-        "Webnames.ca Inc.": 4.0,
-        "eNom, LLC": 4.0,
-        "easyDNS Technologies Inc.": 12.0,
-        "nicar": 4.0,
-        "total": 100.0
+        "1API GmbH ( https://nic.at/registrar/578 )": 13.636363636363637,
+        "CloudFlare, Inc.": 9.090909090909092,
+        "Dynadot, LLC": 4.545454545454546,
+        "GoDaddy.com, LLC": 27.272727272727273,
+        "Key-Systems": 4.545454545454546,
+        "NameSilo, LLC": 4.545454545454546,
+        "Network Solutions, LLC": 18.181818181818183,
+        "OVH sas": 9.090909090909092,
+        "Tucows Domains Inc.": 4.545454545454546,
+        "eNom, LLC": 4.545454545454546,
+        "total": 100.00000000000001
     }
 }
