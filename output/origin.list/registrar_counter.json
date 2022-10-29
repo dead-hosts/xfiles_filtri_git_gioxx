@@ -1,12 +1,14 @@
 {
     "counter": {
+        "LEXSYNERGY LIMITED": 3,
         "MarkMonitor Inc.": 3,
         "NameCheap, Inc.": 2,
-        "total": 5
+        "total": 8
     },
     "percentage": {
-        "MarkMonitor Inc.": 60.0,
-        "NameCheap, Inc.": 40.0,
+        "LEXSYNERGY LIMITED": 37.5,
+        "MarkMonitor Inc.": 37.5,
+        "NameCheap, Inc.": 25.0,
         "total": 100.0
     }
 }
