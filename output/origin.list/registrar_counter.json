@@ -1,0 +1,12 @@
+{
+    "counter": {
+        "MarkMonitor Inc.": 3,
+        "NameCheap, Inc.": 2,
+        "total": 5
+    },
+    "percentage": {
+        "MarkMonitor Inc.": 60.0,
+        "NameCheap, Inc.": 40.0,
+        "total": 100.0
+    }
+}
