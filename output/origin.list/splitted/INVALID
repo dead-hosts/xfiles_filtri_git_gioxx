@@ -4,3 +4,21 @@
 Subject                                                                                              Status      Source     Expiration Date   Registrar                      HTTP Code  Checker      
 ---------------------------------------------------------------------------------------------------- ----------- ---------- ----------------- ------------------------------ ---------- -------------
 ||ticonsiglio.com/ads.txt$subdocument                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||googletagmanager.com^                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/?rb=*&zoneid=$xmlhttprequest,3p                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||gloaphoo.net^                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||googletagmanager.com/gtag/js$script,redirect-rule=googletagmanager_gtm.js:5                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||increaserev.com^$3p                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||gloaphoo.net^$xhr,domain=send.cm                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||profitablegatetocontent.com^                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||rtmark.net^                                                                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||hostip.info^$3p                                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+googletagmanager_gtm.js                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||abqjournal.com/*/abq-pw-manager.js$script,~third-party                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||glanacion.com/*/metering/*.js$script,domain=lanacion.com.ar                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+rugbypass.com/plus/$inline-script                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||smartwall.theglobeandmail.com^$xmlhttprequest,~third-party                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/loader-wp/*/loader.min.js$script,~third-party,domain=denverpost.com|eastbaytimes.com|mercurynews.com|ocregister.com|pe.com|twincities.com INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+@@||sdk.privacy-center.org$script,domain=abc.es                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||paywall.correiodopovo.com.br$script,~third-party                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||irishexaminer.com/pu_examiner/scripts/engage/$script,~third-party                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
