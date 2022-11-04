@@ -1,16 +1,10 @@
 {
     "counter": {
-        "CSC Corporate Domains, Inc.": 3,
-        "FastDomain Inc.": 1,
-        "GoDaddy.com, LLC": 4,
-        "Tucows Domains Inc.": 3,
-        "total": 11
+        "Key-Systems GmbH": 1,
+        "total": 1
     },
     "percentage": {
-        "CSC Corporate Domains, Inc.": 27.272727272727273,
-        "FastDomain Inc.": 9.090909090909092,
-        "GoDaddy.com, LLC": 36.36363636363637,
-        "Tucows Domains Inc.": 27.272727272727273,
+        "Key-Systems GmbH": 100.0,
         "total": 100.0
     }
 }
