@@ -148,6 +148,11 @@ lookup:
     timeout: 5
     whois: true
 max_http_retries: 3
+oxy:
+    global:
+        http: null
+        https: null
+    rules: []
 proxy:
     global:
         http: null
