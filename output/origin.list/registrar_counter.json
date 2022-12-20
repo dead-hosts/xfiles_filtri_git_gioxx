@@ -1,0 +1,16 @@
+{
+    "counter": {
+        "1API GmbH": 1,
+        "CloudFlare, Inc.": 2,
+        "GoDaddy.com, LLC": 3,
+        "NameCheap, Inc.": 1,
+        "total": 7
+    },
+    "percentage": {
+        "1API GmbH": 14.285714285714286,
+        "CloudFlare, Inc.": 28.571428571428573,
+        "GoDaddy.com, LLC": 42.857142857142854,
+        "NameCheap, Inc.": 14.285714285714286,
+        "total": 100.00000000000001
+    }
+}
