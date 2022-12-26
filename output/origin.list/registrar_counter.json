@@ -1,16 +1,22 @@
 {
     "counter": {
-        "GoDaddy.com, LLC": 5,
+        "1API GmbH ( https://nic.at/registrar/578 )": 3,
+        "CloudFlare, Inc.": 3,
+        "GoDaddy.com, LLC": 7,
+        "Key-Systems": 1,
         "Network Solutions, LLC": 4,
         "Tucows Domains Inc.": 1,
         "eNom, LLC": 1,
-        "total": 11
+        "total": 20
     },
     "percentage": {
-        "GoDaddy.com, LLC": 45.45454545454545,
-        "Network Solutions, LLC": 36.36363636363637,
-        "Tucows Domains Inc.": 9.090909090909092,
-        "eNom, LLC": 9.090909090909092,
+        "1API GmbH ( https://nic.at/registrar/578 )": 15.0,
+        "CloudFlare, Inc.": 15.0,
+        "GoDaddy.com, LLC": 35.0,
+        "Key-Systems": 5.0,
+        "Network Solutions, LLC": 20.0,
+        "Tucows Domains Inc.": 5.0,
+        "eNom, LLC": 5.0,
         "total": 100.0
     }
 }
