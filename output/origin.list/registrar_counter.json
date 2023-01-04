@@ -1,14 +1,20 @@
 {
     "counter": {
+        "CSC Corporate Domains, Inc.": 3,
         "GoDaddy.com, LLC": 4,
         "MarkMonitor Inc.": 3,
         "NameCheap, Inc.": 2,
-        "total": 9
+        "Netcom.cm Sarl": 2,
+        "Tucows Domains Inc.": 2,
+        "total": 16
     },
     "percentage": {
-        "GoDaddy.com, LLC": 44.44444444444444,
-        "MarkMonitor Inc.": 33.333333333333336,
-        "NameCheap, Inc.": 22.22222222222222,
+        "CSC Corporate Domains, Inc.": 18.75,
+        "GoDaddy.com, LLC": 25.0,
+        "MarkMonitor Inc.": 18.75,
+        "NameCheap, Inc.": 12.5,
+        "Netcom.cm Sarl": 12.5,
+        "Tucows Domains Inc.": 12.5,
         "total": 100.0
     }
 }
