@@ -1,14 +1,14 @@
 {
     "counter": {
-        "GoDaddy.com, LLC": 3,
-        "MarkMonitor Inc.": 1,
-        "NameCheap, Inc.": 1,
-        "total": 5
+        "GoDaddy.com, LLC": 4,
+        "MarkMonitor Inc.": 3,
+        "NameCheap, Inc.": 2,
+        "total": 9
     },
     "percentage": {
-        "GoDaddy.com, LLC": 60.0,
-        "MarkMonitor Inc.": 20.0,
-        "NameCheap, Inc.": 20.0,
+        "GoDaddy.com, LLC": 44.44444444444444,
+        "MarkMonitor Inc.": 33.333333333333336,
+        "NameCheap, Inc.": 22.22222222222222,
         "total": 100.0
     }
 }
