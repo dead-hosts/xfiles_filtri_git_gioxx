@@ -1,10 +1,14 @@
 {
     "counter": {
+        "GoDaddy.com, LLC": 1,
         "Key-Systems GmbH": 1,
-        "total": 1
+        "Soluciones Corporativas IP, SL": 1,
+        "total": 3
     },
     "percentage": {
-        "Key-Systems GmbH": 100.0,
+        "GoDaddy.com, LLC": 33.333333333333336,
+        "Key-Systems GmbH": 33.333333333333336,
+        "Soluciones Corporativas IP, SL": 33.333333333333336,
         "total": 100.0
     }
 }
