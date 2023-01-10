@@ -1,12 +1,20 @@
 {
     "counter": {
+        "123-Reg Limited": 1,
         "Combell NV": 2,
+        "GANDI": 3,
+        "MarkMonitor Inc.": 1,
         "Network Solutions, LLC": 3,
-        "total": 5
+        "Online SAS": 2,
+        "total": 12
     },
     "percentage": {
-        "Combell NV": 40.0,
-        "Network Solutions, LLC": 60.0,
-        "total": 100.0
+        "123-Reg Limited": 8.333333333333334,
+        "Combell NV": 16.666666666666668,
+        "GANDI": 25.0,
+        "MarkMonitor Inc.": 8.333333333333334,
+        "Network Solutions, LLC": 25.0,
+        "Online SAS": 16.666666666666668,
+        "total": 100.00000000000001
     }
 }
