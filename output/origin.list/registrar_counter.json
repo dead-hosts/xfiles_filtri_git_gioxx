@@ -1,0 +1,26 @@
+{
+    "counter": {
+        "1API GmbH": 1,
+        "Amazon Registrar, Inc.": 2,
+        "CSC Corporate Domains, Inc.": 1,
+        "GoDaddy.com, LLC": 1,
+        "MarkMonitor Inc.": 1,
+        "Network Solutions, LLC": 3,
+        "Tucows Domains Inc.": 1,
+        "eNom, LLC": 1,
+        "nicar": 1,
+        "total": 12
+    },
+    "percentage": {
+        "1API GmbH": 8.333333333333334,
+        "Amazon Registrar, Inc.": 16.666666666666668,
+        "CSC Corporate Domains, Inc.": 8.333333333333334,
+        "GoDaddy.com, LLC": 8.333333333333334,
+        "MarkMonitor Inc.": 8.333333333333334,
+        "Network Solutions, LLC": 25.0,
+        "Tucows Domains Inc.": 8.333333333333334,
+        "eNom, LLC": 8.333333333333334,
+        "nicar": 8.333333333333334,
+        "total": 99.99999999999999
+    }
+}
