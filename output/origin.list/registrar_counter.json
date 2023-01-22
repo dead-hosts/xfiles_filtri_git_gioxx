@@ -1,26 +1,30 @@
 {
     "counter": {
         "1API GmbH": 1,
-        "Amazon Registrar, Inc.": 2,
+        "Amazon Registrar, Inc.": 4,
         "CSC Corporate Domains, Inc.": 1,
         "GoDaddy.com, LLC": 1,
         "MarkMonitor Inc.": 1,
-        "Network Solutions, LLC": 3,
+        "Network Solutions, LLC": 6,
+        "Rebel Ltd": 1,
         "Tucows Domains Inc.": 1,
+        "Webnames.ca Inc.": 1,
         "eNom, LLC": 1,
         "nicar": 1,
-        "total": 12
+        "total": 19
     },
     "percentage": {
-        "1API GmbH": 8.333333333333334,
-        "Amazon Registrar, Inc.": 16.666666666666668,
-        "CSC Corporate Domains, Inc.": 8.333333333333334,
-        "GoDaddy.com, LLC": 8.333333333333334,
-        "MarkMonitor Inc.": 8.333333333333334,
-        "Network Solutions, LLC": 25.0,
-        "Tucows Domains Inc.": 8.333333333333334,
-        "eNom, LLC": 8.333333333333334,
-        "nicar": 8.333333333333334,
-        "total": 99.99999999999999
+        "1API GmbH": 5.2631578947368425,
+        "Amazon Registrar, Inc.": 21.05263157894737,
+        "CSC Corporate Domains, Inc.": 5.2631578947368425,
+        "GoDaddy.com, LLC": 5.2631578947368425,
+        "MarkMonitor Inc.": 5.2631578947368425,
+        "Network Solutions, LLC": 31.57894736842105,
+        "Rebel Ltd": 5.2631578947368425,
+        "Tucows Domains Inc.": 5.2631578947368425,
+        "Webnames.ca Inc.": 5.2631578947368425,
+        "eNom, LLC": 5.2631578947368425,
+        "nicar": 5.2631578947368425,
+        "total": 100.00000000000003
     }
 }
