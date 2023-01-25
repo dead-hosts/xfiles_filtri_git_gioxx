@@ -1,0 +1,14 @@
+{
+    "counter": {
+        "Amazon Registrar, Inc.": 5,
+        "CSC Corporate Domains, Inc.": 1,
+        "easyDNS Technologies Inc.": 3,
+        "total": 9
+    },
+    "percentage": {
+        "Amazon Registrar, Inc.": 55.55555555555556,
+        "CSC Corporate Domains, Inc.": 11.11111111111111,
+        "easyDNS Technologies Inc.": 33.333333333333336,
+        "total": 100.0
+    }
+}
