@@ -3,22 +3,32 @@
         "1API GmbH ( https://nic.at/registrar/578 )": 1,
         "CloudFlare, Inc.": 2,
         "Dynadot, LLC": 1,
-        "GoDaddy.com, LLC": 7,
+        "GoDaddy.com, LLC": 12,
         "Key-Systems": 1,
+        "LEXSYNERGY LIMITED": 3,
+        "NameCheap, Inc.": 1,
+        "NameSilo, LLC": 1,
         "Network Solutions, LLC": 4,
+        "OVH sas": 2,
+        "SafeBrands SAS": 1,
         "Tucows Domains Inc.": 1,
         "eNom, LLC": 1,
-        "total": 18
+        "total": 31
     },
     "percentage": {
-        "1API GmbH ( https://nic.at/registrar/578 )": 5.555555555555555,
-        "CloudFlare, Inc.": 11.11111111111111,
-        "Dynadot, LLC": 5.555555555555555,
-        "GoDaddy.com, LLC": 38.888888888888886,
-        "Key-Systems": 5.555555555555555,
-        "Network Solutions, LLC": 22.22222222222222,
-        "Tucows Domains Inc.": 5.555555555555555,
-        "eNom, LLC": 5.555555555555555,
-        "total": 100.0
+        "1API GmbH ( https://nic.at/registrar/578 )": 3.225806451612903,
+        "CloudFlare, Inc.": 6.451612903225806,
+        "Dynadot, LLC": 3.225806451612903,
+        "GoDaddy.com, LLC": 38.70967741935484,
+        "Key-Systems": 3.225806451612903,
+        "LEXSYNERGY LIMITED": 9.67741935483871,
+        "NameCheap, Inc.": 3.225806451612903,
+        "NameSilo, LLC": 3.225806451612903,
+        "Network Solutions, LLC": 12.903225806451612,
+        "OVH sas": 6.451612903225806,
+        "SafeBrands SAS": 3.225806451612903,
+        "Tucows Domains Inc.": 3.225806451612903,
+        "eNom, LLC": 3.225806451612903,
+        "total": 99.99999999999997
     }
 }
