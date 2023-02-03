@@ -3720,3 +3720,15 @@ http://banners.sponsoradulto.com/,AVAILABILITY,origin.list,2023-01-31 06:29:03.6
 http://banner.b2b24.it,AVAILABILITY,origin.list,2023-01-31 06:29:10.196750
 http://banners.sugeridos.com/,AVAILABILITY,origin.list,2023-01-31 06:29:12.509995
 http://devart.adbureau.net,AVAILABILITY,origin.list,2023-01-31 06:29:16.752033
+"||axate.io$script,third-party",AVAILABILITY,origin.list,2023-02-03 06:06:50.868669
+"@@||piano.io^$script,third-party,domain=brusselstimes.com",AVAILABILITY,origin.list,2023-02-03 06:06:52.389340
+"@@/zephr/feature$xmlhttprequest,domain=nationalreview.com",AVAILABILITY,origin.list,2023-02-03 06:06:53.285180
+"||ndcmediagroep.nl/js/evolok/$script,domain=dvhn.nl",AVAILABILITY,origin.list,2023-02-03 06:07:02.723566
+"||lavanguardia.com/js/godo-basex-$script,domain=lavanguardia.com|mundodeportivo.com",AVAILABILITY,origin.list,2023-02-03 06:08:51.058653
+"||scripts.repubblica.it/pw/pw.js$script,domain=lescienze.it|italian.tech",AVAILABILITY,origin.list,2023-02-03 06:09:40.006701
+"||seattletimes.com/wp-content/*/st-user-messaging-main-bundle.js$script,~third-party",AVAILABILITY,origin.list,2023-02-03 06:10:19.532072
+heraldo.es/noticias/$inline-script,AVAILABILITY,origin.list,2023-02-03 06:11:05.035832
+"||tweakers.net/x/build/wedonttrack.*.js$script,~third-party",AVAILABILITY,origin.list,2023-02-03 06:11:13.504830
+"augsburger-allgemeine.de,muensterschezeitung.de,mz.de,westfalen-blatt.de,wn.de,volksstimme.de",AVAILABILITY,origin.list,2023-02-03 06:11:15.049230
+"adelaidenow.com.au,codesports.com.au,couriermail.com.au,dailytelegraph.com.au,goldcoastbulletin.com.au,heraldsun.com.au,ntnews.com.au,theaustralian.com.au,thechronicle.com.au,themercury.com.au,weeklytimesnow.com.au",AVAILABILITY,origin.list,2023-02-03 06:11:15.347592
+"corriere.it,ilfattoquotidiano.it,ilfoglio.it",AVAILABILITY,origin.list,2023-02-03 06:11:16.618387
