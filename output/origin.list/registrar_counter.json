@@ -1,20 +1,22 @@
 {
     "counter": {
         "CSC Corporate Domains, Inc.": 3,
+        "FastDomain Inc.": 1,
         "GoDaddy.com, LLC": 4,
         "MarkMonitor Inc.": 3,
         "NameCheap, Inc.": 2,
         "Netcom.cm Sarl": 2,
         "Tucows Domains Inc.": 2,
-        "total": 16
+        "total": 17
     },
     "percentage": {
-        "CSC Corporate Domains, Inc.": 18.75,
-        "GoDaddy.com, LLC": 25.0,
-        "MarkMonitor Inc.": 18.75,
-        "NameCheap, Inc.": 12.5,
-        "Netcom.cm Sarl": 12.5,
-        "Tucows Domains Inc.": 12.5,
+        "CSC Corporate Domains, Inc.": 17.647058823529413,
+        "FastDomain Inc.": 5.882352941176471,
+        "GoDaddy.com, LLC": 23.529411764705884,
+        "MarkMonitor Inc.": 17.647058823529413,
+        "NameCheap, Inc.": 11.764705882352942,
+        "Netcom.cm Sarl": 11.764705882352942,
+        "Tucows Domains Inc.": 11.764705882352942,
         "total": 100.0
     }
 }
