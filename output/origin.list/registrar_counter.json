@@ -1,14 +1,24 @@
 {
     "counter": {
+        "123-Reg Limited": 1,
         "CSC Corporate Domains, Inc.": 1,
+        "Combell NV": 2,
+        "GANDI": 3,
+        "MarkMonitor Inc.": 1,
         "Network Solutions, LLC": 3,
         "OVH sas": 1,
-        "total": 5
+        "Online SAS": 2,
+        "total": 14
     },
     "percentage": {
-        "CSC Corporate Domains, Inc.": 20.0,
-        "Network Solutions, LLC": 60.0,
-        "OVH sas": 20.0,
+        "123-Reg Limited": 7.142857142857143,
+        "CSC Corporate Domains, Inc.": 7.142857142857143,
+        "Combell NV": 14.285714285714286,
+        "GANDI": 21.428571428571427,
+        "MarkMonitor Inc.": 7.142857142857143,
+        "Network Solutions, LLC": 21.428571428571427,
+        "OVH sas": 7.142857142857143,
+        "Online SAS": 14.285714285714286,
         "total": 100.0
     }
 }
