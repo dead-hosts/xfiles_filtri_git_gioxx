@@ -1,0 +1,14 @@
+{
+    "counter": {
+        "CSC Corporate Domains, Inc.": 1,
+        "Network Solutions, LLC": 3,
+        "OVH sas": 1,
+        "total": 5
+    },
+    "percentage": {
+        "CSC Corporate Domains, Inc.": 20.0,
+        "Network Solutions, LLC": 60.0,
+        "OVH sas": 20.0,
+        "total": 100.0
+    }
+}
