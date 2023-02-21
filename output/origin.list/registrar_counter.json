@@ -1,18 +1,24 @@
 {
     "counter": {
         "1API GmbH": 1,
+        "Amazon Registrar, Inc.": 3,
         "CloudFlare, Inc.": 2,
         "GANDI": 2,
         "GoDaddy.com, LLC": 3,
+        "Letshost": 1,
         "NameCheap, Inc.": 2,
-        "total": 10
+        "Register.com, Inc.": 2,
+        "total": 16
     },
     "percentage": {
-        "1API GmbH": 10.0,
-        "CloudFlare, Inc.": 20.0,
-        "GANDI": 20.0,
-        "GoDaddy.com, LLC": 30.0,
-        "NameCheap, Inc.": 20.0,
+        "1API GmbH": 6.25,
+        "Amazon Registrar, Inc.": 18.75,
+        "CloudFlare, Inc.": 12.5,
+        "GANDI": 12.5,
+        "GoDaddy.com, LLC": 18.75,
+        "Letshost": 6.25,
+        "NameCheap, Inc.": 12.5,
+        "Register.com, Inc.": 12.5,
         "total": 100.0
     }
 }
