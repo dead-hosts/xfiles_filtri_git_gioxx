@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-http://banners.sponsoradulto.com/,AVAILABILITY,origin.list,2023-02-27 06:51:21.891896
-http://banners.sugeridos.com/,AVAILABILITY,origin.list,2023-02-27 06:51:26.310937
-http://banner.b2b24.it,AVAILABILITY,origin.list,2023-02-27 06:51:27.564491
-http://devart.adbureau.net,AVAILABILITY,origin.list,2023-02-27 06:51:32.751113
 ||paywall.fewcents.co/static/js/paywall.js,AVAILABILITY,origin.list,2023-03-02 06:17:14.239832
 "||piano.io/xbuilder/experience/execute$xmlhttprequest,third-party",AVAILABILITY,origin.list,2023-03-02 06:17:15.115299
 @@||piano.io^$domain=asia.nikkei.com|businesspost.ie|japantimes.co.jp|kurier.at,AVAILABILITY,origin.list,2023-03-02 06:17:15.439610
@@ -3752,3 +3748,7 @@ http://www.webalice.it/luca.lepore/database.gif,AVAILABILITY,origin.list,2023-03
 http://reallybig.spinbox.net/DA/,AVAILABILITY,origin.list,2023-03-02 06:38:34.643837
 http://www.popadvert.com/fastadv*,AVAILABILITY,origin.list,2023-03-02 06:38:37.720922
 http://ad.bnmla.com/serve,AVAILABILITY,origin.list,2023-03-02 06:38:38.264127
+http://banners.sponsoradulto.com/,AVAILABILITY,origin.list,2023-03-02 06:43:45.129058
+http://banner.b2b24.it,AVAILABILITY,origin.list,2023-03-02 06:43:48.987663
+http://banners.sugeridos.com/,AVAILABILITY,origin.list,2023-03-02 06:43:49.003628
+http://devart.adbureau.net,AVAILABILITY,origin.list,2023-03-02 06:43:49.039664
