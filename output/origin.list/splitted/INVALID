@@ -7,3 +7,10 @@ Subject                                                                         
 ||piano.io/xbuilder/experience/execute$xmlhttprequest,third-party                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 @@||piano.io^$domain=asia.nikkei.com|businesspost.ie|japantimes.co.jp|kurier.at                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||abril.com.br/*/abril-paywall/$script,~third-party                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||ndcmediagroep.nl/js/evolok/$script,domain=dvhn.nl|lc.nl                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+.com/webfiles/*/js/metering.js$script,third-party,domain=hbook.com|libraryjournal.com|slj.com        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||outsideonline.com/*/MegaRegWall*.js$script,~third-party                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+artsenkrant.com,femmesdaujourdhui.be,flair.be,knack.be,kw.be,levif.be,libelle.be                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+artsenkrant.com,femmesdaujourdhui.be,flair.be,knack.be,kw.be,levif.be,libelle.be                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||substackcdn.com/min/main.bundle.js$script,domain=codebeautify.org                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||meter.in.bonhill.pbc.io/api/views$xmlhttprequest,domain=investmentnews.com                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
