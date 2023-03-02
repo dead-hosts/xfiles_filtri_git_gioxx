@@ -1,14 +1,16 @@
 {
     "counter": {
-        "Amazon Registrar, Inc.": 5,
-        "CSC Corporate Domains, Inc.": 1,
-        "SafeBrands SAS": 1,
-        "total": 7
+        "GoDaddy.com, LLC": 5,
+        "Network Solutions, LLC": 4,
+        "Tucows Domains Inc.": 1,
+        "eNom, LLC": 1,
+        "total": 11
     },
     "percentage": {
-        "Amazon Registrar, Inc.": 71.42857142857143,
-        "CSC Corporate Domains, Inc.": 14.285714285714286,
-        "SafeBrands SAS": 14.285714285714286,
-        "total": 100.00000000000001
+        "GoDaddy.com, LLC": 45.45454545454545,
+        "Network Solutions, LLC": 36.36363636363637,
+        "Tucows Domains Inc.": 9.090909090909092,
+        "eNom, LLC": 9.090909090909092,
+        "total": 100.0
     }
 }
