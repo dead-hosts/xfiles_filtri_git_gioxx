@@ -1,10 +1,22 @@
 {
     "counter": {
+        "GKG.NET, INC.": 1,
+        "GoDaddy.com, LLC": 1,
         "Key-Systems GmbH": 1,
-        "total": 1
+        "MarkMonitor Inc.": 2,
+        "Network Solutions, LLC": 2,
+        "Soluciones Corporativas IP, SL": 1,
+        "Telia Inmics-Nebula Oy": 1,
+        "total": 9
     },
     "percentage": {
-        "Key-Systems GmbH": 100.0,
+        "GKG.NET, INC.": 11.11111111111111,
+        "GoDaddy.com, LLC": 11.11111111111111,
+        "Key-Systems GmbH": 11.11111111111111,
+        "MarkMonitor Inc.": 22.22222222222222,
+        "Network Solutions, LLC": 22.22222222222222,
+        "Soluciones Corporativas IP, SL": 11.11111111111111,
+        "Telia Inmics-Nebula Oy": 11.11111111111111,
         "total": 100.0
     }
 }
