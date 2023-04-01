@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-http://www.webalice.it/luca.lepore/database.gif,AVAILABILITY,origin.list,2023-03-29 06:05:42.864373
-193.196.53.232,AVAILABILITY,origin.list,2023-03-29 06:05:44.761912
-http://reallybig.spinbox.net/DA/,AVAILABILITY,origin.list,2023-03-29 06:05:48.705020
-http://www.popadvert.com/fastadv*,AVAILABILITY,origin.list,2023-03-29 06:05:50.988492
-http://banners.sponsoradulto.com/,AVAILABILITY,origin.list,2023-03-29 06:05:58.348582
-http://banners.sugeridos.com/,AVAILABILITY,origin.list,2023-03-29 06:06:02.359931
-http://ad.bnmla.com/serve,AVAILABILITY,origin.list,2023-03-29 06:06:05.606790
-http://banner.b2b24.it,AVAILABILITY,origin.list,2023-03-29 06:06:09.171174
-http://devart.adbureau.net,AVAILABILITY,origin.list,2023-03-29 06:06:11.452011
 "ansa.it/sito/js/cookie_wall.js$1p,script,redirect=noopjs!",AVAILABILITY,origin.list,2023-04-01 05:48:02.143713
 @@||piano.io^$domain=asia.nikkei.com|businesspost.ie|japantimes.co.jp|kurier.at|onet.pl,AVAILABILITY,origin.list,2023-04-01 05:48:02.246136
 [noads,AVAILABILITY,origin.list,2023-04-01 05:48:02.645314
@@ -3766,3 +3757,12 @@ http://www.mediaplazza.com/banners,AVAILABILITY,origin.list,2023-04-01 06:10:23.
 http://pics.mediaplazza.com/icons/banners/,AVAILABILITY,origin.list,2023-04-01 06:10:23.960185
 31.220.58.29,AVAILABILITY,origin.list,2023-04-01 06:10:24.073525
 http://srs.targetpoint.com/,AVAILABILITY,origin.list,2023-04-01 06:10:26.517620
+http://www.webalice.it/luca.lepore/database.gif,AVAILABILITY,origin.list,2023-04-01 06:15:17.105699
+193.196.53.232,AVAILABILITY,origin.list,2023-04-01 06:15:17.316162
+http://reallybig.spinbox.net/DA/,AVAILABILITY,origin.list,2023-04-01 06:15:21.047803
+http://www.popadvert.com/fastadv*,AVAILABILITY,origin.list,2023-04-01 06:15:23.109197
+http://banners.sponsoradulto.com/,AVAILABILITY,origin.list,2023-04-01 06:15:23.161020
+http://banners.sugeridos.com/,AVAILABILITY,origin.list,2023-04-01 06:15:37.564237
+http://ad.bnmla.com/serve,AVAILABILITY,origin.list,2023-04-01 06:15:38.415434
+http://banner.b2b24.it,AVAILABILITY,origin.list,2023-04-01 06:15:41.510183
+http://devart.adbureau.net,AVAILABILITY,origin.list,2023-04-01 06:15:43.565318
