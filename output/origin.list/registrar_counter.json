@@ -1,20 +1,14 @@
 {
     "counter": {
-        "Entorno Digital, S.A.": 1,
-        "GoDaddy.com, LLC": 8,
-        "MarkMonitor Inc.": 2,
-        "Moniker Online Services LLC": 1,
-        "Register.com, Inc.": 1,
-        "TurnCommerce, Inc. DBA NameBright.com": 2,
-        "total": 15
+        "GoDaddy.com, LLC": 4,
+        "MarkMonitor Inc.": 1,
+        "NameCheap, Inc.": 2,
+        "total": 7
     },
     "percentage": {
-        "Entorno Digital, S.A.": 6.666666666666667,
-        "GoDaddy.com, LLC": 53.333333333333336,
-        "MarkMonitor Inc.": 13.333333333333334,
-        "Moniker Online Services LLC": 6.666666666666667,
-        "Register.com, Inc.": 6.666666666666667,
-        "TurnCommerce, Inc. DBA NameBright.com": 13.333333333333334,
+        "GoDaddy.com, LLC": 57.142857142857146,
+        "MarkMonitor Inc.": 14.285714285714286,
+        "NameCheap, Inc.": 28.571428571428573,
         "total": 100.0
     }
 }
