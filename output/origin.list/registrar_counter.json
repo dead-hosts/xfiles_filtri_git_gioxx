@@ -1,0 +1,32 @@
+{
+    "counter": {
+        "Amazon Registrar, Inc.": 4,
+        "CSC Corporate Domains, Inc.": 1,
+        "GoDaddy.com, LLC": 1,
+        "INCZ-0001": 1,
+        "MarkMonitor Inc.": 1,
+        "Network Solutions, LLC": 3,
+        "Rebel Ltd": 1,
+        "Tucows Domains Inc.": 1,
+        "Webnames.ca Inc.": 2,
+        "eNom, LLC": 1,
+        "easyDNS Technologies Inc.": 3,
+        "nicar": 1,
+        "total": 20
+    },
+    "percentage": {
+        "Amazon Registrar, Inc.": 20.0,
+        "CSC Corporate Domains, Inc.": 5.0,
+        "GoDaddy.com, LLC": 5.0,
+        "INCZ-0001": 5.0,
+        "MarkMonitor Inc.": 5.0,
+        "Network Solutions, LLC": 15.0,
+        "Rebel Ltd": 5.0,
+        "Tucows Domains Inc.": 5.0,
+        "Webnames.ca Inc.": 10.0,
+        "eNom, LLC": 5.0,
+        "easyDNS Technologies Inc.": 15.0,
+        "nicar": 5.0,
+        "total": 100.0
+    }
+}
