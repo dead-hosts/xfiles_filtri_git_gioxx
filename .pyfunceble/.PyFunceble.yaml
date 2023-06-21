@@ -1,5 +1,6 @@
+adblock: true
 cli_decoding:
-    adblock: true
+    adblock: false
     aggressive: false
     rpz: false
     wildcard: false
@@ -85,6 +86,7 @@ http_codes:
         - 416
         - 451
         potentially_up:
+        - 0
         - 300
         - 301
         - 302
