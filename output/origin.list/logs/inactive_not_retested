@@ -3159,3 +3159,12 @@ cookie
 ||wallpoper.com^$csp=worker-src
 'none'
 steamplay.*
+@@||goodreads.com^
+||cdn.onesignal.com^
+cineblog01.tv/ads_rot/
+ilgarantista.it/wp-content/uploads/adv-skin.jpg
+wininizio.it/immagini/ads/
+||tripadvisor.it/SimilarHotelsPopunder$popup,domain=tripadvisor.it
+cultura.rai.it/$popup
+jojomedia.net/fastvideo.php
+-pubblicit%c3%a0-
