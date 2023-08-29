@@ -1,26 +1,22 @@
 {
     "counter": {
-        "CSC Corporate Domains, Inc.": 2,
+        "1API GmbH ( https://nic.at/registrar/578 )": 6,
+        "Amazon Registrar, Inc.": 2,
         "CloudFlare, Inc.": 2,
-        "GoDaddy.com, LLC": 2,
-        "IONOS SE": 2,
-        "Moniker Online Services LLC": 2,
-        "NameCheap, Inc.": 10,
-        "Network Solutions, LLC": 4,
-        "Nom-iq Ltd. dba COM LAUDE": 2,
-        "SDV6TM": 4,
-        "total": 30
+        "Key-Systems": 2,
+        "MarkMonitor Inc.": 4,
+        "NameCheap, Inc.": 2,
+        "OVH sas": 6,
+        "total": 24
     },
     "percentage": {
-        "CSC Corporate Domains, Inc.": 6.666666666666667,
-        "CloudFlare, Inc.": 6.666666666666667,
-        "GoDaddy.com, LLC": 6.666666666666667,
-        "IONOS SE": 6.666666666666667,
-        "Moniker Online Services LLC": 6.666666666666667,
-        "NameCheap, Inc.": 33.333333333333336,
-        "Network Solutions, LLC": 13.333333333333334,
-        "Nom-iq Ltd. dba COM LAUDE": 6.666666666666667,
-        "SDV6TM": 13.333333333333334,
+        "1API GmbH ( https://nic.at/registrar/578 )": 25.0,
+        "Amazon Registrar, Inc.": 8.333333333333334,
+        "CloudFlare, Inc.": 8.333333333333334,
+        "Key-Systems": 8.333333333333334,
+        "MarkMonitor Inc.": 16.666666666666668,
+        "NameCheap, Inc.": 8.333333333333334,
+        "OVH sas": 25.0,
         "total": 100.0
     }
 }
