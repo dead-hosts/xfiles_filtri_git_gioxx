@@ -1,40 +1,10 @@
 {
     "counter": {
-        "1API GmbH ( https://nic.at/registrar/578 )": 6,
-        "Afriregister Limited": 4,
-        "Amazon Registrar, Inc.": 6,
-        "CloudFlare, Inc.": 2,
-        "DreamHost, LLC": 4,
-        "GANDI": 2,
-        "Gandi SAS": 2,
-        "GoDaddy.com, LLC": 14,
-        "Key-Systems": 2,
-        "LEXSYNERGY LIMITED": 2,
-        "MarkMonitor Inc.": 4,
-        "NameCheap, Inc.": 6,
-        "Network Solutions, LLC": 4,
-        "OVH sas": 6,
-        "Tucows Domains Inc.": 8,
-        "Voyager Internet Ltd T/A 1st Domains": 2,
-        "total": 74
+        "Webcentral Group Ltd T/A Melbourne IT": 2,
+        "total": 2
     },
     "percentage": {
-        "1API GmbH ( https://nic.at/registrar/578 )": 8.108108108108109,
-        "Afriregister Limited": 5.405405405405405,
-        "Amazon Registrar, Inc.": 8.108108108108109,
-        "CloudFlare, Inc.": 2.7027027027027026,
-        "DreamHost, LLC": 5.405405405405405,
-        "GANDI": 2.7027027027027026,
-        "Gandi SAS": 2.7027027027027026,
-        "GoDaddy.com, LLC": 18.91891891891892,
-        "Key-Systems": 2.7027027027027026,
-        "LEXSYNERGY LIMITED": 2.7027027027027026,
-        "MarkMonitor Inc.": 5.405405405405405,
-        "NameCheap, Inc.": 8.108108108108109,
-        "Network Solutions, LLC": 5.405405405405405,
-        "OVH sas": 8.108108108108109,
-        "Tucows Domains Inc.": 10.81081081081081,
-        "Voyager Internet Ltd T/A 1st Domains": 2.7027027027027026,
+        "Webcentral Group Ltd T/A Melbourne IT": 100.0,
         "total": 100.0
     }
 }
