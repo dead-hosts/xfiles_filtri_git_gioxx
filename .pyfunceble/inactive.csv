@@ -3884,3 +3884,5 @@ http://www.mediaplazza.com/banners,AVAILABILITY,origin.list,2023-10-16 05:38:45.
 http://www.webalice.it/luca.lepore/database.gif,AVAILABILITY,origin.list,2023-10-16 05:38:45.616349
 http://www.mediaplazza.com/html/banners/display_banner.php,AVAILABILITY,origin.list,2023-10-16 05:38:45.754503
 http://www.popadvert.com/fastadv*,AVAILABILITY,origin.list,2023-10-16 05:38:54.735304
+"||bhaskar.com/assets/js/react-*.bundle.js$script,~third-party",AVAILABILITY,origin.list,2023-10-19 05:27:01.008652
+"||businesspost.ie/api/tinypass.min.js$script,~third-party",AVAILABILITY,origin.list,2023-10-19 05:27:02.111047
