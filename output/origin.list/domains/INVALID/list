@@ -3,3 +3,20 @@
 
 ||bhaskar.com/assets/js/react-*.bundle.js$script,~third-party
 ||businesspost.ie/api/tinypass.min.js$script,~third-party
+||estadao.com.br/paywall/$script,~third-party
+||estadao.com.br/access.js$script,~third-party
+||foreignaffairs.com/sites/default/files/css/css_VQZ*.css$stylesheet,~third-party
+||mexiconewsdaily.com/wp-content/plugins/leaky-paywall/js/leaky-paywall-cookie.js$script,~third-party
+||blink.net/*/blink-sdk.js$script,domain=newrepublic.com|thebaffler.com
+||texasmonthly.com/script.js$script,~third-party
+/\.vn\.at\/.+\/\d{4}\//$inline-script
+.com/journey/compiler/build-*.js$script,domain=architecturaldigest.com|bonappetit.com|cntraveler.com|epicurious.com|gq.com|newyorker.com|vanityfair.com|vogue.com|wired.com
+architecturaldigest.com,bonappetit.com,cntraveler.com,epicurious.com,gq.com,newyorker.com,vanityfair.com,vogue.com,wired.com
+architecturaldigest.com,bonappetit.com,cntraveler.com,epicurious.com,gq.com,newyorker.com,vanityfair.com,vogue.com,wired.com
+architecturaldigest.com,bonappetit.com,cntraveler.com,epicurious.com,gq.com,newyorker.com,vanityfair.com,vogue.com,wired.com
+||subscription-static-global.nhst.tech$script,domain=europower.no|fiskeribladet.no|intrafish.com|intrafish.no|rechargenews.com|tradewindsnews.com|upstreamonline.com
+||artsprofessional.co.uk/*/js/content_paywall.js$script,~third-party
+||dominionpost.com/wp-content/plugins/leaky-paywall/js/leaky-paywall-cookie.js$script,~third-party
+||lasvegasadvisor.com/opt/*.js$script,~third-party
+||lasvegasadvisor.com/js/access.min.js$script,~third-party
+||spectrejournal.com/wp-content/plugins/elementor/*/dialog.min.js$script,~third-party
