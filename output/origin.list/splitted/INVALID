@@ -7,3 +7,4 @@ Subject                                                                         
 @@cdn.cxense.com^$script,domain=bizjournals.com|journaldemontreal.com|journaldequebec.com            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||wgchrrammzv.com/prod/ajc/loader.min.js$script,domain=dayton.com|daytondailynews.com|journal-news.com|springfieldnewssun.com INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 apollo-magazine.com,spectator.co.uk                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||loader.masthead.me^$script,domain=centralmaine.com|pressherald.com|sunjournal.com                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
