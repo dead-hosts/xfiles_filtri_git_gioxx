@@ -3901,3 +3901,8 @@ http://www.mediaplazza.com/banners,AVAILABILITY,origin.list,2023-10-31 05:40:21.
 http://www.webalice.it/luca.lepore/database.gif,AVAILABILITY,origin.list,2023-10-31 05:40:22.387380
 http://www.mediaplazza.com/html/banners/display_banner.php,AVAILABILITY,origin.list,2023-10-31 05:40:23.061367
 http://www.popadvert.com/fastadv*,AVAILABILITY,origin.list,2023-10-31 05:40:31.671729
+"||googlevideo.com/videoplayback?*&ctier=L&$xmlhttprequest,domain=m.youtube.com|music.youtube.com|www.youtube.com,badfilter!",AVAILABILITY,origin.list,2023-11-03 05:25:31.422591
+m.youtube.com,AVAILABILITY,origin.list,2023-11-03 05:25:32.314398
+"@@cdn.cxense.com^$script,domain=bizjournals.com|journaldemontreal.com|journaldequebec.com",AVAILABILITY,origin.list,2023-11-03 05:25:40.443051
+"||wgchrrammzv.com/prod/ajc/loader.min.js$script,domain=dayton.com|daytondailynews.com|journal-news.com|springfieldnewssun.com",AVAILABILITY,origin.list,2023-11-03 05:25:42.668668
+"apollo-magazine.com,spectator.co.uk",AVAILABILITY,origin.list,2023-11-03 05:25:43.630924
